@@ -1,0 +1,1879 @@
+iata,name,country,region,latitude,longitude,facility_type,init_capacity,security_level,in_charge
+OCA,Ocean Reef Club Airport,US,US-FL,25.325399398804,-80.274803161621,small_airport,0,10,False
+PQS,Pilot Station Airport,US,US-AK,61.934601,-162.899994,small_airport,0,10,False
+CSE,Crested Butte Airpark,US,US-CO,38.851918,-106.928341,small_airport,0,10,True
+JCY,LBJ Ranch Airport,US,US-TX,30.251800537100003,-98.62249755859999,small_airport,0,10,True
+PMX,Metropolitan Airport,US,US-MA,42.223300933800004,-72.31140136719999,small_airport,0,10,False
+NUP,Nunapitchuk Airport,US,US-AK,60.905591,-162.440454,small_airport,0,10,False
+ICY,Icy Bay Airport,US,US-AK,59.96900177,-141.662002563,small_airport,0,10,False
+KKK,Kalakaket Creek AS Airport,US,US-AK,64.4166256967,-156.820392609,small_airport,0,10,False
+MHS,Dunsmuir Muni-Mott Airport,US,US-CA,41.263199,-122.272003,small_airport,0,10,False
+GCT,Grand Canyon Bar Ten Airstrip,US,US-AZ,36.259701,-113.231003,small_airport,0,10,True
+LVD,Lime Village Airport,US,US-AK,61.3591003418,-155.440002441,small_airport,0,10,False
+HGZ,Hog River Airport,US,US-AK,66.2161026,-155.6690063,small_airport,0,10,False
+OTN,Ed-Air Airport,US,US-IN,38.851398468,-87.4997024536,small_airport,0,10,True
+TLF,Telida Airport,US,US-AK,63.393901824951,-153.26899719238,small_airport,0,10,False
+BZT,Eagle Air Park,US,US-TX,28.982200622559,-95.579696655273,small_airport,0,10,True
+BYW,Blakely Island Airport,US,US-WA,48.578998565700005,-122.825996399,small_airport,0,10,False
+DRF,Drift River Airport,US,US-AK,60.588901519800004,-152.162002563,small_airport,0,10,False
+BDF,Rinkenberger Restricted Landing Area,US,US-IL,41.230899810800004,-89.61569976810001,small_airport,0,10,False
+VRS,Roy Otten Memorial Airfield,US,US-MO,38.427799224854,-92.875198364258,small_airport,0,10,True
+ATT,Atmautluak Airport,US,US-AK,60.866699,-162.272995,small_airport,0,10,False
+LIV,Livengood Camp Airport,US,US-AK,65.467,-148.6534,small_airport,0,10,False
+PDB,Pedro Bay Airport,US,US-AK,59.7896003723,-154.12399292,small_airport,0,10,False
+KOZ,Ouzinkie Airport,US,US-AK,57.925362,-152.496715,small_airport,0,10,False
+TNK,Tununak Airport,US,US-AK,60.575500488281,-165.27200317383,small_airport,0,10,False
+WKK,Aleknagik / New Airport,US,US-AK,59.2826004028,-158.617996216,medium_airport,0,20,False
+NNK,Naknek Airport,US,US-AK,58.732898712158,-157.02000427246,small_airport,0,10,False
+BCS,Southern Seaplane Airport,US,US-LA,29.8661003113,-90.0222015381,small_airport,0,10,True
+BWL,Earl Henry Airport,US,US-OK,36.7958984375,-97.3170013428,small_airport,0,10,True
+CWS,Center Island Airport,US,US-WA,48.4901008606,-122.832000732,small_airport,0,10,False
+TEK,Tatitlek Airport,US,US-AK,60.871449,-146.690297,small_airport,0,10,False
+DUF,Pine Island Airport,US,US-NC,36.2535018921,-75.7884979248,small_airport,0,10,False
+SSW,Stuart Island Airpark,US,US-WA,48.672901153564,-123.17600250244,small_airport,0,10,False
+FOB,Fort Bragg Airport,US,US-CA,39.4743003845,-123.79599762,small_airport,0,10,True
+AXB,Maxson Airfield,US,US-NY,44.312002,-75.90034,small_airport,0,10,False
+REE,Reese Airpark,US,US-TX,33.590301513672,-102.03700256348,small_airport,0,10,True
+WDN,Waldronaire Airport,US,US-WA,48.7117996216,-123.017997742,small_airport,0,10,False
+CHU,Chuathbaluk Airport,US,US-AK,61.579102,-159.216003,small_airport,0,10,False
+UGS,Ugashik Airport,US,US-AK,57.5279006958,-157.399002075,small_airport,0,10,False
+MXG,Marlboro Airport,US,US-MA,42.343201,-71.509002,small_airport,0,10,False
+KLL,Levelock Airport,US,US-AK,59.128101348899996,-156.85899353,small_airport,0,10,False
+WTL,Tuntutuliak Airport,US,US-AK,60.3353004456,-162.667007446,small_airport,0,10,False
+TWA,Twin Hills Airport,US,US-AK,59.07559967041,-160.27299499512,small_airport,0,10,False
+KCQ,Chignik Lake Airport,US,US-AK,56.2550010681,-158.774993896,small_airport,0,10,False
+CEX,Chena Hot Springs Airport,US,US-AK,65.0518035889,-146.04699707,small_airport,0,10,False
+SOL,Solomon State Field,US,US-AK,64.5605,-164.4457,small_airport,0,10,False
+HED,Herendeen Bay Airport,US,US-AK,55.801399231,-160.899002075,small_airport,0,10,False
+TWE,Taylor Airport,US,US-AK,65.6792984009,-164.798995972,small_airport,0,10,False
+LNI,Lonely Air Station,US,US-AK,70.91069794,-153.2420044,small_airport,0,10,False
+CDL,Candle 2 Airport,US,US-AK,65.907699585,-161.925994873,small_airport,0,10,False
+BSZ,Bartletts Airport,US,US-AK,58.2162017822,-157.352005005,small_airport,0,10,False
+BSW,Boswell Bay Airport,US,US-AK,60.4230995178,-146.145996094,small_airport,0,10,False
+TGE,Sharpe Field,US,US-AL,32.4919013977,-85.7755966187,small_airport,0,10,True
+AQY,Girdwood Airport,US,US-AK,60.966099,-149.126007,small_airport,0,10,False
+BKG,Branson Airport,US,US-MO,36.532082,-93.200544,small_airport,68,10,True
+ILL,Willmar Municipal -John L Rice Field,US,US-MN,45.11769867,-95.13040161,small_airport,0,10,False
+BOK,Brookings Airport,US,US-OR,42.0746,-124.290001,small_airport,0,10,False
+BYA,Boundary Airport,US,US-AK,64.0783004761,-141.113006592,small_airport,0,10,False
+CHP,Circle Hot Springs Airport,US,US-AK,65.485496521,-144.610992432,small_airport,0,10,False
+CKD,Crooked Creek Airport,US,US-AK,61.8679008484,-158.134994507,small_airport,0,10,False
+CKR,Crane Island Airstrip,US,US-WA,48.5978,-122.9979,small_airport,0,10,False
+CKU,Cordova Municipal Airport,US,US-AK,60.5438995361,-145.727005005,small_airport,0,10,False
+CKX,Chicken Airport,US,US-AK,64.0712966919,-141.95199585,small_airport,0,10,False
+HLI,Hollister Municipal Airport,US,US-CA,36.8932991028,-121.410003662,small_airport,0,10,True
+CXC,Chitina Airport,US,US-AK,61.582901001,-144.427001953,small_airport,0,10,False
+CZK,Cascade Locks State Airport,US,US-OR,45.6768989563,-121.878997803,small_airport,0,10,False
+CZN,Chisana Airport,US,US-AK,62.0712013245,-142.04800415,small_airport,0,10,False
+CZO,Chistochina Airport,US,US-AK,62.5634994507,-144.669006348,small_airport,0,10,False
+IUA,Canandaigua Airport,US,US-NY,42.908902,-77.325226,small_airport,0,10,False
+DJN,Delta Junction Airport,US,US-AK,64.0503997803,-145.716995239,small_airport,0,10,False
+DCK,Dahl Creek Airport,US,US-AK,66.9432983398,-156.904998779,small_airport,0,10,False
+RGR,Ranger Municipal Airport,US,US-TX,32.4525985718,-98.682800293,small_airport,0,10,True
+FLT,Flat Airport,US,US-AK,62.452598571799996,-157.988998413,small_airport,0,10,False
+GAB,Gabbs Airport,US,US-NV,38.924098968500005,-117.958999634,small_airport,0,10,True
+GFD,Pope Field,US,US-IN,39.790298461899994,-85.7360992432,small_airport,0,10,True
+GNU,Goodnews Airport,US,US-AK,59.117401123,-161.57699585,small_airport,0,10,False
+GMT,Granite Mountain Air Station,US,US-AK,65.40209961,-161.2810059,small_airport,0,10,False
+GVE,Gordonsville Municipal Airport,US,US-VA,38.15599823,-78.165802002,small_airport,0,10,False
+HAY,Haycock Airport,US,US-AK,65.20099639889999,-161.156997681,small_airport,0,10,False
+HPV,Princeville Airport,US,US-HI,22.209199905400002,-159.445999146,small_airport,0,10,False
+HKB,Healy Lake Airport,US,US-AK,63.9958,-144.6926,small_airport,0,10,False
+HNE,Tahneta Pass Airport,US,US-AK,61.901401519800004,-147.304000854,small_airport,0,10,False
+JLA,Quartz Creek Airport,US,US-AK,60.48270034789999,-149.718994141,small_airport,0,10,False
+AMK,Animas Air Park,US,US-CO,37.203201293899994,-107.869003296,small_airport,0,10,True
+BDX,Broadus Airport,US,US-MT,45.47249985,-105.4540024,small_airport,0,10,False
+EUE,Eureka Airport,US,US-NV,39.604198455799995,-116.004997253,small_airport,0,10,True
+KPT,Jackpot Airport/Hayden Field,US,US-NV,41.97600173949999,-114.657997131,small_airport,0,10,False
+RLA,Rolla Downtown Airport,US,US-MO,37.935699462890625,-91.8134994506836,small_airport,0,10,True
+FID,Elizabeth Field,US,US-NY,41.25130081179999,-72.0316009521,small_airport,0,10,False
+HUD,Humboldt Municipal Airport,US,US-IA,42.736099243199995,-94.2452011108,small_airport,0,10,False
+TWD,Jefferson County International Airport,US,US-WA,48.0537986755,-122.810997009,small_airport,0,10,False
+MVM,Kayenta Airport,US,US-AZ,36.716444,-110.228444,small_airport,0,10,True
+HCC,Columbia County Airport,US,US-NY,42.2913017273,-73.7102966309,small_airport,0,10,False
+AHD,Ardmore Downtown Executive Airport,US,US-OK,34.1469993591,-97.1227035522,small_airport,0,10,True
+GCW,Grand Canyon West Airport,US,US-AZ,35.990398407,-113.816001892,small_airport,0,10,True
+CKE,Lampson Field,US,US-CA,38.9906005859,-122.901000977,small_airport,0,10,True
+ROF,Montague-Yreka Rohrer Field,US,US-CA,41.7304000854,-122.54599762,small_airport,0,10,False
+CNE,Fremont County Airport,US,US-CO,38.428001403799996,-105.106002808,small_airport,0,10,True
+COP,Cooperstown-Westville Airport,US,US-NY,42.6291999817,-74.89099884030001,small_airport,0,10,False
+CIL,Council Airport,US,US-AK,64.89790344240001,-163.70300293,small_airport,0,10,False
+IRB,Iraan Municipal Airport,US,US-TX,30.9057006836,-101.891998291,small_airport,0,10,True
+GNF,Gansner Field,US,US-CA,39.943902,-120.945,small_airport,0,10,True
+CHZ,Chiloquin State Airport,US,US-OR,42.579440493,-121.879062653,small_airport,0,10,False
+LTW,St. Mary's County Regional Airport,US,US-MD,38.3153991699,-76.5501022339,small_airport,0,10,False
+AHF,Arapahoe Municipal Airport,US,US-NE,40.339500427199994,-99.90650177,small_airport,0,10,False
+PCT,Princeton Airport,US,US-NJ,40.3992004395,-74.6588973999,small_airport,0,10,False
+CTO,Calverton Executive Airpark,US,US-NY,40.9151000977,-72.7919006348,small_airport,0,10,False
+NRI,Grand Lake Regional Airport,US,US-OK,36.577598571777,-94.86190032959,small_airport,0,10,True
+GTP,Grants Pass Airport,US,US-OR,42.510101,-123.388,small_airport,0,10,False
+NLE,Jerry Tyler Memorial Airport,US,US-MI,41.835899353027,-86.225196838379,small_airport,0,10,False
+GCD,Grand Coulee Dam Airport,US,US-WA,47.922000885,-119.083000183,small_airport,0,10,False
+VLE,Valle Airport,US,US-AZ,35.65060043335,-112.14800262451,small_airport,0,10,True
+FPY,Perry-Foley Airport,US,US-FL,30.0692997,-83.58059692,small_airport,0,10,False
+NTJ,Manti-Ephraim Airport,US,US-UT,39.32910156,-111.6149979,small_airport,0,10,True
+SBO,Salina Gunnison Airport,US,US-UT,39.029098510699995,-111.837997437,small_airport,0,10,True
+JVI,Central Jersey Regional Airport,US,US-NJ,40.5243988037,-74.59839630130001,small_airport,0,10,False
+UCE,Eunice Airport,US,US-LA,30.466299057007,-92.423797607422,small_airport,0,10,True
+GOL,Gold Beach Municipal Airport,US,US-OR,42.41339874,-124.4240036,small_airport,0,10,False
+KKT,Kentland Municipal Airport,US,US-IN,40.7587013245,-87.42819976810001,small_airport,0,10,False
+PRW,Prentice Airport,US,US-WI,45.542999,-90.279297,small_airport,0,10,False
+EGP,Maverick County Memorial International Airport,US,US-TX,28.85720062,-100.512001,small_airport,0,10,True
+BLD,Boulder City Municipal Airport,US,US-NV,35.9474983215,-114.861000061,small_airport,0,10,True
+MFH,Mesquite Airport,US,US-NV,36.83499908,-114.0550003,small_airport,0,10,True
+ECA,Iosco County Airport,US,US-MI,44.312801,-83.422302,small_airport,0,10,False
+FMU,Florence Municipal Airport,US,US-OR,43.98279953,-124.111000061,small_airport,0,10,False
+OTS,Anacortes Airport,US,US-WA,48.499,-122.662003,small_airport,0,10,False
+ROL,Roosevelt Municipal Airport,US,US-UT,40.278301,-110.051003,small_airport,0,10,False
+CTK,Canton Municipal Airport,US,US-SD,43.308899,-96.570999,small_airport,0,10,False
+WPO,North Fork Valley Airport,US,US-CO,38.8316993713,-107.646003723,small_airport,0,10,True
+ATE,Antlers Municipal Airport,US,US-OK,34.1926002502,-95.6499023438,small_airport,0,10,True
+QWG,Wilgrove Air Park,US,US-NC,35.2137985229,-80.67009735110001,small_airport,0,10,False
+ASQ,Austin Airport,US,US-NV,39.467998,-117.195,small_airport,0,10,True
+AAF,Apalachicola Regional Airport,US,US-FL,29.72750092,-85.02749634,small_airport,0,10,True
+ABE,Lehigh Valley International Airport,US,US-PA,40.652099609375,-75.44080352783203,medium_airport,928,20,False
+ABI,Abilene Regional Airport,US,US-TX,32.4113006592,-99.68190002440001,medium_airport,394,20,True
+ABQ,Albuquerque International Sunport,US,US-NM,35.040199,-106.609001,large_airport,4097,30,True
+ABR,Aberdeen Regional Airport,US,US-SD,45.449100494384766,-98.42179870605469,medium_airport,120,20,False
+ABY,Southwest Georgia Regional Airport,US,US-GA,31.535499572753906,-84.19450378417969,medium_airport,160,20,False
+ACB,Antrim County Airport,US,US-MI,44.988602,-85.198402,small_airport,0,10,False
+ACK,Nantucket Memorial Airport,US,US-MA,41.25310135,-70.06020355,medium_airport,282,20,False
+ACT,Waco Regional Airport,US,US-TX,31.611299514770508,-97.23049926757812,medium_airport,290,20,True
+ACV,California Redwood Coast-Humboldt County Airport,US,US-CA,40.978101,-124.109,medium_airport,364,20,False
+ACY,Atlantic City International Airport,US,US-NJ,39.45759963989258,-74.57720184326172,medium_airport,450,20,False
+ADG,Lenawee County Airport,US,US-MI,41.8676986694,-84.07730102539999,small_airport,0,10,False
+ADT,Ada Regional Airport,US,US-OK,34.804298,-96.671303,small_airport,0,10,True
+ADM,Ardmore Municipal Airport,US,US-OK,34.30301,-97.0196342,small_airport,0,10,True
+ADS,Addison Airport,US,US-TX,32.9686012268,-96.8364028931,small_airport,0,10,True
+ADW,Joint Base Andrews,US,US-MD,38.810799,-76.866997,large_airport,0,30,False
+AEL,Albert Lea Municipal Airport,US,US-MN,43.68149948,-93.36720276,small_airport,0,10,False
+AEX,Alexandria International Airport,US,US-LA,31.32740020751953,-92.54979705810547,medium_airport,552,20,True
+AFF,USAF Academy Airfield,US,US-CO,38.96969986,-104.8130035,small_airport,0,10,True
+WSG,Washington County Airport,US,US-PA,40.1365013123,-80.29019927979999,small_airport,0,10,False
+AFN,Jaffrey Airport Silver Ranch Airport,US,US-NH,42.805099487300005,-72.0029983521,small_airport,0,10,False
+AFO,Afton Municipal Airport,US,US-WY,42.7112007141,-110.942001343,small_airport,0,10,False
+AFW,Fort Worth Alliance Airport,US,US-TX,32.9875984192,-97.31880187990001,large_airport,0,30,True
+AGC,Allegheny County Airport,US,US-PA,40.354400634765625,-79.9301986694336,medium_airport,0,20,False
+AGO,Ralph C Weiser Field,US,US-AR,33.228001,-93.217002,small_airport,0,10,True
+AGS,Augusta Regional At Bush Field,US,US-GA,33.36989974975586,-81.9645004272461,large_airport,777,30,False
+AHC,Amedee Army Air Field,US,US-CA,40.26620102,-120.1529999,small_airport,0,10,False
+AHH,Amery Municipal Airport,US,US-WI,45.2811012268,-92.37539672850001,small_airport,0,10,False
+AHN,Athens Ben Epps Airport,US,US-GA,33.94860076904297,-83.32630157470703,medium_airport,0,20,False
+AIA,Alliance Municipal Airport,US,US-NE,42.0531997681,-102.804000854,small_airport,0,10,False
+AID,Anderson Municipal Darlington Field,US,US-IN,40.10860061649999,-85.6129989624,small_airport,0,10,False
+AIK,Aiken Regional Airport,US,US-SC,33.649399,-81.684998,small_airport,0,10,False
+AIO,Atlantic Municipal Airport,US,US-IA,41.40729904,-95.04689789,small_airport,0,10,False
+AIV,George Downer Airport,US,US-AL,33.106499,-88.1978,small_airport,0,10,True
+AIZ,Lee C Fine Memorial Airport,US,US-MO,38.0960006714,-92.54949951170002,small_airport,0,10,True
+AKO,Colorado Plains Regional Airport,US,US-CO,40.1755981445,-103.222000122,small_airport,0,10,False
+AKC,Akron Fulton International Airport,US,US-OH,41.0374984741,-81.4669036865,medium_airport,0,20,False
+ALB,Albany International Airport,US,US-NY,42.74829864501953,-73.80169677734375,medium_airport,1956,20,False
+ALI,Alice International Airport,US,US-TX,27.740900039699998,-98.02690124510002,medium_airport,0,20,True
+ALM,Alamogordo White Sands Regional Airport,US,US-NM,32.8399009705,-105.990997314,medium_airport,0,20,True
+ALN,St Louis Regional Airport,US,US-IL,38.89030075069999,-90.0459976196,medium_airport,0,20,True
+ALO,Waterloo Regional Airport,US,US-IA,42.557098388671875,-92.40029907226562,medium_airport,111,20,False
+ALS,San Luis Valley Regional Bergman Field,US,US-CO,37.434898,-105.866997,medium_airport,0,20,True
+ALW,Walla Walla Regional Airport,US,US-WA,46.09489822,-118.288002,medium_airport,0,20,False
+ALX,Thomas C Russell Field,US,US-AL,32.914699554399995,-85.9629974365,small_airport,0,10,True
+AMA,Rick Husband Amarillo International Airport,US,US-TX,35.219398,-101.706001,large_airport,860,30,True
+AMN,Gratiot Community Airport,US,US-MI,43.322101593,-84.68800354,small_airport,0,10,False
+AMW,Ames Municipal Airport,US,US-IA,41.992001,-93.621803,small_airport,0,10,False
+ANB,Anniston Regional Airport,US,US-AL,33.5882,-85.8581,medium_airport,0,20,True
+AND,Anderson Regional Airport,US,US-SC,34.4945983887,-82.70939636230001,medium_airport,0,20,False
+SLT,Harriet Alexander Field,US,US-CO,38.538299560547,-106.04900360107,small_airport,0,10,True
+ANP,Lee Airport,US,US-MD,38.942902,-76.568398,small_airport,0,10,False
+ANQ,Tri State Steuben County Airport,US,US-IN,41.639702,-85.083504,small_airport,0,10,False
+ANW,Ainsworth Regional Airport,US,US-NE,42.579201,-99.992995,small_airport,0,10,False
+ANY,Anthony Municipal Airport,US,US-KS,37.158501,-98.079597,small_airport,0,10,True
+AOH,Lima Allen County Airport,US,US-OH,40.706902,-84.026703,small_airport,0,10,False
+AOO,Altoona Blair County Airport,US,US-PA,40.29639816,-78.31999969,medium_airport,0,20,False
+APA,Centennial Airport,US,US-CO,39.57009888,-104.848999,medium_airport,0,20,True
+APC,Napa County Airport,US,US-CA,38.2132,-122.280998,small_airport,0,10,True
+APF,Naples Municipal Airport,US,US-FL,26.1525993347,-81.7752990723,medium_airport,0,20,False
+APG,Phillips Army Air Field,US,US-MD,39.466202,-76.1688,medium_airport,0,20,False
+APH,A P Hill AAF (Fort A P Hill) Airport,US,US-VA,38.068902,-77.318298,small_airport,0,10,False
+APN,Alpena County Regional Airport,US,US-MI,45.0780983,-83.56030273,medium_airport,102,20,False
+APT,Marion County Brown Field,US,US-TN,35.060699,-85.585297,small_airport,0,10,True
+APV,Apple Valley Airport,US,US-CA,34.575298309299995,-117.185997009,small_airport,0,10,True
+ARA,Acadiana Regional Airport,US,US-LA,30.0378,-91.883904,medium_airport,0,20,True
+ARB,Ann Arbor Municipal Airport,US,US-MI,42.2229995728,-83.74559783939999,small_airport,0,10,False
+ARG,Walnut Ridge Regional Airport,US,US-AR,36.124667,-90.925111,small_airport,0,10,True
+WHT,Wharton Regional Airport,US,US-TX,29.254299163800003,-96.1544036865,small_airport,0,10,True
+AUZ,Aurora Municipal Airport,US,US-IL,41.771900177,-88.47570037839999,small_airport,0,10,False
+ART,Watertown International Airport,US,US-NY,43.99190139770508,-76.02169799804688,medium_airport,0,20,False
+ARV,Lakeland-Noble F. Lee Memorial field,US,US-WI,45.92789841,-89.73090363,small_airport,0,10,False
+BFT,Beaufort County Airport,US,US-SC,32.4122009277,-80.6343994141,small_airport,0,10,False
+ASE,Aspen-Pitkin Co/Sardy Field,US,US-CO,39.22320175,-106.8690033,medium_airport,796,20,True
+SPZ,Springdale Municipal Airport,US,US-AR,36.176399231,-94.1193008423,small_airport,0,10,True
+ASH,Boire Field,US,US-NH,42.7817001343,-71.51480102539999,small_airport,0,10,False
+ASL,Harrison County Airport,US,US-TX,32.5205001831,-94.307800293,small_airport,0,10,True
+ASN,Talladega Municipal Airport,US,US-AL,33.569900512699995,-86.05090332030001,small_airport,0,10,True
+AST,Astoria Regional Airport,US,US-OR,46.158000946,-123.878997803,medium_airport,0,20,False
+ASX,John F Kennedy Memorial Airport,US,US-WI,46.54850006,-90.91899872,small_airport,0,10,False
+ASY,Ashley Municipal Airport,US,US-ND,46.0238990784,-99.3526000977,small_airport,0,10,False
+ATL,Hartsfield Jackson Atlanta International Airport,US,US-GA,33.6367,-84.428101,large_airport,63901,30,False
+ATS,Artesia Municipal Airport,US,US-NM,32.8525009155,-104.468002319,small_airport,0,10,True
+ATW,Appleton International Airport,US,US-WI,44.258098602299995,-88.5190963745,small_airport,598,10,False
+ATY,Watertown Regional Airport,US,US-SD,44.91400146,-97.15470123,medium_airport,121,20,False
+AUG,Augusta State Airport,US,US-ME,44.320598602299995,-69.7973022461,medium_airport,0,20,False
+AUM,Austin Municipal Airport,US,US-MN,43.66500092,-92.93340302,small_airport,0,10,False
+AUN,Auburn Municipal Airport,US,US-CA,38.95479965,-121.0820007,small_airport,0,10,True
+AUO,Auburn University Regional Airport,US,US-AL,32.615101,-85.433998,small_airport,0,10,True
+AUS,Austin Bergstrom International Airport,US,US-TX,30.194499969482422,-97.6698989868164,large_airport,11060,30,True
+AUW,Wausau Downtown Airport,US,US-WI,44.9262008667,-89.6266021729,medium_airport,0,20,False
+AVL,Asheville Regional Airport,US,US-NC,35.43619918823242,-82.54180145263672,large_airport,1651,30,False
+AVO,Avon Park Executive Airport,US,US-FL,27.59119987,-81.52780151,small_airport,0,10,False
+AVP,Wilkes Barre Scranton International Airport,US,US-PA,41.338500976599995,-75.72339630130001,medium_airport,659,20,False
+AVW,Marana Regional Airport,US,US-AZ,32.4095993042,-111.218002319,small_airport,0,10,True
+AVX,Catalina Airport,US,US-CA,33.4049,-118.416,small_airport,0,10,True
+AWM,West Memphis Municipal Airport,US,US-AR,35.1351013184,-90.2343978882,small_airport,0,10,True
+AXG,Algona Municipal Airport,US,US-IA,43.0778999329,-94.2720031738,small_airport,0,10,False
+AXN,Chandler Field,US,US-MN,45.8662986755,-95.39469909670001,medium_airport,0,20,False
+AXS,Altus Quartz Mountain Regional Airport,US,US-OK,34.697952,-99.3385,small_airport,0,10,True
+AXV,Neil Armstrong Airport,US,US-OH,40.49340057,-84.29889679,small_airport,0,10,False
+AXX,Angel Fire Airport,US,US-NM,36.422000885,-105.290000916,small_airport,0,10,True
+AYS,Waycross Ware County Airport,US,US-GA,31.2490997314,-82.39550018310001,small_airport,0,10,False
+TUH,Arnold Air Force Base,US,US-TN,35.39260101,-86.08580017,small_airport,0,10,True
+AZO,Kalamazoo Battle Creek International Airport,US,US-MI,42.234901428222656,-85.5521011352539,medium_airport,526,20,False
+BAB,Beale Air Force Base,US,US-CA,39.136100769,-121.43699646,large_airport,0,30,True
+BAD,Barksdale Air Force Base,US,US-LA,32.5018005371,-93.6626968384,large_airport,0,30,True
+BAF,Westfield-Barnes Regional Airport,US,US-MA,42.157799,-72.715599,medium_airport,0,20,False
+CLU,Columbus Municipal Airport,US,US-IN,39.2619018555,-85.8963012695,medium_airport,0,20,True
+BAM,Battle Mountain Airport,US,US-NV,40.598999023400005,-116.874000549,small_airport,0,10,False
+BBB,Benson Municipal Airport,US,US-MN,45.331901550299996,-95.6505966187,small_airport,0,10,False
+BBD,Curtis Field,US,US-TX,31.1793003082,-99.3238983154,medium_airport,0,20,True
+BTN,Marlboro County Jetport H.E. Avent Field,US,US-SC,34.62170029,-79.73439789,small_airport,0,10,False
+BBW,Broken Bow Municipal Airport,US,US-NE,41.4365005493,-99.6421966553,small_airport,0,10,False
+BCB,Virginia Tech Montgomery Executive Airport,US,US-VA,37.207599639899996,-80.4077987671,small_airport,0,10,False
+BCE,Bryce Canyon Airport,US,US-UT,37.706401825,-112.144996643,medium_airport,0,20,True
+BCT,Boca Raton Airport,US,US-FL,26.3784999847,-80.1076965332,small_airport,0,10,False
+BDE,Baudette International Airport,US,US-MN,48.7284011841,-94.612197876,medium_airport,0,20,False
+BDG,Blanding Municipal Airport,US,US-UT,37.58330154,-109.4830017,small_airport,0,10,True
+BDL,Bradley International Airport,US,US-CT,41.9388999939,-72.68319702149999,large_airport,4450,30,False
+BDR,Igor I Sikorsky Memorial Airport,US,US-CT,41.16350173950195,-73.1261978149414,medium_airport,0,20,False
+WBU,Boulder Municipal Airport,US,US-CO,40.0393981934,-105.225997925,small_airport,0,10,False
+BEC,Beech Factory Airport,US,US-KS,37.694499969499994,-97.21499633790002,small_airport,0,10,True
+BED,Laurence G Hanscom Field,US,US-MA,42.47000122,-71.28900146,medium_airport,0,20,False
+BEH,Southwest Michigan Regional Airport,US,US-MI,42.128601074200006,-86.4284973145,small_airport,0,10,False
+BFD,Bradford Regional Airport,US,US-PA,41.8031005859375,-78.64009857177734,medium_airport,0,20,False
+BFF,Western Neb. Rgnl/William B. Heilig Airport,US,US-NE,41.87400055,-103.5960007,medium_airport,102,20,False
+BFI,Boeing Field King County International Airport,US,US-WA,47.529998779296875,-122.302001953125,large_airport,0,30,False
+BFL,Meadows Field,US,US-CA,35.43360138,-119.0569992,medium_airport,410,20,True
+BFM,Mobile Downtown Airport,US,US-AL,30.626800537100003,-88.06809997559999,medium_airport,42,20,True
+BFR,Virgil I Grissom Municipal Airport,US,US-IN,38.84000015,-86.44539642,small_airport,0,10,True
+BGD,Hutchinson County Airport,US,US-TX,35.700901031499995,-101.393997192,small_airport,0,10,True
+BGE,Decatur County Industrial Air Park,US,US-GA,30.9715004,-84.63739777,small_airport,0,10,False
+BGM,Greater Binghamton/Edwin A Link field,US,US-NY,42.20869827,-75.97979736,medium_airport,172,20,False
+BGR,Bangor International Airport,US,US-ME,44.80739974975586,-68.8281021118164,large_airport,762,30,False
+BHB,Hancock County-Bar Harbor Airport,US,US-ME,44.45000076,-68.3615036,medium_airport,0,20,False
+BHM,Birmingham-Shuttlesworth International Airport,US,US-AL,33.56290054,-86.75350189,large_airport,3343,30,True
+BID,Block Island State Airport,US,US-RI,41.1680984497,-71.577796936,small_airport,0,10,False
+BIE,Beatrice Municipal Airport,US,US-NE,40.301300048799995,-96.75409698490002,small_airport,0,10,False
+BIF,Biggs Army Air Field (Fort Bliss),US,US-TX,31.84950066,-106.3799973,medium_airport,0,20,True
+BIH,Eastern Sierra Regional Airport,US,US-CA,37.3731002808,-118.363998413,medium_airport,0,20,True
+BIL,Billings Logan International Airport,US,US-MT,45.807701110839844,-108.54299926757812,large_airport,648,30,False
+BIS,Bismarck Municipal Airport,US,US-ND,46.772701263427734,-100.74600219726562,medium_airport,670,20,False
+BIX,Keesler Air Force Base,US,US-MS,30.4104003906,-88.92440032959999,medium_airport,0,20,True
+BJC,Rocky Mountain Metropolitan Airport,US,US-CO,39.90879822,-105.1169968,medium_airport,0,20,True
+BJI,Bemidji Regional Airport,US,US-MN,47.50939941,-94.93370056,medium_airport,120,20,False
+BJJ,Wayne County Airport,US,US-OH,40.874801635699995,-81.88829803470001,small_airport,0,10,False
+BKD,Stephens County Airport,US,US-TX,32.71900177,-98.89099884030001,small_airport,0,10,True
+BKE,Baker City Municipal Airport,US,US-OR,44.837299346900004,-117.808998108,medium_airport,0,20,False
+BFK,Buckley Air Force Base,US,US-CO,39.701698303200004,-104.751998901,medium_airport,0,20,True
+BKL,Burke Lakefront Airport,US,US-OH,41.51750183105469,-81.68329620361328,medium_airport,0,20,False
+BKT,Allen C Perkinson Blackstone Army Air Field,US,US-VA,37.0741996765,-77.9574966431,small_airport,0,10,False
+BKW,Raleigh County Memorial Airport,US,US-WV,37.787300109899995,-81.1241989136,medium_airport,0,20,False
+BKX,Brookings Regional Airport,US,US-SD,44.304798,-96.816902,small_airport,0,10,False
+BLF,Mercer County Airport,US,US-WV,37.295799255371094,-81.20770263671875,medium_airport,0,20,False
+BLH,Blythe Airport,US,US-CA,33.6192016602,-114.717002869,medium_airport,0,20,True
+BLI,Bellingham International Airport,US,US-WA,48.79280090332031,-122.53800201416016,medium_airport,204,20,False
+BLM,Monmouth Executive Airport,US,US-NJ,40.18690109,-74.12490082,small_airport,0,10,False
+BLU,Blue Canyon Nyack Airport,US,US-CA,39.2750015259,-120.709999084,small_airport,0,10,True
+BLV,Scott AFB/Midamerica Airport,US,US-IL,38.5452,-89.835197,large_airport,110,30,True
+BMC,Brigham City Regional Airport,US,US-UT,41.552399,-112.061996,small_airport,0,10,False
+BMG,Monroe County Airport,US,US-IN,39.145999908447266,-86.61669921875,medium_airport,0,20,True
+BMI,Central Illinois Regional Airport at Bloomington-Normal,US,US-IL,40.47710037,-88.91590118,large_airport,512,30,False
+BML,Berlin Regional Airport,US,US-NH,44.57540131,-71.17590332,small_airport,0,10,False
+BMT,Beaumont Municipal Airport,US,US-TX,30.0706996918,-94.21579742430002,small_airport,0,10,True
+BNA,Nashville International Airport,US,US-TN,36.1245002746582,-86.6781997680664,large_airport,13900,30,True
+BNG,Banning Municipal Airport,US,US-CA,33.9230995178,-116.850997925,small_airport,0,10,True
+BNL,Barnwell Regional Airport,US,US-SC,33.25780106,-81.38829803,small_airport,0,10,False
+BNO,Burns Municipal Airport,US,US-OR,43.5918998718,-118.955001831,medium_airport,0,20,False
+BNW,Boone Municipal Airport,US,US-IA,42.0495986938,-93.8476028442,small_airport,0,10,False
+BOI,Boise Air Terminal/Gowen Field,US,US-ID,43.5644,-116.223,large_airport,3101,30,False
+BOS,General Edward Lawrence Logan International Airport,US,US-MA,42.36429977,-71.00520325,large_airport,24722,30,False
+BOW,Bartow Municipal Airport,US,US-FL,27.943399429299998,-81.78340148930002,small_airport,0,10,False
+HCA,Big Spring Mc Mahon-Wrinkle Airport,US,US-TX,32.212601,-101.522003,small_airport,0,10,True
+BPI,Miley Memorial Field,US,US-WY,42.58509827,-110.1110001,medium_airport,0,20,False
+WMH,Ozark Regional Airport,US,US-AR,36.3689002991,-92.47049713130001,medium_airport,0,20,True
+BPT,Southeast Texas Regional Airport,US,US-TX,29.9507999420166,-94.02069854736328,medium_airport,170,20,True
+BQK,Brunswick Golden Isles Airport,US,US-GA,31.258800506591797,-81.46649932861328,medium_airport,170,20,False
+BRD,Brainerd Lakes Regional Airport,US,US-MN,46.39830017,-94.13809967,medium_airport,102,20,False
+BRL,Southeast Iowa Regional Airport,US,US-IA,40.783199310302734,-91.12550354003906,medium_airport,0,20,False
+BRO,Brownsville South Padre Island International Airport,US,US-TX,25.90679931640625,-97.4259033203125,medium_airport,504,20,True
+BRY,Samuels Field,US,US-KY,37.8143005371,-85.4996032715,small_airport,0,10,True
+BTF,Skypark Airport,US,US-UT,40.8694000244,-111.927001953,small_airport,0,10,False
+BTL,W K Kellogg Airport,US,US-MI,42.307300567599995,-85.2515029907,medium_airport,0,20,False
+BTM,Bert Mooney Airport,US,US-MT,45.95479965209961,-112.49700164794922,medium_airport,112,20,False
+TTO,Britton Municipal Airport,US,US-SD,45.815200805664,-97.743103027344,small_airport,0,10,False
+BTP,Pittsburgh/Butler Regional Airport,US,US-PA,40.776901,-79.949699,small_airport,0,10,False
+BTR,Baton Rouge Metropolitan Airport,US,US-LA,30.533199,-91.149597,medium_airport,1285,20,True
+BTV,Burlington International Airport,US,US-VT,44.471900939899996,-73.15329742429999,medium_airport,1773,20,False
+BTY,Beatty Airport,US,US-NV,36.8610992432,-116.787002563,small_airport,0,10,True
+BUB,Cram Field,US,US-NE,41.776699066199996,-99.14969635010002,small_airport,0,10,False
+BUF,Buffalo Niagara International Airport,US,US-NY,42.94049835,-78.73220062,large_airport,4137,30,False
+BUM,Butler Memorial Airport,US,US-MO,38.2897987366,-94.3401031494,small_airport,0,10,True
+BUR,Bob Hope Airport,US,US-CA,34.20069885253906,-118.35900115966797,medium_airport,5629,20,True
+BFP,Beaver County Airport,US,US-PA,40.7724990845,-80.39140319820001,medium_airport,0,20,False
+BVO,Bartlesville Municipal Airport,US,US-OK,36.76250076,-96.01119995,small_airport,0,10,True
+MVW,Skagit Regional Airport,US,US-WA,48.4709014893,-122.42099762,small_airport,0,10,False
+BVX,Batesville Regional Airport,US,US-AR,35.7262001,-91.64730072,small_airport,0,10,True
+BVY,Beverly Municipal Airport,US,US-MA,42.584201812699995,-70.91649627689999,medium_airport,0,20,False
+BWC,Brawley Municipal Airport,US,US-CA,32.99290085,-115.5169983,small_airport,0,10,True
+BWD,Brownwood Regional Airport,US,US-TX,31.793600082399998,-98.9564971924,small_airport,0,10,True
+BWG,Bowling Green Warren County Regional Airport,US,US-KY,36.964500427199994,-86.41970062259999,medium_airport,0,20,True
+BWI,Baltimore/Washington International Thurgood Marshall Airport,US,US-MD,39.1754,-76.668297,large_airport,16962,30,False
+WAH,Harry Stern Airport,US,US-ND,46.2440986633,-96.6073989868,small_airport,0,10,False
+BWM,Bowman Regional Airport,US,US-ND,46.1655193,-103.30075,small_airport,0,10,False
+BXA,George R Carr Memorial Air Field,US,US-LA,30.813699722299997,-89.8649978638,small_airport,0,10,True
+BXK,Buckeye Municipal Airport,US,US-AZ,33.42039871,-112.685997,small_airport,0,10,True
+BYG,Johnson County Airport,US,US-WY,44.381099700899995,-106.722000122,small_airport,0,10,False
+BYH,Arkansas International Airport,US,US-AR,35.9642982483,-89.94400024410001,medium_airport,0,20,True
+BYI,Burley Municipal Airport,US,US-ID,42.542598724399994,-113.772003174,medium_airport,0,20,False
+BYS,Bicycle Lake Army Air Field,US,US-CA,35.2804985046,-116.629997253,medium_airport,0,20,True
+BBC,Bay City Municipal Airport,US,US-TX,28.9733009338,-95.8635025024,small_airport,0,10,True
+BZN,Gallatin Field,US,US-MT,45.77750015,-111.1529999,medium_airport,1054,20,False
+XES,Grand Geneva Resort Airport,US,US-WI,42.614899,-88.389603,small_airport,0,10,False
+PLY,Plymouth Municipal Airport,US,US-IN,41.365100860596,-86.300498962402,small_airport,0,10,False
+CLG,New Coalinga Municipal Airport,US,US-CA,36.16310119628906,-120.29399871826172,small_airport,0,10,True
+CAD,Wexford County Airport,US,US-MI,44.2752990723,-85.4188995361,small_airport,0,10,False
+CAE,Columbia Metropolitan Airport,US,US-SC,33.93880081176758,-81.11949920654297,large_airport,1185,30,False
+CIG,Craig Moffat Airport,US,US-CO,40.4952011108,-107.522003174,small_airport,0,10,False
+CAK,Akron Canton Regional Airport,US,US-OH,40.916099548339844,-81.44219970703125,medium_airport,1077,20,False
+CAO,Clayton Municipal Airpark,US,US-NM,36.4462013245,-103.166999817,small_airport,0,10,True
+CAR,Caribou Municipal Airport,US,US-ME,46.871498107899995,-68.0178985596,medium_airport,0,20,False
+CBE,Greater Cumberland Regional Airport,US,US-MD,39.615398407,-78.7609024048,small_airport,0,10,False
+CBF,Council Bluffs Municipal Airport,US,US-IA,41.2592010498,-95.760597229,small_airport,0,10,False
+CBK,Shalz Field,US,US-KS,39.42750168,-101.0469971,small_airport,0,10,True
+CBM,Columbus Air Force Base,US,US-MS,33.6437988281,-88.44380187990001,large_airport,0,30,True
+CCB,Cable Airport,US,US-CA,34.1115989685,-117.68800354,small_airport,0,10,True
+CCR,Buchanan Field,US,US-CA,37.9897003174,-122.056999207,small_airport,0,10,True
+CCY,Northeast Iowa Regional Airport,US,US-IA,43.0726013184,-92.6108016968,medium_airport,0,20,False
+LLX,Caledonia County Airport,US,US-VT,44.5690994263,-72.0179977417,small_airport,0,10,False
+CDC,Cedar City Regional Airport,US,US-UT,37.70100021362305,-113.0989990234375,medium_airport,161,20,True
+CDH,Harrell Field,US,US-AR,33.622798919699996,-92.7633972168,small_airport,0,10,True
+CDN,Woodward Field,US,US-SC,34.2835998535,-80.56490325930001,small_airport,0,10,False
+CDR,Chadron Municipal Airport,US,US-NE,42.837600708,-103.095001221,medium_airport,0,20,False
+CDS,Childress Municipal Airport,US,US-TX,34.4337997437,-100.288002014,medium_airport,0,20,True
+CDW,Essex County Airport,US,US-NJ,40.875198364300005,-74.2814025879,small_airport,0,10,False
+CEA,Cessna Aircraft Field,US,US-KS,37.648601532,-97.2506027222,small_airport,0,10,True
+CEC,Jack Mc Namara Field Airport,US,US-CA,41.78020096,-124.2369995,medium_airport,0,20,False
+CEF,Westover ARB/Metropolitan Airport,US,US-MA,42.19400024,-72.53479767,medium_airport,0,20,False
+CEU,Oconee County Regional Airport,US,US-SC,34.6719017,-82.8864975,small_airport,0,10,False
+CEV,Mettel Field,US,US-IN,39.6985015869,-85.129699707,small_airport,0,10,True
+CEW,Bob Sikes Airport,US,US-FL,30.778799057,-86.522102356,medium_airport,0,20,True
+CEY,Kyle Oakley Field,US,US-KY,36.66460037,-88.37280273,small_airport,0,10,True
+CEZ,Cortez Municipal Airport,US,US-CO,37.3030014038,-108.627998352,small_airport,0,10,True
+CFD,Coulter Field,US,US-TX,30.715700149499998,-96.3313980103,small_airport,0,10,True
+TZC,Tuscola Area Airport,US,US-MI,43.458801269531,-83.445503234863,small_airport,0,10,False
+CFT,Greenlee County Airport,US,US-AZ,32.95280075,-109.2099991,small_airport,0,10,True
+CFV,Coffeyville Municipal Airport,US,US-KS,37.09400177,-95.5718994141,small_airport,0,10,True
+CGE,Cambridge Dorchester Airport,US,US-MD,38.53929901,-76.03040314,small_airport,0,10,False
+CGF,Cuyahoga County Airport,US,US-OH,41.5651016235,-81.4863967896,medium_airport,0,20,False
+CGI,Cape Girardeau Regional Airport,US,US-MO,37.22529983520508,-89.57080078125,medium_airport,162,20,True
+CGS,College Park Airport,US,US-MD,38.9805984497,-76.9223022461,small_airport,0,10,False
+CGZ,Casa Grande Municipal Airport,US,US-AZ,32.954899,-111.766998,small_airport,0,10,True
+CHA,Lovell Field,US,US-TN,35.035301208496094,-85.20379638671875,large_airport,1429,30,True
+CHK,Chickasha Municipal Airport,US,US-OK,35.09740067,-97.96769714,small_airport,0,10,True
+CHO,Charlottesville Albemarle Airport,US,US-VA,38.13859939575195,-78.4529037475586,medium_airport,1031,20,False
+CHS,Charleston Air Force Base-International Airport,US,US-SC,32.89860153,-80.04049683,large_airport,4224,30,False
+CIC,Chico Municipal Airport,US,US-CA,39.79539871,-121.8580017,small_airport,0,10,True
+CID,The Eastern Iowa Airport,US,US-IA,41.884700775146484,-91.71080017089844,large_airport,1493,30,False
+CIN,Arthur N Neu Airport,US,US-IA,42.0461997986,-94.78900146480001,small_airport,0,10,False
+CIR,Cairo Regional Airport,US,US-IL,37.0644989014,-89.2195968628,small_airport,0,10,True
+CIU,Chippewa County International Airport,US,US-MI,46.25080108642578,-84.47239685058594,medium_airport,112,20,False
+CKA,Kegelman AF Aux Field,US,US-OK,36.7439002991,-98.1231002808,small_airport,0,10,True
+CKB,North Central West Virginia Airport,US,US-WV,39.2966003418,-80.2281036377,medium_airport,120,20,False
+GRM,Grand Marais Cook County Airport,US,US-MN,47.8382987976,-90.38289642330001,small_airport,0,10,False
+CKM,Fletcher Field,US,US-MS,34.2997016907,-90.512298584,small_airport,0,10,True
+CKN,Crookston Municipal Kirkwood Field,US,US-MN,47.8417015076,-96.62159729,small_airport,0,10,False
+CKV,Clarksville–Montgomery County Regional Airport,US,US-TN,36.6218986511,-87.4150009155,small_airport,0,10,True
+KCL,Chignik Lagoon Airport,US,US-AK,56.31119919,-158.5359955,small_airport,0,10,False
+CLE,Cleveland Hopkins International Airport,US,US-OH,41.4117012024,-81.8498001099,large_airport,8316,30,False
+CLI,Clintonville Municipal Airport,US,US-WI,44.613800048799995,-88.731300354,small_airport,0,10,False
+CLK,Clinton Regional Airport,US,US-OK,35.53829956,-98.93270111,small_airport,0,10,True
+CLL,Easterwood Field,US,US-TX,30.58860016,-96.36380005,medium_airport,396,20,True
+CLM,William R Fairchild International Airport,US,US-WA,48.120201110839844,-123.5,medium_airport,0,20,False
+CLR,Cliff Hatfield Memorial Airport,US,US-CA,33.131500244099996,-115.521003723,small_airport,0,10,True
+CLS,Chehalis Centralia Airport,US,US-WA,46.676998138399995,-122.983001709,small_airport,0,10,False
+CLT,Charlotte Douglas International Airport,US,US-NC,35.2140007019043,-80.94309997558594,large_airport,39368,30,False
+CLW,Clearwater Air Park,US,US-FL,27.9766998291,-82.7586975098,small_airport,0,10,False
+CMH,John Glenn Columbus International Airport,US,US-OH,39.998001,-82.891899,large_airport,7904,30,False
+CMI,University of Illinois Willard Airport,US,US-IL,40.03919983,-88.27809906,medium_airport,518,20,False
+CMX,Houghton County Memorial Airport,US,US-MI,47.168399810791016,-88.48909759521484,medium_airport,120,20,False
+CMY,Sparta Fort Mc Coy Airport,US,US-WI,43.958302,-90.7379,small_airport,0,10,False
+CNH,Claremont Municipal Airport,US,US-NH,43.3703994751,-72.36869812009999,small_airport,0,10,False
+CNK,Blosser Municipal Airport,US,US-KS,39.549301147499996,-97.6522979736,small_airport,0,10,True
+CNM,Cavern City Air Terminal,US,US-NM,32.337501525878906,-104.26300048828125,medium_airport,0,20,True
+CNO,Chino Airport,US,US-CA,33.97470093,-117.637001,small_airport,0,10,True
+CNU,Chanute Martin Johnson Airport,US,US-KS,37.668800354,-95.4850997925,medium_airport,0,20,True
+CNW,TSTC Waco Airport,US,US-TX,31.637800216699997,-97.0740966797,small_airport,0,10,True
+CNY,Canyonlands Field,US,US-UT,38.75500107,-109.7549973,small_airport,138,10,True
+COD,Yellowstone Regional Airport,US,US-WY,44.520198822,-109.024002075,medium_airport,85,20,False
+COE,Coeur D'Alene - Pappy Boyington Field,US,US-ID,47.77429962,-116.8199997,medium_airport,0,20,False
+COF,Patrick Air Force Base,US,US-FL,28.2348995209,-80.6100997925,medium_airport,0,20,False
+COI,Merritt Island Airport,US,US-FL,28.341600418099997,-80.6855010986,small_airport,0,10,False
+COM,Coleman Municipal Airport,US,US-TX,31.841100692699996,-99.4036026001,small_airport,0,10,True
+CON,Concord Municipal Airport,US,US-NH,43.20270157,-71.50229645,medium_airport,0,20,False
+COS,City of Colorado Springs Municipal Airport,US,US-CO,38.805801,-104.700996,large_airport,1803,30,True
+COT,Cotulla-La Salle County Airport,US,US-TX,28.45669937,-99.22029877,small_airport,0,10,True
+COU,Columbia Regional Airport,US,US-MO,38.81809997558594,-92.21959686279297,medium_airport,339,20,True
+CPM,Compton Woodley Airport,US,US-CA,33.8899993896,-118.244003296,small_airport,0,10,True
+CPR,Casper-Natrona County International Airport,US,US-WY,42.908001,-106.463997,medium_airport,194,20,False
+CPS,St Louis Downtown Airport,US,US-IL,38.570701599100005,-90.1561965942,small_airport,0,10,True
+HCW,Cheraw Municipal Airport/Lynch Bellinger Field,US,US-SC,34.71289825,-79.95700073,small_airport,0,10,False
+KCR,Colorado Creek Airport,US,US-AK,63.5676994324,-155.988998413,small_airport,0,10,False
+CRE,Grand Strand Airport,US,US-SC,33.8116989136,-78.72389984130001,medium_airport,0,20,False
+CRG,Jacksonville Executive at Craig Airport,US,US-FL,30.3362998962,-81.51439666750001,medium_airport,0,20,False
+CRO,Corcoran Airport,US,US-CA,36.102502,-119.595001,small_airport,0,10,True
+CRP,Corpus Christi International Airport,US,US-TX,27.77039909362793,-97.5011978149414,large_airport,1041,30,True
+CLD,Mc Clellan-Palomar Airport,US,US-CA,33.12829971,-117.2799988,medium_airport,0,20,True
+CRS,C David Campbell Field Corsicana Municipal Airport,US,US-TX,32.0280990601,-96.4005966187,small_airport,0,10,True
+CRT,Z M Jack Stell Field,US,US-AR,33.1782989502,-91.8802032471,small_airport,0,10,True
+CRW,Yeager Airport,US,US-WV,38.37310028076172,-81.59320068359375,large_airport,840,30,False
+CRX,Roscoe Turner Airport,US,US-MS,34.9150009155,-88.6035003662,small_airport,0,10,True
+CSG,Columbus Metropolitan Airport,US,US-GA,32.516300201416016,-84.93890380859375,medium_airport,216,20,False
+CSM,Clinton Sherman Airport,US,US-OK,35.3398017883,-99.20050048830001,small_airport,0,10,True
+CSQ,Creston Municipal Airport,US,US-IA,41.021400451699996,-94.36329650879999,small_airport,0,10,False
+CSV,Crossville Memorial Whitson Field,US,US-TN,35.9513015747,-85.08499908450001,medium_airport,0,20,True
+CTB,Cut Bank International Airport,US,US-MT,48.6083984375,-112.375999451,medium_airport,0,20,False
+CTY,Cross City Airport,US,US-FL,29.6354999542,-83.10479736330001,small_airport,0,10,False
+CTZ,Sampson County Airport,US,US-NC,34.9756011963,-78.3646011353,small_airport,0,10,False
+CUB,Jim Hamilton L.B. Owens Airport,US,US-SC,33.970500946,-80.9952011108,medium_airport,0,20,False
+CUH,Cushing Municipal Airport,US,US-OK,35.9499015808,-96.7731018066,small_airport,0,10,True
+CVG,Cincinnati Northern Kentucky International Airport,US,US-KY,39.0488014221,-84.6678009033,large_airport,7911,30,False
+CKK,Sharp County Regional Airport,US,US-AR,36.26490021,-91.56259918,small_airport,0,10,True
+CVN,Clovis Municipal Airport,US,US-NM,34.4250984192,-103.07900238,small_airport,0,10,True
+CVO,Corvallis Municipal Airport,US,US-OR,44.49720001,-123.2900009,medium_airport,0,20,False
+CVS,Cannon Air Force Base,US,US-NM,34.3828010559,-103.321998596,large_airport,0,30,True
+CWA,Central Wisconsin Airport,US,US-WI,44.7775993347,-89.6668014526,medium_airport,456,20,False
+KIP,Kickapoo Downtown Airport,US,US-TX,33.85779953,-98.49040222,small_airport,0,10,True
+CWF,Chennault International Airport,US,US-LA,30.2105998993,-93.14320373540001,small_airport,0,10,True
+CWI,Clinton Municipal Airport,US,US-IA,41.8311004639,-90.3291015625,small_airport,0,10,False
+CXL,Calexico International Airport,US,US-CA,32.6694984436,-115.513000488,small_airport,0,10,True
+CXO,Conroe-North Houston Regional Airport,US,US-TX,30.351801,-95.414497,medium_airport,0,20,True
+CSN,Carson Airport,US,US-NV,39.192199707,-119.73400116,small_airport,0,10,True
+HAR,Capital City Airport,US,US-PA,40.2170982361,-76.85150146480001,small_airport,0,10,False
+CYS,Cheyenne Regional Jerry Olson Field,US,US-WY,41.15570068,-104.8119965,medium_airport,119,20,False
+CZT,Dimmit County Airport,US,US-TX,28.522199630699998,-99.823600769,small_airport,0,10,True
+VEX,Tioga Municipal Airport,US,US-ND,48.38050079,-102.8980026,small_airport,0,10,False
+DAA,Davison Army Air Field,US,US-VA,38.715000152600005,-77.1809997559,medium_airport,0,20,False
+DAB,Daytona Beach International Airport,US,US-FL,29.179899,-81.058098,large_airport,512,30,False
+DAG,Barstow Daggett Airport,US,US-CA,34.85369873,-116.7870026,medium_airport,0,20,True
+DAL,Dallas Love Field,US,US-TX,32.847099,-96.851799,large_airport,12184,30,True
+DAN,Danville Regional Airport,US,US-VA,36.572898864746094,-79.33609771728516,medium_airport,0,20,False
+DAY,James M Cox Dayton International Airport,US,US-OH,39.902400970458984,-84.21939849853516,large_airport,2498,30,False
+DBN,W H 'Bud' Barron Airport,US,US-GA,32.56439972,-82.98529816,small_airport,0,10,False
+DBQ,Dubuque Regional Airport,US,US-IA,42.40200043,-90.70950317,large_airport,178,30,False
+DCA,Ronald Reagan Washington National Airport,US,US-DC,38.8521,-77.037697,large_airport,22887,30,False
+DCU,Pryor Field Regional Airport,US,US-AL,34.652698516799994,-86.94539642330001,small_airport,0,10,True
+DDC,Dodge City Regional Airport,US,US-KS,37.76340103149414,-99.9655990600586,medium_airport,0,20,True
+DEC,Decatur Airport,US,US-IL,39.834598541259766,-88.8656997680664,medium_airport,0,20,True
+DEH,Decorah Municipal Airport,US,US-IA,43.27550125,-91.73940277,small_airport,0,10,False
+DEN,Denver International Airport,US,US-CO,39.861698150635,-104.672996521,large_airport,43769,30,True
+DET,Coleman A. Young Municipal Airport,US,US-MI,42.40919876,-83.00990295,medium_airport,0,20,False
+DFI,Defiance Memorial Airport,US,US-OH,41.3375015259,-84.4288024902,small_airport,0,10,False
+DFW,Dallas Fort Worth International Airport,US,US-TX,32.896801,-97.038002,large_airport,51590,30,True
+DGL,Douglas Municipal Airport,US,US-AZ,31.3425998688,-109.505996704,small_airport,0,10,True
+DGW,Converse County Airport,US,US-WY,42.79719925,-105.3860016,small_airport,0,10,False
+DHN,Dothan Regional Airport,US,US-AL,31.321300506591797,-85.44960021972656,medium_airport,216,20,True
+DHT,Dalhart Municipal Airport,US,US-TX,36.0225982666,-102.54699707,medium_airport,0,20,True
+DIK,Dickinson Theodore Roosevelt Regional Airport,US,US-ND,46.7974014282,-102.802001953,medium_airport,0,20,False
+DKK,Chautauqua County-Dunkirk Airport,US,US-NY,42.49330139,-79.27200317,small_airport,0,10,False
+DLL,Dillon County Airport,US,US-SC,34.4491004944,-79.368598938,small_airport,0,10,False
+DLF,DLF Airport,US,US-TX,29.359501,-100.778002,large_airport,0,30,True
+DLH,Duluth International Airport,US,US-MN,46.8420982361,-92.19360351559999,large_airport,684,30,False
+DLN,Dillon Airport,US,US-MT,45.255401611299995,-112.553001404,small_airport,0,10,False
+DLS,Columbia Gorge Regional the Dalles Municipal Airport,US,US-OR,45.6184997559,-121.166999817,medium_airport,0,20,False
+DMA,Davis Monthan Air Force Base,US,US-AZ,32.1665000916,-110.883003235,medium_airport,0,20,True
+DMN,Deming Municipal Airport,US,US-NM,32.262298584,-107.721000671,medium_airport,0,20,True
+DMO,Sedalia Memorial Airport,US,US-MO,38.70740127559999,-93.17590332030001,small_airport,0,10,True
+DNL,Daniel Field,US,US-GA,33.4664993286,-82.0393981934,medium_airport,0,20,False
+DNN,Dalton Municipal Airport,US,US-GA,34.72290039,-84.87020111,small_airport,0,10,False
+DNS,Denison Municipal Airport,US,US-IA,41.9864006,-95.38069916,small_airport,0,10,False
+DNV,Vermilion Regional Airport,US,US-IL,40.19919968,-87.59590149,small_airport,0,10,False
+DOV,Dover Air Force Base,US,US-DE,39.12950134,-75.46600342,large_airport,0,30,False
+DPA,Dupage Airport,US,US-IL,41.90779877,-88.24859619,medium_airport,0,20,False
+DPG,Michael AAF (Dugway Proving Ground) Airport,US,US-UT,40.19940186,-112.9369965,small_airport,0,10,False
+DRA,Desert Rock Airport,US,US-NV,36.6194,-116.032997,medium_airport,0,20,True
+DRI,Beauregard Regional Airport,US,US-LA,30.8316993713,-93.33989715579999,medium_airport,0,20,True
+DRE,Drummond Island Airport,US,US-MI,46.0093002319,-83.74389648440001,small_airport,0,10,False
+DRO,Durango La Plata County Airport,US,US-CO,37.1515007019,-107.753997803,small_airport,639,10,True
+DRT,Del Rio International Airport,US,US-TX,29.3742008209,-100.927001953,medium_airport,119,20,True
+DSM,Des Moines International Airport,US,US-IA,41.534000396728516,-93.66310119628906,large_airport,2681,30,False
+DSV,Dansville Municipal Airport,US,US-NY,42.570899963399995,-77.7130966187,small_airport,0,10,False
+DTA,Delta Municipal Airport,US,US-UT,39.3805999756,-112.508003235,small_airport,0,10,True
+DTL,Detroit Lakes Airport - Wething Field,US,US-MN,46.82519913,-95.88569641,small_airport,0,10,False
+DTN,Shreveport Downtown Airport,US,US-LA,32.5401992798,-93.7450027466,small_airport,0,10,True
+DSI,Destin Executive Airport,US,US-FL,30.40010071,-86.47149658,small_airport,0,10,True
+DTW,Detroit Metropolitan Wayne County Airport,US,US-MI,42.212398529052734,-83.35340118408203,large_airport,26825,30,False
+DUA,Eaker Field,US,US-OK,33.94229889,-96.39450073,small_airport,0,10,True
+DUC,Halliburton Field,US,US-OK,34.47090149,-97.9598999,small_airport,0,10,True
+DUG,Bisbee Douglas International Airport,US,US-AZ,31.4689998627,-109.603996277,medium_airport,0,20,True
+DUJ,DuBois Regional Airport,US,US-PA,41.17829895,-78.8986969,medium_airport,0,20,False
+DVL,Devils Lake Regional Airport,US,US-ND,48.11420059,-98.90879822,small_airport,104,10,False
+DVN,Davenport Municipal Airport,US,US-IA,41.61029816,-90.58830261,small_airport,0,10,False
+NOT,Marin County Airport - Gnoss Field,US,US-CA,38.143600463867,-122.55599975586,small_airport,0,10,True
+NSL,Slayton Municipal Airport,US,US-MN,43.986801147461,-95.782600402832,small_airport,0,10,False
+DVT,Phoenix Deer Valley Airport,US,US-AZ,33.6883010864,-112.083000183,small_airport,0,10,True
+DWH,David Wayne Hooks Memorial Airport,US,US-TX,30.0618000031,-95.55280303960001,small_airport,0,10,True
+DXR,Danbury Municipal Airport,US,US-CT,41.371498107899995,-73.48220062259999,small_airport,0,10,False
+DYL,Doylestown Airport,US,US-PA,40.3330001831,-75.1222991943,small_airport,0,10,False
+DYS,Dyess Air Force Base,US,US-TX,32.4207992554,-99.854598999,large_airport,0,30,True
+MIF,Roy Hurd Memorial Airport,US,US-TX,31.582500457764,-102.90899658203,small_airport,0,10,True
+CCG,Crane County Airport,US,US-TX,31.415100097699998,-102.362998962,small_airport,0,10,True
+ESO,Ohkay Owingeh Airport,US,US-NM,36.0299987793,-106.04599762,small_airport,0,10,True
+WTR,Whiteriver Airport,US,US-AZ,33.8125,-109.9869995,small_airport,0,10,True
+ALE,Alpine Casparis Municipal Airport,US,US-TX,30.384199142499998,-103.683998108,small_airport,0,10,True
+BGT,Bagdad Airport,US,US-AZ,34.5959014893,-113.169998169,small_airport,0,10,True
+EAN,Phifer Airfield,US,US-WY,42.0555,-104.929001,small_airport,0,10,False
+EAR,Kearney Regional Airport,US,US-NE,40.72700119,-99.00679779,small_airport,112,10,False
+EAT,Pangborn Memorial Airport,US,US-WA,47.3988990784,-120.207000732,medium_airport,0,20,False
+EAU,Chippewa Valley Regional Airport,US,US-WI,44.86579895019531,-91.48429870605469,medium_airport,120,20,False
+KEB,Nanwalek Airport,US,US-AK,59.3521003723,-151.925003052,small_airport,0,10,False
+EBS,Webster City Municipal Airport,US,US-IA,42.43659973,-93.86889648,small_airport,0,10,False
+ECG,Elizabeth City Regional Airport & Coast Guard Air Station,US,US-NC,36.26060104,-76.17459869,medium_airport,0,20,False
+ECP,Northwest Florida Beaches International Airport,US,US-FL,30.357106,-85.795414,medium_airport,1152,20,True
+ECS,Mondell Field,US,US-WY,43.885399,-104.318001,small_airport,0,10,False
+EDE,Northeastern Regional Airport,US,US-NC,36.027698516799994,-76.56710052490001,small_airport,0,10,False
+ETS,Enterprise Municipal Airport,US,US-AL,31.29969978,-85.89990234,small_airport,0,10,True
+EDW,Edwards Air Force Base,US,US-CA,34.905399,-117.884003,large_airport,0,30,True
+EED,Needles Airport,US,US-CA,34.7663002014,-114.623001099,medium_airport,0,20,True
+EEN,Dillant Hopkins Airport,US,US-NH,42.898399353027344,-72.27079772949219,medium_airport,0,20,False
+EFD,Ellington Airport,US,US-TX,29.607299804700002,-95.1587982178,medium_airport,0,20,True
+EFK,Northeast Kingdom International Airport,US,US-VT,44.888802,-72.229202,small_airport,0,10,False
+EFW,Jefferson Municipal Airport,US,US-IA,42.0102005,-94.34259796,small_airport,0,10,False
+EGE,Eagle County Regional Airport,US,US-CO,39.64260101,-106.9179993,medium_airport,184,20,True
+EGI,Duke Field,US,US-FL,30.65040016,-86.52290344,medium_airport,0,20,True
+EGV,Eagle River Union Airport,US,US-WI,45.932300567599995,-89.26830291750001,small_airport,0,10,False
+KEK,Ekwok Airport,US,US-AK,59.3568000793457,-157.4709930419922,small_airport,0,10,False
+EKA,Murray Field,US,US-CA,40.803398132299996,-124.112998962,medium_airport,0,20,False
+EKI,Elkhart Municipal Airport,US,US-IN,41.7193984985,-86.00319671630001,small_airport,0,10,False
+EKN,Elkins-Randolph Co-Jennings Randolph Field,US,US-WV,38.88940048,-79.85710144,medium_airport,0,20,False
+EKO,Elko Regional Airport,US,US-NV,40.82490158081055,-115.79199981689453,medium_airport,112,20,False
+EKX,Addington Field,US,US-KY,37.686000824,-85.9250030518,small_airport,0,10,True
+ELA,Eagle Lake Airport,US,US-TX,29.600599288900003,-96.3218994141,small_airport,0,10,True
+ELD,South Arkansas Regional At Goodwin Field,US,US-AR,33.22100067138672,-92.81330108642578,medium_airport,0,20,True
+ELK,Elk City Regional Business Airport,US,US-OK,35.43080139,-99.39430237,small_airport,0,10,True
+ELM,Elmira Corning Regional Airport,US,US-NY,42.1599006652832,-76.8916015625,medium_airport,28,20,False
+ELN,Bowers Field,US,US-WA,47.03300095,-120.5309982,small_airport,0,10,False
+LYU,Ely Municipal Airport,US,US-MN,47.82450104,-91.83070374,medium_airport,0,20,False
+ELP,El Paso International Airport,US,US-TX,31.80719948,-106.3779984,medium_airport,2967,20,True
+ELY,Ely Airport Yelland Field,US,US-NV,39.29970169,-114.8420029,medium_airport,0,20,True
+ELZ,"Wellsville Municipal Arpt,Tarantine Field",US,US-NY,42.10950089,-77.98999786,small_airport,0,10,False
+EMM,Kemmerer Municipal Airport,US,US-WY,41.82410049439999,-110.556999207,small_airport,0,10,False
+EMP,Emporia Municipal Airport,US,US-KS,38.3320999146,-96.19120025630001,small_airport,0,10,True
+EMT,San Gabriel Valley Airport,US,US-CA,34.086102,-118.035004,small_airport,0,10,True
+END,Vance Air Force Base,US,US-OK,36.339199066199996,-97.9164962769,large_airport,0,30,True
+ENL,Centralia Municipal Airport,US,US-IL,38.515098571799996,-89.0911026001,small_airport,0,10,True
+ENV,Wendover Airport,US,US-UT,40.7187004089,-114.03099823,medium_airport,0,20,False
+ENW,Kenosha Regional Airport,US,US-WI,42.59569931,-87.92780304,medium_airport,0,20,False
+EOK,Keokuk Municipal Airport,US,US-IA,40.459899902299995,-91.4284973145,small_airport,0,10,False
+EPH,Ephrata Municipal Airport,US,US-WA,47.30759811,-119.5159988,small_airport,0,10,False
+EDK,Captain Jack Thomas El Dorado Airport,US,US-KS,37.7741012573,-96.81759643550001,small_airport,0,10,True
+ERI,Erie International Tom Ridge Field,US,US-PA,42.0831270134,-80.1738667488,large_airport,231,30,False
+ERR,Errol Airport,US,US-NH,44.7924995422,-71.1641998291,small_airport,0,10,False
+ERV,Kerrville Municipal Louis Schreiner Field,US,US-TX,29.9766998291,-99.08570098879999,small_airport,0,10,True
+ESC,Delta County Airport,US,US-MI,45.7226982117,-87.0936965942,small_airport,102,10,False
+ESF,Esler Regional Airport,US,US-LA,31.3948993683,-92.2957992554,medium_airport,0,20,True
+ESN,Easton Newnam Field,US,US-MD,38.8041992188,-76.06900024410001,small_airport,0,10,False
+EST,Estherville Municipal Airport,US,US-IA,43.40739822,-94.74639893,small_airport,0,10,False
+ESW,Easton State Airport,US,US-WA,47.2541999817,-121.185997009,small_airport,0,10,False
+ETB,West Bend Municipal Airport,US,US-WI,43.4221992493,-88.1278991699,small_airport,0,10,False
+ETN,Eastland Municipal Airport,US,US-TX,32.4135017395,-98.80979919430001,small_airport,0,10,True
+EUF,Weedon Field,US,US-AL,31.9512996674,-85.1288986206,small_airport,0,10,True
+EUG,Mahlon Sweet Field,US,US-OR,44.12459945678711,-123.21199798583984,medium_airport,917,20,False
+EVM,Eveleth Virginia Municipal Airport,US,US-MN,47.42509842,-92.49849701,small_airport,0,10,False
+EVV,Evansville Regional Airport,US,US-IN,38.0369987488,-87.5324020386,medium_airport,643,20,True
+EVW,Evanston-Uinta County Airport-Burns Field,US,US-WY,41.27479935,-111.0350037,medium_airport,0,20,False
+EWB,New Bedford Regional Airport,US,US-MA,41.67610168457031,-70.95690155029297,medium_airport,0,20,False
+EWK,Newton City-County Airport,US,US-KS,38.058200836199994,-97.2744979858,small_airport,0,10,True
+EWN,Coastal Carolina Regional Airport,US,US-NC,35.0730018616,-77.04290008539999,medium_airport,414,20,False
+EWR,Newark Liberty International Airport,US,US-NJ,40.692501068115234,-74.168701171875,large_airport,21985,30,False
+EYW,Key West International Airport,US,US-FL,24.556100845336914,-81.75959777832031,medium_airport,730,20,False
+WIB,Wilbarger County Airport,US,US-TX,34.2257003784,-99.2837982178,small_airport,0,10,True
+RBK,French Valley Airport,US,US-CA,33.5741996765,-117.127998352,small_airport,0,10,True
+FAF,Felker Army Air Field,US,US-VA,37.132499694799996,-76.60880279540001,medium_airport,0,20,False
+FAM,Farmington Regional Airport,US,US-MO,37.76110077,-90.4285965,small_airport,0,10,True
+FAR,Hector International Airport,US,US-ND,46.92070007324219,-96.81580352783203,medium_airport,874,20,False
+FAT,Fresno Yosemite International Airport,US,US-CA,36.77619934082031,-119.71800231933594,medium_airport,2087,20,True
+FAY,Fayetteville Regional Grannis Field,US,US-NC,34.9911994934082,-78.88030242919922,medium_airport,662,20,False
+FBG,Simmons Army Air Field,US,US-NC,35.13180161,-78.93669891,medium_airport,0,20,False
+FBL,Faribault Municipal Airport-Liz Wall Strohfus Field,US,US-MN,44.32844,-93.312534,small_airport,0,10,False
+FBR,Fort Bridger Airport,US,US-WY,41.3918991089,-110.406997681,small_airport,0,10,False
+FBY,Fairbury Municipal Airport,US,US-NE,40.182998657199995,-97.16929626459999,small_airport,0,10,False
+FCH,Fresno Chandler Executive Airport,US,US-CA,36.73239899,-119.8199997,small_airport,0,10,True
+FCM,Flying Cloud Airport,US,US-MN,44.8272018433,-93.45709991460001,small_airport,0,10,False
+FCS,Butts AAF (Fort Carson) Air Field,US,US-CO,38.67839813,-104.7570038,medium_airport,0,20,True
+FCY,Forrest City Municipal Airport,US,US-AR,34.942001342800005,-90.7750015259,small_airport,0,10,True
+FDK,Frederick Municipal Airport,US,US-MD,39.417598724399994,-77.3742980957,small_airport,0,10,False
+FDR,Frederick Regional Airport,US,US-OK,34.35200119,-98.98390198,small_airport,0,10,True
+FDY,Findlay Airport,US,US-OH,41.013500213600004,-83.66870117190001,medium_airport,0,20,False
+FEP,Albertus Airport,US,US-IL,42.2462005615,-89.58200073239999,small_airport,0,10,False
+FET,Fremont Municipal Airport,US,US-NE,41.44910049,-96.52020264,small_airport,0,10,False
+FFA,First Flight Airport,US,US-NC,36.0181999207,-75.67130279540001,small_airport,0,10,False
+FFL,Fairfield Municipal Airport,US,US-IA,41.0532989502,-91.9788970947,small_airport,0,10,False
+FFM,Fergus Falls Municipal Airport - Einar Mickelson Field,US,US-MN,46.28440094,-96.15670013,small_airport,0,10,False
+FFO,Wright-Patterson Air Force Base,US,US-OH,39.8260993958,-84.0483016968,large_airport,0,30,False
+FFT,Capital City Airport,US,US-KY,38.18249893,-84.90470123,small_airport,0,10,False
+MSC,Falcon Field,US,US-AZ,33.4608001709,-111.727996826,small_airport,0,10,True
+FRD,Friday Harbor Airport,US,US-WA,48.5219993591,-123.024002075,small_airport,0,10,False
+FHU,Sierra Vista Municipal Libby Army Air Field,US,US-AZ,31.588499069213867,-110.34400177001953,medium_airport,0,20,True
+FKL,Venango Regional Airport,US,US-PA,41.3778991699,-79.8603973389,medium_airport,0,20,False
+FKN,Franklin Municipal-John Beverly Rose Airport,US,US-VA,36.6981010437,-76.9038009644,small_airport,0,10,False
+FLD,Fond du Lac County Airport,US,US-WI,43.7711982727,-88.48840332030001,small_airport,0,10,False
+FLG,Flagstaff Pulliam Airport,US,US-AZ,35.13850021,-111.6709976,medium_airport,352,20,True
+FLL,Fort Lauderdale Hollywood International Airport,US,US-FL,26.072599,-80.152702,large_airport,13737,30,False
+FLO,Florence Regional Airport,US,US-SC,34.18539810180664,-79.7238998413086,medium_airport,0,20,False
+FLP,Marion County Regional Airport,US,US-AR,36.29090118,-92.59030151,small_airport,0,10,True
+FLV,Sherman Army Air Field,US,US-KS,39.3683013916,-94.9147033691,small_airport,0,10,True
+FLX,Fallon Municipal Airport,US,US-NV,39.4990997314,-118.749000549,small_airport,0,10,True
+FME,Tipton Airport,US,US-MD,39.08539962769999,-76.7593994141,medium_airport,0,20,False
+FMH,Cape Cod Coast Guard Air Station,US,US-MA,41.6584014893,-70.5214004517,small_airport,0,10,False
+FMN,Four Corners Regional Airport,US,US-NM,36.741199493399996,-108.230003357,medium_airport,0,20,True
+FMY,Page Field,US,US-FL,26.58659935,-81.86329650879999,medium_airport,0,20,False
+FNL,Northern Colorado Regional Airport,US,US-CO,40.451804,-105.011,small_airport,0,10,False
+FNT,Bishop International Airport,US,US-MI,42.96540069580078,-83.74359893798828,medium_airport,557,20,False
+FOD,Fort Dodge Regional Airport,US,US-IA,42.55149841,-94.19259644,medium_airport,0,20,False
+FOE,Topeka Regional Airport - Forbes Field,US,US-KS,38.950901031499995,-95.66359710690001,medium_airport,0,20,True
+FOK,Francis S Gabreski Airport,US,US-NY,40.8437004089,-72.6317977905,small_airport,0,10,False
+FIL,Fillmore Municipal Airport,US,US-UT,38.95830154,-112.362999,small_airport,0,10,True
+FPR,St Lucie County International Airport,US,US-FL,27.49510002,-80.36830139,medium_airport,0,20,False
+FRG,Republic Airport,US,US-NY,40.7288017273,-73.4133987427,medium_airport,0,20,False
+FRH,French Lick Municipal Airport,US,US-IN,38.5061988831,-86.63690185550001,small_airport,0,10,True
+FRI,Marshall Army Air Field,US,US-KS,39.05530167,-96.76450348,medium_airport,0,20,True
+FRM,Fairmont Municipal Airport,US,US-MN,43.643901825,-94.4156036377,small_airport,0,10,False
+FRR,Front Royal Warren County Airport,US,US-VA,38.9174995422,-78.25350189210002,small_airport,0,10,False
+FSD,Joe Foss Field Airport,US,US-SD,43.582000732400004,-96.741897583,medium_airport,1057,20,False
+FSI,Henry Post Army Air Field (Fort Sill),US,US-OK,34.64979935,-98.40219879,medium_airport,0,20,True
+FSK,Fort Scott Municipal Airport,US,US-KS,37.7984008789,-94.7694015503,small_airport,0,10,True
+FSM,Fort Smith Regional Airport,US,US-AR,35.33660125732422,-94.36740112304688,large_airport,396,30,True
+FST,Fort Stockton Pecos County Airport,US,US-TX,30.9157009125,-102.916000366,medium_airport,0,20,True
+FSU,Fort Sumner Municipal Airport,US,US-NM,34.4833984375,-104.217002869,small_airport,0,10,True
+FMS,Fort Madison Municipal Airport,US,US-IA,40.659301757799994,-91.3267974854,small_airport,0,10,False
+FTK,Godman Army Air Field,US,US-KY,37.907100677500004,-85.9720993042,medium_airport,0,20,True
+FTW,Fort Worth Meacham International Airport,US,US-TX,32.819801,-97.362396,large_airport,0,30,True
+FTY,Fulton County Airport Brown Field,US,US-GA,33.7790985107,-84.5214004517,medium_airport,0,20,False
+FUL,Fullerton Municipal Airport,US,US-CA,33.8720016479,-117.980003357,small_airport,0,10,True
+WFK,Northern Aroostook Regional Airport,US,US-ME,47.2854995728,-68.31279754639999,small_airport,0,10,False
+FWA,Fort Wayne International Airport,US,US-IN,40.97850037,-85.19509888,large_airport,1156,30,False
+FXE,Fort Lauderdale Executive Airport,US,US-FL,26.1972999573,-80.1707000732,medium_airport,0,20,False
+FXY,Forest City Municipal Airport,US,US-IA,43.23469925,-93.62409973,small_airport,0,10,False
+FYM,Fayetteville Municipal Airport,US,US-TN,35.059700012200004,-86.5640029907,small_airport,0,10,True
+FYV,Drake Field,US,US-AR,36.00510025024414,-94.17009735107422,medium_airport,0,20,True
+GAD,Northeast Alabama Regional Airport,US,US-AL,33.972599,-86.088996,small_airport,0,10,True
+GAG,Gage Airport,US,US-OK,36.295501709,-99.7763977051,small_airport,0,10,True
+GAI,Montgomery County Airpark,US,US-MD,39.168300628699996,-77.1660003662,small_airport,0,10,False
+GBD,Great Bend Municipal Airport,US,US-KS,38.3442993164,-98.8591995239,small_airport,0,10,True
+GBG,Galesburg Municipal Airport,US,US-IL,40.937999725299996,-90.431098938,small_airport,0,10,False
+GBR,Walter J. Koladza Airport,US,US-MA,42.18420029,-73.40319824,small_airport,0,10,False
+GCC,Gillette Campbell County Airport,US,US-WY,44.348899841299996,-105.539001465,medium_airport,120,20,False
+JDA,Grant Co Regional/Ogilvie Field,US,US-OR,44.40420151,-118.9629974,small_airport,0,10,False
+GCK,Garden City Regional Airport,US,US-KS,37.9275016785,-100.723999023,medium_airport,120,20,True
+GCN,Grand Canyon National Park Airport,US,US-AZ,35.95240020751953,-112.14700317382812,medium_airport,0,20,True
+GCY,Greeneville-Greene County Municipal Airport,US,US-TN,36.19300079,-82.81510162,small_airport,0,10,False
+GDM,Gardner Municipal Airport,US,US-MA,42.5499992371,-72.0160980225,small_airport,0,10,False
+GDV,Dawson Community Airport,US,US-MT,47.13869858,-104.8069992,medium_airport,0,20,False
+GDW,Gladwin Zettel Memorial Airport,US,US-MI,43.9706001282,-84.47499847410002,small_airport,0,10,False
+GED,Sussex County Airport,US,US-DE,38.68920135,-75.35890198,small_airport,0,10,False
+GEG,Spokane International Airport,US,US-WA,47.61989974975586,-117.53399658203125,large_airport,2053,30,False
+GEY,South Big Horn County Airport,US,US-WY,44.51679993,-108.0830002,small_airport,0,10,False
+GFK,Grand Forks International Airport,US,US-ND,47.949299,-97.176102,medium_airport,330,20,False
+GFL,Floyd Bennett Memorial Airport,US,US-NY,43.3412017822,-73.6102981567,medium_airport,0,20,False
+GGE,Georgetown County Airport,US,US-SC,33.3116989136,-79.3196029663,small_airport,0,10,False
+GGG,East Texas Regional Airport,US,US-TX,32.38399887084961,-94.71150207519531,medium_airport,163,20,True
+GGW,Wokal Field Glasgow International Airport,US,US-MT,48.212502,-106.614998,medium_airport,0,20,False
+GHM,Centerville Municipal Airport,US,US-TN,35.8373985291,-87.44539642330001,small_airport,0,10,True
+GIF,Winter Haven Regional Airport - Gilbert Field,US,US-FL,28.062901,-81.753304,small_airport,0,10,False
+GJT,Grand Junction Regional Airport,US,US-CO,39.1223983765,-108.527000427,medium_airport,677,20,True
+MEJ,Port Meadville Airport,US,US-PA,41.62649918,-80.21469879,small_airport,0,10,False
+GKT,Gatlinburg-Pigeon Forge Airport,US,US-TN,35.85779953,-83.52870178219999,small_airport,0,10,False
+GLD,Renner Field-Goodland Municipal Airport,US,US-KS,39.37060165,-101.6989975,medium_airport,0,20,True
+GLE,Gainesville Municipal Airport,US,US-TX,33.651401519800004,-97.1969985962,small_airport,0,10,True
+GLH,Mid Delta Regional Airport,US,US-MS,33.4828987121582,-90.98560333251953,medium_airport,0,20,True
+GLR,Gaylord Regional Airport,US,US-MI,45.013500213600004,-84.7035980225,small_airport,0,10,False
+GLS,Scholes International At Galveston Airport,US,US-TX,29.265300750732422,-94.86039733886719,medium_airport,0,20,True
+GLW,Glasgow Municipal Airport,US,US-KY,37.03179932,-85.9536972,small_airport,0,10,True
+GMU,Greenville Downtown Airport,US,US-SC,34.847900390599996,-82.34999847410002,medium_airport,0,20,False
+GNG,Gooding Municipal Airport,US,US-ID,42.91719818,-114.7649994,small_airport,0,10,False
+GNT,Grants-Milan Municipal Airport,US,US-NM,35.167301178,-107.902000427,small_airport,0,10,True
+GNV,Gainesville Regional Airport,US,US-FL,29.6900997162,-82.2717971802,medium_airport,892,20,False
+GOK,Guthrie-Edmond Regional Airport,US,US-OK,35.84980011,-97.41560364,small_airport,0,10,True
+GON,Groton New London Airport,US,US-CT,41.330101013183594,-72.04509735107422,medium_airport,0,20,False
+FCA,Glacier Park International Airport,US,US-MT,48.31050109863281,-114.25599670410156,medium_airport,634,20,False
+GPT,Gulfport Biloxi International Airport,US,US-MS,30.40730094909668,-89.07009887695312,large_airport,776,30,True
+GPZ,Grand Rapids Itasca Co-Gordon Newstrom field,US,US-MN,47.21110153,-93.50980377,small_airport,0,10,False
+GQQ,Galion Municipal Airport,US,US-OH,40.7533988953,-82.7238006592,small_airport,0,10,False
+GRB,Austin Straubel International Airport,US,US-WI,44.48509979248047,-88.12960052490234,large_airport,1081,30,False
+GRD,Greenwood County Airport,US,US-SC,34.2486991882,-82.15910339359999,small_airport,0,10,False
+GRE,Greenville Airport,US,US-IL,38.8362007141,-89.37840271,small_airport,0,10,True
+GRF,Gray Army Air Field,US,US-WA,47.07920074,-122.5810013,medium_airport,0,20,False
+GRI,Central Nebraska Regional Airport,US,US-NE,40.967498779296875,-98.30960083007812,medium_airport,184,20,False
+GRK,Robert Gray  Army Air Field Airport,US,US-TX,31.067199707,-97.82890319820001,medium_airport,572,20,True
+GRN,Gordon Municipal Airport,US,US-NE,42.8059997559,-102.175003052,small_airport,0,10,False
+GRR,Gerald R. Ford International Airport,US,US-MI,42.88079834,-85.52279663,medium_airport,3189,20,False
+GSB,Seymour Johnson Air Force Base,US,US-NC,35.33940125,-77.96060181,large_airport,0,30,False
+GSH,Goshen Municipal Airport,US,US-IN,41.526401519800004,-85.79290008539999,small_airport,0,10,False
+GSO,Piedmont Triad International Airport,US,US-NC,36.097801208496094,-79.93730163574219,large_airport,2284,30,False
+GSP,Greenville Spartanburg International Airport,US,US-SC,34.8956985474,-82.2189025879,large_airport,2619,30,False
+GTF,Great Falls International Airport,US,US-MT,47.48199844,-111.3710022,medium_airport,310,20,False
+GTG,Grantsburg Municipal Airport,US,US-WI,45.7980995178,-92.6643981934,small_airport,0,10,False
+GTR,Golden Triangle Regional Airport,US,US-MS,33.450298309299995,-88.5914001465,medium_airport,208,20,True
+GUC,Gunnison Crested Butte Regional Airport,US,US-CO,38.53390121,-106.9329987,small_airport,0,10,True
+GUP,Gallup Municipal Airport,US,US-NM,35.511100769,-108.789001465,medium_airport,0,20,True
+GUS,Grissom Air Reserve Base,US,US-IN,40.648101806599996,-86.1520996094,large_airport,0,30,False
+GUY,Guymon Municipal Airport,US,US-OK,36.6851005554,-101.508003235,medium_airport,0,20,True
+GVL,Lee Gilmer Memorial Airport,US,US-GA,34.27259827,-83.8302002,small_airport,0,10,False
+GVT,Majors Airport,US,US-TX,33.0677986145,-96.0652999878,small_airport,0,10,True
+GWO,Greenwood–Leflore Airport,US,US-MS,33.4943008423,-90.0847015381,medium_airport,0,20,True
+GWS,Glenwood Springs Municipal Airport,US,US-CO,39.5083007812,-107.310997009,small_airport,0,10,True
+KGX,Grayling Airport,US,US-AK,62.895187,-160.066289,small_airport,0,10,False
+GXY,Greeley–Weld County Airport,US,US-CO,40.4374008179,-104.633003235,small_airport,0,10,False
+GDC,Donaldson Field Airport,US,US-SC,34.758301,-82.376404,small_airport,0,10,False
+PNX,North Texas Regional Airport/Perrin Field,US,US-TX,33.714099884,-96.6736984253,small_airport,0,10,True
+GYR,Phoenix Goodyear Airport,US,US-AZ,33.4225006104,-112.375999451,small_airport,0,10,True
+GYY,Gary Chicago International Airport,US,US-IN,41.61629867553711,-87.41280364990234,medium_airport,0,20,False
+KGZ,Glacier Creek Airport,US,US-AK,61.4551010132,-142.380996704,small_airport,0,10,False
+HAB,Marion County Rankin Fite Airport,US,US-AL,34.11759949,-87.99819946,small_airport,0,10,True
+HAF,Half Moon Bay Airport,US,US-CA,37.513401031499995,-122.500999451,small_airport,0,10,True
+HAI,Three Rivers Municipal Dr Haines Airport,US,US-MI,41.9598007202,-85.59339904790001,small_airport,0,10,False
+HAO,Butler Co Regional Airport - Hogan Field,US,US-OH,39.363800048799995,-84.5220031738,small_airport,0,10,False
+HBG,Hattiesburg Bobby L Chain Municipal Airport,US,US-MS,31.26479912,-89.25279999,medium_airport,0,20,True
+HBR,Hobart Regional Airport,US,US-OK,34.991317,-99.051313,medium_airport,0,20,True
+HDE,Brewster Field,US,US-NE,40.452099,-99.336502,small_airport,0,10,False
+HDN,Yampa Valley Airport,US,US-CO,40.48120117,-107.2180023,small_airport,0,10,False
+HEE,Thompson-Robbins Airport,US,US-AR,34.576571,-90.67616,small_airport,0,10,True
+MNZ,Manassas Regional Airport/Harry P. Davis Field,US,US-VA,38.72140121,-77.51540375,small_airport,0,10,False
+HEZ,Hardy-Anders Field / Natchez-Adams County Airport,US,US-MS,31.613738,-91.297313,small_airport,0,10,True
+HFD,Hartford Brainard Airport,US,US-CT,41.736698150635,-72.649398803711,medium_airport,0,20,False
+HFF,Mackall Army Air Field,US,US-NC,35.036288,-79.497755,small_airport,0,10,False
+HGR,Hagerstown Regional Richard A Henson Field,US,US-MD,39.707901,-77.72949982,medium_airport,18,20,False
+HHR,Jack Northrop Field Hawthorne Municipal Airport,US,US-CA,33.922798,-118.334999,medium_airport,0,20,True
+HUJ,Stan Stamper Municipal Airport,US,US-OK,34.03480148,-95.54190063,small_airport,0,10,True
+HIB,Range Regional Airport,US,US-MN,47.38660049,-92.83899689,large_airport,102,30,False
+HIE,Mount Washington Regional Airport,US,US-NH,44.367637,-71.544502,small_airport,0,10,False
+HIF,Hill Air Force Base,US,US-UT,41.12403,-111.973086,medium_airport,0,20,False
+HII,Lake Havasu City Airport,US,US-AZ,34.571098,-114.358002,small_airport,0,10,True
+HIO,Portland Hillsboro Airport,US,US-OR,45.540401,-122.949997,medium_airport,0,20,False
+HKA,Blytheville Municipal Airport,US,US-AR,35.940399169900004,-89.83080291750001,small_airport,0,10,True
+HKS,Hawkins Field,US,US-MS,32.33449936,-90.22219849,small_airport,0,10,True
+HKY,Hickory Regional Airport,US,US-NC,35.74110031,-81.38950348,medium_airport,0,20,False
+HLB,Hillenbrand Industries Airport,US,US-IN,39.344501495399996,-85.25830078119999,small_airport,0,10,True
+HLC,Hill City Municipal Airport,US,US-KS,39.37879944,-99.83149719,small_airport,0,10,True
+HLG,Wheeling Ohio County Airport,US,US-WV,40.1749992371,-80.6463012695,medium_airport,0,20,False
+HLM,Park Township Airport,US,US-MI,42.7958984375,-86.1620025635,small_airport,0,10,False
+HLN,Helena Regional Airport,US,US-MT,46.6068000793457,-111.98300170898438,medium_airport,221,20,False
+HLR,Hood Army Air Field,US,US-TX,31.138700485199998,-97.71450042720001,medium_airport,0,20,True
+HMN,Holloman Air Force Base,US,US-NM,32.8525009155,-106.107002258,large_airport,0,30,True
+HMT,Hemet Ryan Airport,US,US-CA,33.7340011597,-117.023002625,small_airport,0,10,True
+HNB,Huntingburg Airport,US,US-IN,38.2490005493,-86.95369720459999,small_airport,0,10,True
+HSH,Henderson Executive Airport,US,US-NV,35.9728012085,-115.134002686,small_airport,0,10,True
+HOB,Lea County Regional Airport,US,US-NM,32.6875,-103.2170029,medium_airport,112,20,True
+HON,Huron Regional Airport,US,US-SD,44.38520050048828,-98.22850036621094,medium_airport,0,20,False
+HOP,Campbell AAF (Fort Campbell) Air Field,US,US-KY,36.668598175,-87.49620056150002,medium_airport,0,20,True
+HOT,Memorial Field,US,US-AR,34.47800064086914,-93.09619903564453,medium_airport,0,20,True
+HOU,William P Hobby Airport,US,US-TX,29.64539909,-95.27890015,large_airport,9847,30,True
+HPN,Westchester County Airport,US,US-NY,41.06700134277344,-73.70760345458984,medium_airport,1888,20,False
+HPT,Hampton Municipal Airport,US,US-IA,42.7237014771,-93.22630310059999,small_airport,0,10,False
+HPY,Baytown Airport,US,US-TX,29.786100387599998,-94.95269775390001,small_airport,0,10,True
+HQM,Bowerman Airport,US,US-WA,46.971199035599994,-123.93699646,medium_airport,0,20,False
+HES,Hermiston Municipal Airport,US,US-OR,45.828223,-119.259024,small_airport,0,10,False
+HRL,Valley International Airport,US,US-TX,26.228500366210938,-97.65440368652344,medium_airport,731,20,True
+HRO,Boone County Airport,US,US-AR,36.26150131225586,-93.15470123291016,medium_airport,0,20,True
+HSB,Harrisburg-Raleigh Airport,US,US-IL,37.81129837,-88.5503006,small_airport,0,10,True
+HNC,Billy Mitchell Airport,US,US-NC,35.232799530029,-75.617797851562,small_airport,0,10,False
+THP,Hot Springs County Airport,US,US-WY,43.713602,-108.389687,small_airport,0,10,False
+HSI,Hastings Municipal Airport,US,US-NE,40.6053009033,-98.42790222170001,small_airport,0,10,False
+HSP,Ingalls Field,US,US-VA,37.95140076,-79.83390045,small_airport,0,10,False
+HST,Homestead ARB Airport,US,US-FL,25.48859978,-80.38359833,medium_airport,0,20,False
+HSV,Huntsville International Carl T Jones Field,US,US-AL,34.637199401855,-86.775100708008,large_airport,1719,30,True
+HTH,Hawthorne Industrial Airport,US,US-NV,38.544399,-118.634002,small_airport,0,10,True
+HTL,Roscommon County - Blodgett Memorial Airport,US,US-MI,44.359798,-84.671095,small_airport,0,10,False
+HTO,East Hampton Airport,US,US-NY,40.95959854,-72.25180054,small_airport,0,10,False
+HTS,Tri-State/Milton J. Ferguson Field,US,US-WV,38.36669922,-82.55799866,large_airport,44,30,False
+HTW,Lawrence County Airpark,US,US-OH,38.4193,-82.494301,small_airport,0,10,False
+HUA,Redstone Army Air Field,US,US-AL,34.67869949,-86.68479919,medium_airport,0,20,True
+HUF,"Terre Haute Regional Airport, Hulman Field",US,US-IN,39.4515,-87.307602,medium_airport,0,20,True
+HUL,Houlton International Airport,US,US-ME,46.1231002808,-67.792098999,medium_airport,0,20,False
+HUM,Houma Terrebonne Airport,US,US-LA,29.5664997101,-90.6604003906,small_airport,0,10,True
+HUT,Hutchinson Municipal Airport,US,US-KS,38.0654983521,-97.86060333250002,medium_airport,0,20,True
+HVE,Hanksville Airport,US,US-UT,38.417999267599996,-110.70400238,small_airport,0,10,True
+HVN,Tweed New Haven Airport,US,US-CT,41.26369858,-72.88680267,medium_airport,184,20,False
+HVR,Havre City County Airport,US,US-MT,48.54299927,-109.762001,medium_airport,0,20,False
+HVS,Hartsville Regional Airport,US,US-SC,34.4030990601,-80.11920166019999,small_airport,0,10,False
+HWD,Hayward Executive Airport,US,US-CA,37.659198761,-122.122001648,small_airport,0,10,True
+HWO,North Perry Airport,US,US-FL,26.0012,-80.2407,small_airport,0,10,False
+WSH,Brookhaven Airport,US,US-NY,40.8218994141,-72.86940002440001,small_airport,0,10,False
+HHH,Hilton Head Airport,US,US-SC,32.2243995667,-80.6975021362,small_airport,391,10,False
+HYA,Barnstable Municipal Boardman Polando Field,US,US-MA,41.66930008,-70.28040314,medium_airport,6,20,False
+HYR,Sawyer County Airport,US,US-WI,46.025199890100005,-91.44429779050002,medium_airport,0,20,False
+HYS,Hays Regional Airport,US,US-KS,38.84220123,-99.27320099,medium_airport,206,20,True
+HZL,Hazleton Municipal Airport,US,US-PA,40.986801147499996,-75.9949035645,small_airport,0,10,False
+JFN,Northeast Ohio Regional Airport,US,US-OH,41.7779998779,-80.6955032349,small_airport,0,10,False
+IAB,Mc Connell Air Force Base,US,US-KS,37.62189865,-97.26820374,medium_airport,0,20,True
+IAD,Washington Dulles International Airport,US,US-DC,38.94449997,-77.45580292,large_airport,11396,30,False
+IAG,Niagara Falls International Airport,US,US-NY,43.1072998046875,-78.94619750976562,medium_airport,84,20,False
+IAH,George Bush Intercontinental Houston Airport,US,US-TX,29.984399795532227,-95.34140014648438,large_airport,29543,30,True
+ICL,Schenck Field,US,US-IA,40.72180176,-95.02639771,small_airport,0,10,False
+ICT,Wichita Eisenhower National Airport,US,US-KS,37.649899,-97.433098,large_airport,1758,30,True
+IDA,Idaho Falls Regional Airport,US,US-ID,43.514599,-112.070999,medium_airport,431,20,False
+IDI,Indiana County/Jimmy Stewart Fld/ Airport,US,US-PA,40.63219833,-79.10549927,small_airport,0,10,False
+IDP,Independence Municipal Airport,US,US-KS,37.1584014893,-95.77839660640001,small_airport,0,10,True
+XPR,Pine Ridge Airport,US,US-SD,43.0224990845,-102.511001587,small_airport,0,10,False
+IFA,Iowa Falls Municipal Airport,US,US-IA,42.4707984924,-93.2699966431,small_airport,0,10,False
+IFP,Laughlin Bullhead International Airport,US,US-AZ,35.15739822,-114.5599976,small_airport,0,10,True
+IGM,Kingman Airport,US,US-AZ,35.259498596191406,-113.93800354003906,small_airport,0,10,True
+IKK,Greater Kankakee Airport,US,US-IL,41.07139968869999,-87.8462982178,medium_airport,0,20,False
+ILE,Skylark Field,US,US-TX,31.0858001709,-97.6865005493,small_airport,0,10,True
+ILG,New Castle Airport,US,US-DE,39.67869949,-75.60649872,medium_airport,0,20,False
+ILM,Wilmington International Airport,US,US-NC,34.270599365234375,-77.90260314941406,medium_airport,1142,20,False
+ILN,Wilmington Airpark,US,US-OH,39.427898407,-83.792098999,medium_airport,0,20,False
+IML,Imperial Municipal Airport,US,US-NE,40.50930023,-101.6210022,small_airport,0,10,False
+IMM,Immokalee Regional Airport,US,US-FL,26.43320084,-81.40100098,small_airport,0,10,False
+MDN,Madison Municipal Airport,US,US-IN,38.75889969,-85.46549988,small_airport,0,10,True
+IMT,Ford Airport,US,US-MI,45.8184013367,-88.1145019531,small_airport,112,10,False
+IND,Indianapolis International Airport,US,US-IN,39.7173,-86.294403,large_airport,7621,30,True
+INK,Winkler County Airport,US,US-TX,31.779600143399996,-103.200996399,medium_airport,0,20,True
+INL,Falls International Airport,US,US-MN,48.566200256347656,-93.4030990600586,medium_airport,104,20,False
+INS,Creech Air Force Base,US,US-NV,36.587200164799995,-115.672996521,small_airport,0,10,True
+INT,Smith Reynolds Airport,US,US-NC,36.13370132446289,-80.22200012207031,medium_airport,0,20,False
+INW,Winslow Lindbergh Regional Airport,US,US-AZ,35.021900177,-110.722999573,medium_airport,0,20,True
+IOW,Iowa City Municipal Airport,US,US-IA,41.639198303200004,-91.5465011597,small_airport,0,10,False
+IPL,Imperial County Airport,US,US-CA,32.834201812699995,-115.57900238,medium_airport,0,20,True
+IPT,Williamsport Regional Airport,US,US-PA,41.241798400878906,-76.92109680175781,medium_airport,0,20,False
+IRK,Kirksville Regional Airport,US,US-MO,40.09349822998047,-92.5448989868164,medium_airport,0,20,False
+IRS,Kirsch Municipal Airport,US,US-MI,41.81330109,-85.43900299,small_airport,0,10,False
+ISM,Kissimmee Gateway Airport,US,US-FL,28.2898006439,-81.4371032715,medium_airport,0,20,False
+ISN,Sloulin Field International Airport,US,US-ND,48.177898407,-103.641998291,medium_airport,120,20,False
+ISO,Kinston Regional Jetport At Stallings Field,US,US-NC,35.331401825,-77.60880279540001,medium_airport,0,20,False
+ISP,Long Island Mac Arthur Airport,US,US-NY,40.79520035,-73.10019684,medium_airport,785,20,False
+ISQ,Schoolcraft County Airport,US,US-MI,45.97460175,-86.17179871,small_airport,0,10,False
+ISW,Alexander Field South Wood County Airport,US,US-WI,44.3602981567,-89.83899688720001,small_airport,0,10,False
+ITH,Ithaca Tompkins Regional Airport,US,US-NY,42.49100112915039,-76.4583969116211,medium_airport,172,20,False
+AZA,Phoenix-Mesa-Gateway Airport,US,US-AZ,33.30780029,-111.6549988,medium_airport,606,20,True
+IWD,Gogebic Iron County Airport,US,US-MI,46.527500152600005,-90.131401062,small_airport,0,10,False
+ISS,Wiscasset Airport,US,US-ME,43.9613990784,-69.712600708,small_airport,0,10,False
+IWS,West Houston Airport,US,US-TX,29.818199157699997,-95.67259979250001,small_airport,0,10,True
+JCI,New Century Aircenter Airport,US,US-KS,38.8308982849,-94.890296936,small_airport,0,10,True
+IYK,Inyokern Airport,US,US-CA,35.65879822,-117.8300018,small_airport,0,10,True
+SQA,Santa Ynez Airport,US,US-CA,34.60680008,-120.0759964,small_airport,0,10,True
+FRY,Eastern Slopes Regional Airport,US,US-ME,43.991100311299995,-70.9478988647,small_airport,0,10,False
+JAC,Jackson Hole Airport,US,US-WY,43.6072998046875,-110.73799896240234,medium_airport,837,20,False
+JAN,Jackson-Medgar Wiley Evers International Airport,US,US-MS,32.3111991882,-90.0758972168,large_airport,1417,30,True
+JAS,Jasper County Airport-Bell Field,US,US-TX,30.88570023,-94.03489685,small_airport,0,10,True
+JAX,Jacksonville International Airport,US,US-FL,30.49410057067871,-81.68789672851562,large_airport,5310,30,False
+JBR,Jonesboro Municipal Airport,US,US-AR,35.83169937133789,-90.64640045166016,medium_airport,0,20,True
+JCT,Kimble County Airport,US,US-TX,30.5112991333,-99.7634963989,medium_airport,0,20,True
+JDN,Jordan Airport,US,US-MT,47.3288002014,-106.95300293,small_airport,0,10,False
+JEF,Jefferson City Memorial Airport,US,US-MO,38.5912017822,-92.15609741210001,small_airport,0,10,True
+JFK,John F Kennedy International Airport,US,US-NY,40.63980103,-73.77890015,large_airport,20530,30,False
+JHW,Chautauqua County-Jamestown Airport,US,US-NY,42.15340042,-79.25800323,medium_airport,0,20,False
+GUF,Jack Edwards Airport,US,US-AL,30.29050064,-87.67179871,small_airport,0,10,True
+JLN,Joplin Regional Airport,US,US-MO,37.151798248291016,-94.49829864501953,large_airport,296,30,True
+JMS,Jamestown Regional Airport,US,US-ND,46.92969894,-98.67819977,medium_airport,164,20,False
+JOT,Joliet Regional Airport,US,US-IL,41.51779938,-88.17549896,small_airport,0,10,False
+USA,Concord-Padgett Regional Airport,US,US-NC,35.387798,-80.709099,small_airport,184,10,False
+JKV,Cherokee County Airport,US,US-TX,31.8693008423,-95.2173995972,small_airport,0,10,True
+JST,John Murtha Johnstown Cambria County Airport,US,US-PA,40.31610107421875,-78.83390045166016,medium_airport,0,20,False
+JVL,Southern Wisconsin Regional Airport,US,US-WI,42.620300293,-89.0416030884,small_airport,0,10,False
+JXN,Jackson County Reynolds Field,US,US-MI,42.259799957300004,-84.45939636230001,medium_airport,0,20,False
+KIC,Mesa Del Rey Airport,US,US-CA,36.2280006409,-121.122001648,small_airport,0,10,True
+KLS,Southwest Washington Regional Airport,US,US-WA,46.11800003049999,-122.898002625,medium_airport,0,20,False
+KKU,Ekuk Airport,US,US-AK,58.8111991882,-158.559005737,small_airport,0,10,False
+DTH,Furnace Creek Airport,US,US-CA,36.463799,-116.880997,small_airport,0,10,True
+BXS,Borrego Valley Airport,US,US-CA,33.2589988708,-116.320999146,small_airport,0,10,True
+RBF,Big Bear City Airport,US,US-CA,34.2638015747,-116.856002808,small_airport,0,10,True
+TRH,Trona Airport,US,US-CA,35.8125,-117.327003479,small_airport,0,10,True
+LAA,Lamar Municipal Airport,US,US-CO,38.069698333699996,-102.68800354,small_airport,0,10,True
+LAF,Purdue University Airport,US,US-IN,40.41230010986328,-86.93689727783203,medium_airport,0,20,False
+LAL,Lakeland Linder International Airport,US,US-FL,27.988899,-82.018602,medium_airport,0,20,False
+LAM,Los Alamos Airport,US,US-NM,35.8797988892,-106.268997192,small_airport,0,10,True
+LAN,Capital City Airport,US,US-MI,42.77870178222656,-84.58740234375,medium_airport,544,20,False
+LAR,Laramie Regional Airport,US,US-WY,41.31209945678711,-105.67500305175781,medium_airport,102,20,False
+LAS,McCarran International Airport,US,US-NV,36.08010101,-115.1520004,large_airport,27750,30,True
+LAW,Lawton Fort Sill Regional Airport,US,US-OK,34.5676994324,-98.4166030884,medium_airport,230,20,True
+LAX,Los Angeles International Airport,US,US-CA,33.94250107,-118.4079971,large_airport,35551,30,True
+LBB,Lubbock Preston Smith International Airport,US,US-TX,33.663601,-101.822998,large_airport,1224,30,True
+LBE,Arnold Palmer Regional Airport,US,US-PA,40.27590179,-79.40480042,medium_airport,164,20,False
+LBF,North Platte Regional Airport Lee Bird Field,US,US-NE,41.12620163,-100.6839981,medium_airport,102,20,False
+LBL,Liberal Mid-America Regional Airport,US,US-KS,37.0442009,-100.9599991,medium_airport,103,20,True
+LBT,Lumberton Regional Airport,US,US-NC,34.6099014282,-79.05940246579999,medium_airport,0,20,False
+LJN,Texas Gulf Coast Regional Airport,US,US-TX,29.1086006165,-95.462097168,medium_airport,0,20,True
+LCH,Lake Charles Regional Airport,US,US-LA,30.126100540161133,-93.22329711914062,medium_airport,349,20,True
+LCI,Laconia Municipal Airport,US,US-NH,43.5727005005,-71.4188995361,small_airport,0,10,False
+LCK,Rickenbacker International Airport,US,US-OH,39.813801,-82.927803,large_airport,110,30,False
+LCQ,Lake City Gateway Airport,US,US-FL,30.1819992065,-82.57689666750001,small_airport,0,10,False
+LDJ,Linden Airport,US,US-NJ,40.617401123,-74.2445983887,small_airport,0,10,False
+LDM,Mason County Airport,US,US-MI,43.96250153,-86.40789795,small_airport,0,10,False
+LEB,Lebanon Municipal Airport,US,US-NH,43.626098632799994,-72.30419921880001,medium_airport,0,20,False
+LEE,Leesburg International Airport,US,US-FL,28.82309914,-81.80870056,medium_airport,0,20,False
+LEM,Lemmon Municipal Airport,US,US-SD,45.9187011719,-102.106002808,small_airport,0,10,False
+LEW,Auburn Lewiston Municipal Airport,US,US-ME,44.048500061,-70.2835006714,small_airport,0,10,False
+LEX,Blue Grass Airport,US,US-KY,38.0364990234375,-84.60590362548828,large_airport,1404,30,False
+LFI,Langley Air Force Base,US,US-VA,37.082901001,-76.360496521,large_airport,0,30,False
+LFK,Angelina County Airport,US,US-TX,31.2339992523,-94.75,medium_airport,0,20,True
+LFT,Lafayette Regional Airport,US,US-LA,30.20529938,-91.98760223,large_airport,883,30,True
+LGA,La Guardia Airport,US,US-NY,40.77719879,-73.87259674,large_airport,28164,30,False
+LGB,Long Beach /Daugherty Field/ Airport,US,US-CA,33.81769943,-118.1520004,medium_airport,2708,20,True
+LGC,LaGrange Callaway Airport,US,US-GA,33.0089,-85.072601,small_airport,0,10,True
+LGD,La Grande/Union County Airport,US,US-OR,45.2901992798,-118.007003784,small_airport,0,10,False
+LGF,Laguna Army Airfield,US,US-AZ,32.86000061,-114.3970032,small_airport,0,10,True
+LGU,Logan-Cache Airport,US,US-UT,41.7911987305,-111.851997375,medium_airport,0,20,False
+LHV,William T. Piper Memorial Airport,US,US-PA,41.13560104,-77.42230225,small_airport,0,10,False
+LIY,Wright AAF (Fort Stewart)/Midcoast Regional Airport,US,US-GA,31.889099,-81.562303,small_airport,0,10,False
+LFN,Triangle North Executive Airport,US,US-NC,36.0233,-78.330299,small_airport,0,10,False
+LIC,Limon Municipal Airport,US,US-CO,39.274799346900004,-103.666000366,small_airport,0,10,True
+LIT,Bill & Hillary Clinton National Airport/Adams Field,US,US-AR,34.729400634799994,-92.2242965698,large_airport,2392,30,True
+LKP,Lake Placid Airport,US,US-NY,44.2644996643,-73.96189880370001,small_airport,0,10,False
+LOW,Louisa County Airport/Freeman Field,US,US-VA,38.00979996,-77.9701004,small_airport,0,10,False
+LKV,Lake County Airport,US,US-OR,42.161098480199996,-120.399002075,small_airport,0,10,False
+CHL,Challis Airport,US,US-ID,44.522999,-114.218002,small_airport,0,10,False
+LMS,Louisville Winston County Airport,US,US-MS,33.1461982727,-89.0625,small_airport,0,10,True
+LMT,Crater Lake-Klamath Regional Airport,US,US-OR,42.156101,-121.733002,medium_airport,0,20,False
+LNA,Palm Beach County Park Airport,US,US-FL,26.59300041,-80.08509827,small_airport,0,10,False
+LND,Hunt Field,US,US-WY,42.8152008057,-108.730003357,medium_airport,0,20,False
+LNK,Lincoln Airport,US,US-NE,40.85100173950195,-96.75920104980469,medium_airport,413,20,False
+LNN,Willoughby Lost Nation Municipal Airport,US,US-OH,41.683998107899995,-81.3897018433,small_airport,0,10,False
+LNP,Lonesome Pine Airport,US,US-VA,36.9874992371,-82.5299987793,small_airport,0,10,False
+LNR,Tri-County Regional Airport,US,US-WI,43.2117004395,-90.181602478,small_airport,0,10,False
+LNS,Lancaster Airport,US,US-PA,40.121700286865234,-76.29609680175781,medium_airport,0,20,False
+LOL,Derby Field,US,US-NV,40.0663986206,-118.565002441,medium_airport,0,20,False
+BBX,Wings Field,US,US-PA,40.1375007629,-75.2650985718,small_airport,0,10,False
+LOT,Lewis University Airport,US,US-IL,41.6072998,-88.09619904,small_airport,0,10,False
+LOU,Bowman Field,US,US-KY,38.2280006409,-85.6636962891,medium_airport,0,20,True
+LOZ,London-Corbin Airport/Magee Field,US,US-KY,37.0821990967,-84.08489990230001,medium_airport,0,20,False
+LPC,Lompoc Airport,US,US-CA,34.665599823,-120.468002319,small_airport,0,10,True
+LQK,Pickens County Airport,US,US-SC,34.8100013733,-82.70290374759999,small_airport,0,10,False
+LRD,Laredo International Airport,US,US-TX,27.543800354003906,-99.46160125732422,medium_airport,452,20,True
+LRF,Little Rock Air Force Base,US,US-AR,34.916900634799994,-92.14969635010002,medium_airport,0,20,True
+LRJ,Le Mars Municipal Airport,US,US-IA,42.77799988,-96.1937027,small_airport,0,10,False
+LRU,Las Cruces International Airport,US,US-NM,32.289398193359375,-106.9219970703125,medium_airport,0,20,True
+LSB,Lordsburg Municipal Airport,US,US-NM,32.3334999084,-108.692001343,small_airport,0,10,True
+LSE,La Crosse Municipal Airport,US,US-WI,43.879002,-91.256699,medium_airport,360,20,False
+LSF,Lawson Army Air Field (Fort Benning),US,US-GA,32.337299346900004,-84.9913024902,medium_airport,0,20,False
+LSK,Lusk Municipal Airport,US,US-WY,42.753799438499996,-104.404998779,small_airport,0,10,False
+LSN,Los Banos Municipal Airport,US,US-CA,37.06290054,-120.8690033,small_airport,0,10,True
+LSV,Nellis Air Force Base,US,US-NV,36.2361984253,-115.033996582,medium_airport,0,20,True
+LTS,Altus Air Force Base,US,US-OK,34.667098999,-99.2667007446,large_airport,0,30,True
+LUF,Luke Air Force Base,US,US-AZ,33.534999847399995,-112.383003235,large_airport,0,30,True
+LUK,Cincinnati Municipal Airport Lunken Field,US,US-OH,39.10329819,-84.41860199,medium_airport,0,20,False
+LUL,Hesler Noble Field,US,US-MS,31.672599792499998,-89.172203064,small_airport,0,10,True
+LVK,Livermore Municipal Airport,US,US-CA,37.6934013367,-121.819999695,small_airport,0,10,True
+LVL,Lawrenceville Brunswick Municipal Airport,US,US-VA,36.7728004456,-77.79429626459999,small_airport,0,10,False
+LVM,Mission Field,US,US-MT,45.6994018555,-110.447998047,medium_airport,0,20,False
+LVS,Las Vegas Municipal Airport,US,US-NM,35.6542015076,-105.141998291,medium_airport,0,20,True
+LWB,Greenbrier Valley Airport,US,US-WV,37.8582992554,-80.3994979858,medium_airport,138,20,False
+LWC,Lawrence Municipal Airport,US,US-KS,39.01119995,-95.21659851,small_airport,0,10,True
+LWL,Wells Municipal Airport/Harriet Field,US,US-NV,41.117099762,-114.92199707,small_airport,0,10,False
+LWM,Lawrence Municipal Airport,US,US-MA,42.717201232899995,-71.1233978271,medium_airport,0,20,False
+LWS,Lewiston Nez Perce County Airport,US,US-ID,46.3745002746582,-117.01499938964844,medium_airport,180,20,False
+LWT,Lewistown Municipal Airport,US,US-MT,47.04930114746094,-109.46700286865234,medium_airport,0,20,False
+LWV,Lawrenceville Vincennes International Airport,US,US-IL,38.7643013,-87.6054992676,small_airport,0,10,True
+LXN,Jim Kelly Field,US,US-NE,40.791000366199995,-99.7772979736,small_airport,0,10,False
+LXV,Lake County Airport,US,US-CO,39.220298767100005,-106.317001343,small_airport,0,10,True
+LYH,Lynchburg Regional Preston Glenn Field,US,US-VA,37.326698303222656,-79.20040130615234,medium_airport,171,20,False
+LYO,Lyons-Rice County Municipal Airport,US,US-KS,38.34280014,-98.22689819,small_airport,0,10,True
+LZU,Gwinnett County Briscoe Field,US,US-GA,33.97809982,-83.96240234,small_airport,0,10,False
+PCU,Poplarville Pearl River County Airport,US,US-MS,30.785999298096,-89.504501342773,small_airport,0,10,True
+MLK,Malta Airport,US,US-MT,48.366901397700005,-107.918998718,small_airport,0,10,False
+MAC,Macon Downtown Airport,US,US-GA,32.82210159,-83.56199646,small_airport,0,10,False
+MAE,Madera Municipal Airport,US,US-CA,36.9886016846,-120.111999512,small_airport,0,10,True
+MAF,Midland International Airport,US,US-TX,31.9424991607666,-102.2020034790039,medium_airport,1696,20,True
+MAW,Malden Regional Airport,US,US-MO,36.6006012,-89.99220276,small_airport,0,10,True
+MBG,Mobridge Municipal Airport,US,US-SD,45.54650116,-100.4079971,medium_airport,0,20,False
+MBL,Manistee Co Blacker Airport,US,US-MI,44.2723999,-86.24690247,small_airport,0,10,False
+DXE,Bruce Campbell Field,US,US-MS,32.438702,-90.103104,small_airport,0,10,True
+MBS,MBS International Airport,US,US-MI,43.532901763916016,-84.07959747314453,large_airport,372,30,False
+MBY,Omar N Bradley Airport,US,US-MO,39.463901519800004,-92.4270019531,small_airport,0,10,True
+MCB,Mc Comb/Pike County Airport/John E Lewis Field,US,US-MS,31.17849922,-90.47190094,medium_airport,0,20,True
+MCC,Mc Clellan Airfield,US,US-CA,38.66759872,-121.401001,medium_airport,0,20,True
+MCD,Mackinac Island Airport,US,US-MI,45.86489868,-84.63729858,small_airport,0,10,False
+MCE,Merced Regional Macready Field,US,US-CA,37.28469849,-120.5139999,medium_airport,0,20,True
+MCF,Mac Dill Air Force Base,US,US-FL,27.84930038,-82.52120209,large_airport,0,30,False
+MCI,Kansas City International Airport,US,US-MO,39.2976,-94.713898,large_airport,9126,30,True
+MCK,Mc Cook Ben Nelson Regional Airport,US,US-NE,40.20629883,-100.5920029,medium_airport,0,20,False
+MCN,Middle Georgia Regional Airport,US,US-GA,32.69279861450195,-83.64920043945312,medium_airport,0,20,False
+MCO,Orlando International Airport,US,US-FL,28.429399490356445,-81.30899810791016,large_airport,20310,30,False
+MCW,Mason City Municipal Airport,US,US-IA,43.157798767100005,-93.3312988281,medium_airport,0,20,False
+MDD,Midland Airpark,US,US-TX,32.0364990234,-102.100997925,small_airport,0,10,True
+MDH,Southern Illinois Airport,US,US-IL,37.778099060058594,-89.25199890136719,medium_airport,0,20,True
+XMD,Madison Municipal Airport,US,US-SD,44.01599884,-97.08589935,small_airport,0,10,False
+MDT,Harrisburg International Airport,US,US-PA,40.1935005188,-76.7633972168,medium_airport,1036,20,False
+MDW,Chicago Midway International Airport,US,US-IL,41.785999,-87.752403,large_airport,13999,30,False
+MDF,Taylor County Airport,US,US-WI,45.10100174,-90.30329895,small_airport,0,10,False
+MXE,Laurinburg Maxton Airport,US,US-NC,34.791901,-79.365799,small_airport,0,10,False
+MEI,Key Field,US,US-MS,32.33259963989258,-88.75189971923828,medium_airport,127,20,True
+MEM,Memphis International Airport,US,US-TN,35.04240036010742,-89.97669982910156,large_airport,4165,30,True
+MER,Castle Airport,US,US-CA,37.38050079,-120.5680008,medium_airport,0,20,True
+MEV,Minden-Tahoe Airport,US,US-NV,39.00030136,-119.7509995,small_airport,0,10,True
+MFD,Mansfield Lahm Regional Airport,US,US-OH,40.82139968869999,-82.5166015625,medium_airport,0,20,False
+MFE,Mc Allen Miller International Airport,US,US-TX,26.17580032,-98.23860168,medium_airport,936,20,True
+MFI,Marshfield Municipal Airport,US,US-WI,44.6369018555,-90.18930053710001,small_airport,0,10,False
+MFR,Rogue Valley International Medford Airport,US,US-OR,42.37419891357422,-122.87300109863281,medium_airport,788,20,False
+MFV,Accomack County Airport,US,US-VA,37.646900177,-75.761100769,small_airport,0,10,False
+MGC,Michigan City Municipal Airport,US,US-IN,41.703300476100004,-86.8211975098,small_airport,0,10,False
+MGE,Dobbins Air Reserve Base,US,US-GA,33.91540146,-84.51629639,large_airport,0,30,False
+MGJ,Orange County Airport,US,US-NY,41.50999832,-74.26460266,small_airport,0,10,False
+MGM,Montgomery Regional (Dannelly Field) Airport,US,US-AL,32.30059814,-86.39399719,large_airport,604,30,True
+MGR,Moultrie Municipal Airport,US,US-GA,31.084899902300002,-83.8032989502,small_airport,0,10,False
+MGW,Morgantown Municipal Walter L. Bill Hart Field,US,US-WV,39.64289856,-79.91629791,medium_airport,0,20,False
+MGY,Dayton-Wright Brothers Airport,US,US-OH,39.5890007019,-84.224899292,small_airport,0,10,False
+MHE,Mitchell Municipal Airport,US,US-SD,43.774799346900004,-98.03859710690001,small_airport,0,10,False
+MHK,Manhattan Regional Airport,US,US-KS,39.14099884033203,-96.6707992553711,medium_airport,346,20,True
+MHL,Marshall Memorial Municipal Airport,US,US-MO,39.0957984924,-93.20290374759999,small_airport,0,10,True
+MHR,Sacramento Mather Airport,US,US-CA,38.55390167,-121.2979965,medium_airport,0,20,True
+MHT,Manchester-Boston Regional Airport,US,US-NH,42.932598,-71.435699,large_airport,1279,30,False
+MHV,Mojave Airport,US,US-CA,35.05939865,-118.1520004,small_airport,0,10,True
+MIA,Miami International Airport,US,US-FL,25.79319953918457,-80.29060363769531,large_airport,13721,30,False
+MIB,Minot Air Force Base,US,US-ND,48.4156,-101.358002,medium_airport,0,20,False
+MIE,Delaware County Johnson Field,US,US-IN,40.2422981262207,-85.3958969116211,medium_airport,0,20,False
+MIT,Shafter Airport - Minter Field,US,US-CA,35.507401,-119.192002,small_airport,0,10,True
+MIV,Millville Municipal Airport,US,US-NJ,39.367802,-75.072197,medium_airport,0,20,False
+MJX,Ocean County Airport,US,US-NJ,39.92750168,-74.29239655,small_airport,0,10,False
+MKC,Charles B. Wheeler Downtown Airport,US,US-MO,39.123199462890625,-94.5927963256836,medium_airport,0,20,True
+MKE,General Mitchell International Airport,US,US-WI,42.947200775146484,-87.89659881591797,large_airport,5013,30,False
+MKG,Muskegon County Airport,US,US-MI,43.16949844,-86.23819733,small_airport,120,10,False
+MKL,McKellar-Sipes Regional Airport,US,US-TN,35.599899,-88.915604,medium_airport,0,20,True
+MRK,Marco Island Executive Airport,US,US-FL,25.995001,-81.672501,small_airport,0,10,False
+MLB,Melbourne International Airport,US,US-FL,28.102800369262695,-80.64530181884766,medium_airport,396,20,False
+MLC,Mc Alester Regional Airport,US,US-OK,34.882401,-95.783501,medium_airport,0,20,True
+MLI,Quad City International Airport,US,US-IL,41.44850158691406,-90.50749969482422,large_airport,748,30,False
+MLS,Frank Wiley Field,US,US-MT,46.428001403808594,-105.88600158691406,medium_airport,0,20,False
+MLU,Monroe Regional Airport,US,US-LA,32.51089859008789,-92.0376968383789,large_airport,486,30,True
+MMH,Mammoth Yosemite Airport,US,US-CA,37.62409973,-118.8379974,small_airport,60,10,True
+MMI,McMinn County Airport,US,US-TN,35.39730072,-84.56259918,small_airport,0,10,False
+MML,Southwest Minnesota Regional Airport - Marshall/Ryan Field,US,US-MN,44.45050049,-95.82189941,small_airport,0,10,False
+MMS,Selfs Airport,US,US-MS,34.2314987183,-90.28959655759999,small_airport,0,10,True
+MMT,Mc Entire Joint National Guard Base,US,US-SC,33.92079926,-80.80130005,medium_airport,0,20,False
+MMU,Morristown Municipal Airport,US,US-NJ,40.799400329589844,-74.41490173339844,medium_airport,0,20,False
+MNM,Menominee Regional Airport,US,US-MI,45.126701,-87.638397,small_airport,0,10,False
+MNN,Marion Municipal Airport,US,US-OH,40.6161994934,-83.06349945070001,small_airport,0,10,False
+MOB,Mobile Regional Airport,US,US-AL,30.691200256348,-88.242797851562,large_airport,909,30,True
+MOD,Modesto City Co-Harry Sham Field,US,US-CA,37.62580109,-120.9540024,medium_airport,0,20,True
+MOT,Minot International Airport,US,US-ND,48.2593994140625,-101.27999877929688,medium_airport,298,20,False
+RMY,Mariposa Yosemite Airport,US,US-CA,37.5108985901,-120.040000916,small_airport,0,10,True
+MPJ,Petit Jean Park Airport,US,US-AR,35.138901,-92.909202,small_airport,0,10,True
+MPO,Pocono Mountains Municipal Airport,US,US-PA,41.137503,-75.378897,small_airport,0,10,False
+MPV,Edward F Knapp State Airport,US,US-VT,44.20349884,-72.56230164,medium_airport,0,20,False
+MPZ,Mount Pleasant Municipal Airport,US,US-IA,40.94660187,-91.51110077,small_airport,0,10,False
+MQB,Macomb Municipal Airport,US,US-IL,40.520099639899996,-90.65239715579999,small_airport,0,10,False
+MEO,Dare County Regional Airport,US,US-NC,35.91899872,-75.69550323,small_airport,0,10,False
+CTH,Chester County G O Carlson Airport,US,US-PA,39.97900009,-75.8655014,small_airport,0,10,False
+MQY,Smyrna Airport,US,US-TN,36.0089988708,-86.5201034546,medium_airport,0,20,True
+MRB,Eastern WV Regional Airport/Shepherd Field,US,US-WV,39.40190125,-77.98459625,medium_airport,0,20,False
+MRC,Maury County Airport,US,US-TN,35.5541000366,-87.17890167239999,small_airport,0,10,True
+MRF,Marfa Municipal Airport,US,US-TX,30.371099,-104.017997,small_airport,0,10,True
+MRN,Foothills Regional Airport,US,US-NC,35.820202,-81.611397,small_airport,0,10,False
+MRY,Monterey Peninsula Airport,US,US-CA,36.58700180053711,-121.84300231933594,medium_airport,715,20,True
+MSL,Northwest Alabama Regional Airport,US,US-AL,34.74530029,-87.61019897,medium_airport,0,20,True
+MSN,Dane County Regional Truax Field,US,US-WI,43.13990020751953,-89.3375015258789,large_airport,2364,30,False
+MSO,Missoula International Airport,US,US-MT,46.91630173,-114.0910034,medium_airport,612,20,False
+MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,US,US-MN,44.882,-93.221802,large_airport,26624,30,False
+MSS,Massena International Richards Field,US,US-NY,44.93579864501953,-74.84559631347656,medium_airport,0,20,False
+MSV,Sullivan County International Airport,US,US-NY,41.701596,-74.794997,small_airport,0,10,False
+MSY,Louis Armstrong New Orleans International Airport,US,US-LA,29.99340057373047,-90.25800323486328,large_airport,9272,30,True
+MTC,Selfridge Air National Guard Base Airport,US,US-MI,42.613463,-82.836919,medium_airport,0,20,False
+MTH,The Florida Keys Marathon Airport,US,US-FL,24.726101,-81.051399,medium_airport,0,20,False
+MTJ,Montrose Regional Airport,US,US-CO,38.509799957300004,-107.893997192,medium_airport,139,20,True
+MTN,Martin State Airport,US,US-MD,39.325699,-76.413803,medium_airport,0,20,False
+MTO,Coles County Memorial Airport,US,US-IL,39.477901,-88.279198,small_airport,0,10,True
+MTP,Montauk Airport,US,US-NY,41.0765,-71.920797,small_airport,0,10,False
+MTW,Manitowoc County Airport,US,US-WI,44.128799,-87.680602,small_airport,0,10,False
+MUI,Muir Army Air Field (Fort Indiantown Gap) Airport,US,US-PA,40.434799,-76.569397,medium_airport,0,20,False
+MUO,Mountain Home Air Force Base,US,US-ID,43.043598,-115.872002,large_airport,0,30,False
+MUT,Muscatine Municipal Airport,US,US-IA,41.367803,-91.148201,small_airport,0,10,False
+MVC,Monroe County Aeroplex Airport,US,US-AL,31.458,-87.350996,small_airport,0,10,True
+MVE,Montevideo Chippewa County Airport,US,US-MN,44.969101,-95.710297,small_airport,0,10,False
+MVL,Morrisville Stowe State Airport,US,US-VT,44.53459930419999,-72.6139984131,small_airport,0,10,False
+MVY,Martha's Vineyard Airport,US,US-MA,41.3931007385,-70.6143035889,small_airport,124,10,False
+MWA,Williamson County Regional Airport,US,US-IL,37.75500107,-89.01110077,small_airport,0,10,True
+MWC,Lawrence J Timmerman Airport,US,US-WI,43.110401,-88.034401,small_airport,0,10,False
+MWH,Grant County International Airport,US,US-WA,47.20769882,-119.3199997,medium_airport,0,20,False
+MWL,Mineral Wells Airport,US,US-TX,32.7816009521,-98.0602035522,small_airport,0,10,True
+MWO,Middletown Regional Airport,US,US-OH,39.530998,-84.395302,small_airport,0,10,False
+MXA,Manila Municipal Airport,US,US-AR,35.894402,-90.154602,small_airport,0,10,True
+MXF,Maxwell Air Force Base,US,US-AL,32.3829,-86.365799,medium_airport,0,20,True
+MYF,Montgomery-Gibbs Executive Airport,US,US-CA,32.8157,-117.139999,small_airport,0,10,True
+MYL,McCall Municipal Airport,US,US-ID,44.88970184,-116.1009979,medium_airport,0,20,False
+MYR,Myrtle Beach International Airport,US,US-SC,33.6796989441,-78.9282989502,medium_airport,2005,20,False
+MYV,Yuba County Airport,US,US-CA,39.09780121,-121.5699997,medium_airport,0,20,True
+MZJ,Pinal Airpark,US,US-AZ,32.5106010437,-111.32800293,small_airport,0,10,True
+MZZ,Marion Municipal Airport,US,US-IN,40.4898986816,-85.6797027588,small_airport,0,10,False
+CTX,Cortland County Chase Field,US,US-NY,42.59260178,-76.21489716,small_airport,0,10,False
+SXY,Sidney Municipal Airport,US,US-NY,42.302600860596,-75.416000366211,small_airport,0,10,False
+ESP,Stroudsburg Pocono Airport,US,US-PA,41.0358009338,-75.1605987549,small_airport,0,10,False
+NBG,New Orleans NAS JRB/Alvin Callender Field,US,US-LA,29.82530022,-90.03500366,medium_airport,0,20,True
+NHX,Naval Outlying Field Barin,US,US-AL,30.389099121100003,-87.63529968259999,small_airport,0,10,True
+DGN,Dahlgren Naval Surface Warfare Center Airport,US,US-VA,38.33250046,-77.03720093,small_airport,0,10,False
+NEL,Lakehurst Maxfield Field Airport,US,US-NJ,40.03329849,-74.353302,medium_airport,0,20,False
+NEN,Whitehouse Naval Outlying Field,US,US-FL,30.353900909424,-81.87190246582,small_airport,0,10,False
+NEW,Lakefront Airport,US,US-LA,30.042400360107,-90.028297424316,medium_airport,0,20,True
+NFL,Fallon Naval Air Station,US,US-NV,39.41659927,-118.7009964,medium_airport,0,20,True
+FWH,NAS Fort Worth JRB/Carswell Field,US,US-TX,32.76919937,-97.4414978,medium_airport,0,20,True
+NGU,Norfolk Naval Station (Chambers Field),US,US-VA,36.937599,-76.289299,medium_airport,0,20,False
+NHK,Patuxent River Naval Air Station (Trapnell Field),US,US-MD,38.285999,-76.411797,medium_airport,0,20,False
+NHZ,Brunswick Executive Airport,US,US-ME,43.89220047,-69.93859863,medium_airport,0,20,False
+NIP,Jacksonville Naval Air Station (Towers Field),US,US-FL,30.2358,-81.680603,medium_airport,0,20,False
+NJK,El Centro NAF Airport (Vraciu Field),US,US-CA,32.829201,-115.671996,medium_airport,0,20,True
+NKX,Miramar Marine Corps Air Station - Mitscher Field,US,US-CA,32.86840057,-117.1429977,medium_airport,0,20,True
+NLC,Lemoore Naval Air Station (Reeves Field) Airport,US,US-CA,36.33300018,-119.9520035,medium_airport,0,20,True
+NPA,Pensacola Naval Air Station/Forrest Sherman Field,US,US-FL,30.35269928,-87.31860352,medium_airport,0,20,True
+NQA,Millington-Memphis Airport,US,US-TN,35.356701,-89.8703,medium_airport,0,20,True
+NQI,Kingsville Naval Air Station,US,US-TX,27.5072002411,-97.8097000122,medium_airport,0,20,True
+NQX,Naval Air Station Key West/Boca Chica Field,US,US-FL,24.57579994,-81.68890381,medium_airport,0,20,False
+NRB,Naval Station Mayport (Admiral David L. Mcdonald Field),US,US-FL,30.39109993,-81.42469788,medium_airport,0,20,False
+NRS,Naval Outlying Field Imperial Beach (Ream Field),US,US-CA,32.56669998,-117.1169968,small_airport,0,10,True
+NSE,Whiting Field Naval Air Station - North,US,US-FL,30.7241993,-87.02189636,medium_airport,0,20,True
+NTD,Point Mugu Naval Air Station (Naval Base Ventura Co),US,US-CA,34.120300293,-119.121002197,medium_airport,0,20,True
+NTU,Oceana Naval Air Station,US,US-VA,36.820702,-76.033501,medium_airport,0,20,False
+NUQ,Moffett Federal Airfield,US,US-CA,37.4161,-122.049004,medium_airport,0,20,True
+NUW,Whidbey Island Naval Air Station (Ault Field),US,US-WA,48.351799,-122.655998,medium_airport,0,20,False
+YUM,Yuma MCAS/Yuma International Airport,US,US-AZ,32.65660095,-114.6060028,medium_airport,329,20,True
+NZY,North Island Naval Air Station-Halsey Field,US,US-CA,32.69919968,-117.2149963,medium_airport,0,20,True
+NVN,Nervino Airport,US,US-CA,39.8185005188,-120.352996826,small_airport,0,10,True
+COA,Columbia Airport,US,US-CA,38.030399322499996,-120.415000916,small_airport,0,10,True
+ODC,Oakdale Airport,US,US-CA,37.75630188,-120.8000031,small_airport,0,10,True
+EYR,Yerington Municipal Airport,US,US-NV,39.0041007996,-119.157997131,small_airport,0,10,True
+OAJ,Albert J Ellis Airport,US,US-NC,34.8292007446,-77.61209869380001,medium_airport,440,20,False
+OAK,Metropolitan Oakland International Airport,US,US-CA,37.721298,-122.221001,large_airport,8834,30,True
+OAR,Marina Municipal Airport,US,US-CA,36.68190002,-121.762001,small_airport,0,10,True
+OBE,Okeechobee County Airport,US,US-FL,27.262800216699997,-80.8498001099,small_airport,0,10,False
+OCF,Ocala International Airport - Jim Taylor Field,US,US-FL,29.17259979,-82.22419739,small_airport,0,10,False
+OCH,A L Mangham Jr. Regional Airport,US,US-TX,31.57799911,-94.70950317,small_airport,0,10,True
+OCW,Warren Field,US,US-NC,35.570499420166,-77.049797058105,small_airport,0,10,False
+OEA,O'Neal Airport,US,US-IN,38.6913986206,-87.5522003174,small_airport,0,10,True
+OEO,L O Simenstad Municipal Airport,US,US-WI,45.310001373291,-92.691902160645,small_airport,0,10,False
+OFF,Offutt Air Force Base,US,US-NE,41.118301391602,-95.912498474121,medium_airport,0,20,False
+OFK,Karl Stefan Memorial Airport,US,US-NE,41.985500335693,-97.435096740723,medium_airport,0,20,False
+OGA,Searle Field,US,US-NE,41.11949921,-101.7699966,small_airport,0,10,False
+OGB,Orangeburg Municipal Airport,US,US-SC,33.456798553467,-80.859497070312,medium_airport,0,20,False
+OGD,Ogden Hinckley Airport,US,US-UT,41.195899963379,-112.0120010376,medium_airport,18,20,False
+OGS,Ogdensburg International Airport,US,US-NY,44.6819000244,-75.46549987790002,small_airport,104,10,False
+OIC,Lt Warren Eaton Airport,US,US-NY,42.566600799561,-75.524101257324,small_airport,0,10,False
+OJC,Johnson County Executive Airport,US,US-KS,38.84759903,-94.73760223,small_airport,0,10,True
+OCN,Oceanside Municipal Airport,US,US-CA,33.217300415039,-117.35399627686,small_airport,0,10,True
+OKC,Will Rogers World Airport,US,US-OK,35.39310073852539,-97.60070037841797,large_airport,4004,30,True
+ODW,AJ Eisenberg Airport,US,US-WA,48.251499176,-122.674003601,small_airport,0,10,False
+OKK,Kokomo Municipal Airport,US,US-IN,40.528198242188,-86.05899810791,small_airport,0,10,False
+OKM,Okmulgee Regional Airport,US,US-OK,35.668098449707,-95.948699951172,small_airport,0,10,True
+OKS,Garden County Airport,US,US-NE,41.401000976562,-102.35500335693,small_airport,0,10,False
+WGO,Winchester Regional Airport,US,US-VA,39.14350128,-78.14440155,small_airport,0,10,False
+OLD,"Dewitt Field,Old Town Municipal Airport",US,US-ME,44.95280075,-68.67430115,small_airport,0,10,False
+OLF,L M Clayton Airport,US,US-MT,48.094501495399996,-105.574996948,medium_airport,0,20,False
+OLM,Olympia Regional Airport,US,US-WA,46.9693985,-122.9029999,medium_airport,0,20,False
+OLS,Nogales International Airport,US,US-AZ,31.4177,-110.848,medium_airport,0,20,True
+OLV,Olive Branch Airport,US,US-MS,34.9786987305,-89.78690338130001,small_airport,0,10,True
+OMA,Eppley Airfield,US,US-NE,41.3032,-95.894096,large_airport,4109,30,False
+OMK,Omak Airport,US,US-WA,48.4644012451,-119.517997742,small_airport,0,10,False
+ONL,The O'Neill Municipal John L Baker Field,US,US-NE,42.469898,-98.688103,small_airport,0,10,False
+ONO,Ontario Municipal Airport,US,US-OR,44.020500183105,-117.01399993896,small_airport,0,10,False
+ONP,Newport Municipal Airport,US,US-OR,44.580399,-124.057999,medium_airport,0,20,False
+ONT,Ontario International Airport,US,US-CA,34.055999755859375,-117.60099792480469,large_airport,3987,30,True
+OPF,Opa-locka Executive Airport,US,US-FL,25.907,-80.278397,medium_airport,0,20,False
+NCO,Quonset State Airport,US,US-RI,41.597099304199,-71.412101745605,medium_airport,0,20,False
+ORD,Chicago O'Hare International Airport,US,US-IL,41.9786,-87.9048,large_airport,58959,30,False
+ORF,Norfolk International Airport,US,US-VA,36.89459991455078,-76.20120239257812,large_airport,4137,30,False
+ORH,Worcester Regional Airport,US,US-MA,42.26729965209961,-71.87570190429688,medium_airport,236,20,False
+ORL,Orlando Executive Airport,US,US-FL,28.5455,-81.332901,small_airport,0,10,False
+ESD,Orcas Island Airport,US,US-WA,48.7081985474,-122.910003662,small_airport,0,10,False
+OSC,Oscoda Wurtsmith Airport,US,US-MI,44.451599,-83.394096,small_airport,0,10,False
+OSH,Wittman Regional Airport,US,US-WI,43.98440170288086,-88.55699920654297,medium_airport,0,20,False
+OSU,The Ohio State University Airport - Don Scott Field,US,US-OH,40.0798,-83.072998,medium_airport,0,20,False
+OTH,Southwest Oregon Regional Airport,US,US-OR,43.41709899902344,-124.24600219726562,medium_airport,78,20,False
+OTM,Ottumwa Regional Airport,US,US-IA,41.10660172,-92.44789886,medium_airport,0,20,False
+OUN,University of Oklahoma Westheimer Airport,US,US-OK,35.2456,-97.472099,small_airport,0,10,True
+OVE,Oroville Municipal Airport,US,US-CA,39.487800598145,-121.62200164795,small_airport,0,10,True
+OWA,Owatonna Degner Regional Airport,US,US-MN,44.12340164,-93.26059723,small_airport,0,10,False
+OWB,Owensboro Daviess County Airport,US,US-KY,37.74010086,-87.16680145,medium_airport,0,20,True
+OWD,Norwood Memorial Airport,US,US-MA,42.1904983521,-71.1728973389,medium_airport,0,20,False
+OWK,Central Maine Airport of Norridgewock,US,US-ME,44.71549988,-69.86650085,small_airport,0,10,False
+OCE,Ocean City Municipal Airport,US,US-MD,38.310398101807,-75.124000549316,small_airport,0,10,False
+OXC,Waterbury Oxford Airport,US,US-CT,41.47859954834,-73.135200500488,small_airport,0,10,False
+OXD,Miami University Airport,US,US-OH,39.50230026,-84.78440094,small_airport,0,10,False
+OXR,Oxnard Airport,US,US-CA,34.200801849365,-119.20700073242,medium_airport,0,20,True
+STQ,St Marys Municipal Airport,US,US-PA,41.412498474121,-78.502601623535,small_airport,0,10,False
+OZA,Ozona Municipal Airport,US,US-TX,30.735300064087,-101.20300292969,small_airport,0,10,True
+OZR,Cairns AAF (Fort Rucker) Air Field,US,US-AL,31.27569962,-85.71340179,medium_airport,0,20,True
+BSQ,Bisbee Municipal Airport,US,US-AZ,31.3640003204,-109.883003235,small_airport,0,10,True
+PXL,Polacca Airport,US,US-AZ,35.7916984558,-110.422996521,small_airport,0,10,True
+GLB,San Carlos Apache Airport,US,US-AZ,33.353099823,-110.666999817,small_airport,0,10,True
+HBK,Holbrook Municipal Airport,US,US-AZ,34.940700531,-110.138000488,small_airport,0,10,True
+CWX,Cochise County Airport,US,US-AZ,32.24539948,-109.8949966,small_airport,0,10,True
+PAE,Snohomish County (Paine Field) Airport,US,US-WA,47.90629959,-122.2819977,medium_airport,360,20,False
+PAH,Barkley Regional Airport,US,US-KY,37.06079864501953,-88.7738037109375,medium_airport,222,20,True
+PAM,Tyndall Air Force Base,US,US-FL,30.0695991516,-85.57540130619999,large_airport,0,30,True
+PJB,Payson Airport,US,US-AZ,34.256801605225,-111.33899688721,small_airport,0,10,True
+PAO,Palo Alto Airport of Santa Clara County,US,US-CA,37.461101532,-122.114997864,small_airport,0,10,True
+PBF,"Pine Bluff Regional Airport, Grider Field",US,US-AR,34.1731,-91.9356,medium_airport,0,20,True
+PBG,Plattsburgh International Airport,US,US-NY,44.650901794433594,-73.46810150146484,medium_airport,141,20,False
+PBI,Palm Beach International Airport,US,US-FL,26.68320083618164,-80.09559631347656,large_airport,3241,30,False
+PVL,Pike County-Hatcher Field,US,US-KY,37.5617981,-82.56639862,small_airport,0,10,False
+PCD,Prairie Du Chien Municipal Airport,US,US-WI,43.019298553467,-91.12370300293,small_airport,0,10,False
+PDK,DeKalb Peachtree Airport,US,US-GA,33.8755989075,-84.3020019531,medium_airport,0,20,False
+PDT,Eastern Oregon Regional At Pendleton Airport,US,US-OR,45.695098877,-118.841003418,medium_airport,0,20,False
+PDX,Portland International Airport,US,US-OR,45.58869934,-122.5979996,large_airport,10614,30,False
+PEQ,Pecos Municipal Airport,US,US-TX,31.382400512695,-103.51100158691,small_airport,0,10,True
+PGA,Page Municipal Airport,US,US-AZ,36.92610168,-111.447998,medium_airport,0,20,True
+PGD,Charlotte County Airport,US,US-FL,26.92020035,-81.9905014,small_airport,386,10,False
+PGR,Kirk Field,US,US-AR,36.06290054,-90.50779724,small_airport,0,10,True
+PGV,Pitt Greenville Airport,US,US-NC,35.6352005,-77.38529968,medium_airport,54,20,False
+PHD,Harry Clever Field,US,US-OH,40.470901489258,-81.419700622559,small_airport,0,10,False
+PHF,Newport News Williamsburg International Airport,US,US-VA,37.13190079,-76.49299622,large_airport,515,30,False
+ADR,Robert F Swinnie Airport,US,US-SC,33.4516983032,-79.5261993408,small_airport,0,10,False
+PHK,Palm Beach County Glades Airport,US,US-FL,26.78499985,-80.69339752,small_airport,0,10,False
+PHL,Philadelphia International Airport,US,US-PA,39.87189865112305,-75.24109649658203,large_airport,19666,30,False
+PHN,St Clair County International Airport,US,US-MI,42.9109993,-82.52890015,small_airport,0,10,False
+PHP,Philip Airport,US,US-SD,44.048599243164,-101.59899902344,small_airport,0,10,False
+PHT,Henry County Airport,US,US-TN,36.338199615499995,-88.38289642330001,small_airport,0,10,True
+PHX,Phoenix Sky Harbor International Airport,US,US-AZ,33.43429946899414,-112.01200103759766,large_airport,27240,30,True
+PIA,General Wayne A. Downing Peoria International Airport,US,US-IL,40.664199829100006,-89.6932983398,large_airport,707,30,False
+PIB,Hattiesburg Laurel Regional Airport,US,US-MS,31.467100143432617,-89.33709716796875,medium_airport,111,20,True
+PIE,St Petersburg Clearwater International Airport,US,US-FL,27.91020012,-82.68740082,medium_airport,846,20,False
+PIH,Pocatello Regional Airport,US,US-ID,42.9098014831543,-112.59600067138672,medium_airport,180,20,False
+PIM,Harris County Airport,US,US-GA,32.8406982422,-84.8824005127,small_airport,0,10,False
+PIR,Pierre Regional Airport,US,US-SD,44.38270187,-100.2860031,medium_airport,113,20,False
+PIT,Pittsburgh International Airport,US,US-PA,40.49150085,-80.23290253,large_airport,8318,30,False
+PKB,Mid Ohio Valley Regional Airport,US,US-WV,39.34510040283203,-81.43920135498047,medium_airport,0,20,False
+PKD,Park Rapids Municipal Konshok Field,US,US-MN,46.9006,-95.073095,small_airport,0,10,False
+PKF,Park Falls Municipal Airport,US,US-WI,45.955001831055,-90.42440032959,small_airport,0,10,False
+PLK,M. Graham Clark Downtown Airport,US,US-MO,36.62590027,-93.22889709,small_airport,0,10,True
+PLN,Pellston Regional Airport of Emmet County Airport,US,US-MI,45.57089996,-84.79669952,medium_airport,178,20,False
+PLR,St Clair County Airport,US,US-AL,33.558799743652,-86.249099731445,small_airport,0,10,True
+PMB,Pembina Municipal Airport,US,US-ND,48.9425010681,-97.2407989502,small_airport,0,10,False
+PMD,Palmdale Regional/USAF Plant 42 Airport,US,US-CA,34.62939835,-118.0849991,medium_airport,0,20,True
+PMH,Greater Portsmouth Regional Airport,US,US-OH,38.8404998779,-82.84729766850002,small_airport,0,10,False
+PPM,Pompano Beach Airpark,US,US-FL,26.247100830078,-80.111099243164,small_airport,0,10,False
+PWY,Ralph Wenz Field,US,US-WY,42.79550171,-109.8069992,medium_airport,0,20,False
+PNC,Ponca City Regional Airport,US,US-OK,36.73199844,-97.09980011,medium_airport,0,20,True
+PNE,Northeast Philadelphia Airport,US,US-PA,40.081902,-75.010597,medium_airport,0,20,False
+PNN,Princeton Municipal Airport,US,US-ME,45.200698852539,-67.564399719238,small_airport,0,10,False
+PNS,Pensacola Regional Airport,US,US-FL,30.473400115967,-87.186599731445,medium_airport,2146,20,True
+POB,Pope Field,US,US-NC,35.1708984375,-79.014503479004,medium_airport,0,20,False
+POC,Brackett Field,US,US-CA,34.091598510742,-117.78199768066,small_airport,0,10,True
+POE,Polk Army Air Field,US,US-LA,31.0447998,-93.1917038,medium_airport,0,20,True
+POF,Poplar Bluff Municipal Airport,US,US-MO,36.773899078369,-90.324897766113,small_airport,0,10,True
+POU,Dutchess County Airport,US,US-NY,41.6265983581543,-73.88420104980469,medium_airport,0,20,False
+POY,Powell Municipal Airport,US,US-WY,44.867198944092,-108.79299926758,small_airport,0,10,False
+PPA,Perry Lefors Field,US,US-TX,35.612998962402,-100.99600219727,small_airport,0,10,True
+PPF,Tri-City Airport,US,US-KS,37.32989883,-95.5062027,small_airport,0,10,True
+LPO,La Porte Municipal Airport,US,US-IN,41.5724983215,-86.73449707030001,small_airport,0,10,False
+PQI,Northern Maine Regional Airport at Presque Isle,US,US-ME,46.68899918,-68.0447998,medium_airport,0,20,False
+PGL,Trent Lott International Airport,US,US-MS,30.462799072266,-88.529197692871,small_airport,0,10,True
+PRB,Paso Robles Municipal Airport,US,US-CA,35.67290115,-120.6269989,medium_airport,0,20,True
+PRC,Ernest A. Love Field,US,US-AZ,34.65449905,-112.4199982,medium_airport,120,20,True
+PRO,Perry Municipal Airport,US,US-IA,41.82799911,-94.15989685,small_airport,0,10,False
+PRX,Cox Field,US,US-TX,33.636600494385,-95.450798034668,medium_airport,0,20,True
+PSC,Tri Cities Airport,US,US-WA,46.26470184326172,-119.11900329589844,medium_airport,616,20,False
+PSF,Pittsfield Municipal Airport,US,US-MA,42.4268,-73.2929,small_airport,0,10,False
+PSK,New River Valley Airport,US,US-VA,37.137298583984,-80.678497314453,small_airport,0,10,False
+PSM,Portsmouth International at Pease Airport,US,US-NH,43.0778999329,-70.8233032227,medium_airport,22,20,False
+PSN,Palestine Municipal Airport,US,US-TX,31.779699325562,-95.706298828125,small_airport,0,10,True
+PGO,Stevens Field,US,US-CO,37.28630066,-107.0559998,small_airport,0,10,True
+PSP,Palm Springs International Airport,US,US-CA,33.8297004699707,-116.50700378417969,medium_airport,1333,20,True
+PSX,Palacios Municipal Airport,US,US-TX,28.727500915527,-96.250999450684,small_airport,0,10,True
+PTB,Dinwiddie County Airport,US,US-VA,37.183799743652,-77.507400512695,small_airport,0,10,False
+PTK,Oakland County International Airport,US,US-MI,42.665500640869,-83.420097351074,medium_airport,0,20,False
+PTN,Harry P Williams Memorial Airport,US,US-LA,29.709499359131,-91.338996887207,small_airport,0,10,True
+PTT,Pratt Regional Airport,US,US-KS,37.70159912,-98.74690247,small_airport,0,10,True
+PTV,Porterville Municipal Airport,US,US-CA,36.029598236084,-119.06300354004,small_airport,0,10,True
+PTW,Heritage Field,US,US-PA,40.239601,-75.556702,small_airport,0,10,False
+PUB,Pueblo Memorial Airport,US,US-CO,38.289100646972656,-104.49700164794922,small_airport,153,10,True
+PUC,Carbon County Regional/Buck Davis Field,US,US-UT,39.61389923,-110.7509995,small_airport,0,10,True
+PUW,Pullman Moscow Regional Airport,US,US-WA,46.7439,-117.110001,medium_airport,0,20,False
+PVC,Provincetown Municipal Airport,US,US-MA,42.0718994141,-70.2213973999,small_airport,0,10,False
+PVD,Theodore Francis Green State Airport,US,US-RI,41.732601,-71.420403,large_airport,2921,30,False
+PVF,Placerville Airport,US,US-CA,38.724201202393,-120.75299835205,small_airport,0,10,True
+PVU,Provo Municipal Airport,US,US-UT,40.219200134277,-111.72299957275,medium_airport,134,20,False
+PVW,Hale County Airport,US,US-TX,34.168098449707,-101.71700286865,small_airport,0,10,True
+PWA,Wiley Post Airport,US,US-OK,35.53419876,-97.64710236,small_airport,0,10,True
+PWD,Sher-Wood Airport,US,US-MT,48.790298461914,-104.53399658203,small_airport,0,10,False
+PWK,Chicago Executive Airport,US,US-IL,42.114222,-87.901494,medium_airport,0,20,False
+PWM,Portland International Jetport Airport,US,US-ME,43.64619827,-70.30930328,large_airport,2096,30,False
+PWT,Bremerton National Airport,US,US-WA,47.490200042725,-122.76499938965,medium_airport,0,20,False
+PYM,Plymouth Municipal Airport,US,US-MA,41.909,-70.728798,small_airport,0,10,False
+RAC,John H Batten Airport,US,US-WI,42.7606010437,-87.8152008057,small_airport,0,10,False
+RAL,Riverside Municipal Airport,US,US-CA,33.95190048,-117.4449997,medium_airport,0,20,True
+RAP,Rapid City Regional Airport,US,US-SD,44.0452995300293,-103.05699920654297,medium_airport,1071,20,False
+RBD,Dallas Executive Airport,US,US-TX,32.6809005737,-96.8682022095,small_airport,0,10,True
+RBG,Roseburg Regional Airport,US,US-OR,43.238800048799995,-123.356002808,small_airport,0,10,False
+RBL,Red Bluff Municipal Airport,US,US-CA,40.1506996155,-122.251998901,medium_airport,0,20,False
+RBW,Lowcountry Regional Airport,US,US-SC,32.921001434299995,-80.6406021118,small_airport,0,10,False
+RCA,Ellsworth Air Force Base,US,US-SD,44.14500046,-103.1039963,medium_airport,0,20,False
+RCK,H H Coffield Regional Airport,US,US-TX,30.6315994263,-96.9897003174,small_airport,0,10,True
+RCR,Fulton County Airport,US,US-IN,41.065601348899996,-86.18170166019999,small_airport,0,10,False
+RCT,Nartron Field,US,US-MI,43.9000015259,-85.5167007446,small_airport,0,10,False
+RDD,Redding Municipal Airport,US,US-CA,40.50899887,-122.2929993,medium_airport,240,20,False
+RDG,Reading Regional Carl A Spaatz Field,US,US-PA,40.378501892089844,-75.96520233154297,medium_airport,0,20,False
+RDM,Roberts Field,US,US-OR,44.2541008,-121.1500015,medium_airport,725,20,False
+RDR,Grand Forks Air Force Base,US,US-ND,47.961101532,-97.4011993408,medium_airport,0,20,False
+RDU,Raleigh Durham International Airport,US,US-NC,35.877601623535156,-78.7874984741211,large_airport,10744,30,False
+REO,Rome State Airport,US,US-OR,42.5777015686,-117.885002136,small_airport,0,10,False
+RFD,Chicago Rockford International Airport,US,US-IL,42.19540023803711,-89.09719848632812,large_airport,90,30,False
+RHI,Rhinelander Oneida County Airport,US,US-WI,45.63119888305664,-89.46749877929688,medium_airport,120,20,False
+RHV,Reid-Hillview Airport of Santa Clara County,US,US-CA,37.332901001,-121.819000244,small_airport,0,10,True
+RIC,Richmond International Airport,US,US-VA,37.50519943237305,-77.3197021484375,large_airport,4138,30,False
+RIL,Garfield County Regional Airport,US,US-CO,39.526299,-107.726997,medium_airport,0,20,True
+RIV,March ARB Airport,US,US-CA,33.880699,-117.259003,medium_airport,0,20,True
+RIW,Riverton Regional Airport,US,US-WY,43.064201355,-108.459999084,medium_airport,0,20,False
+RKD,Knox County Regional Airport,US,US-ME,44.06010056,-69.09919739,small_airport,0,10,False
+RKP,Aransas County Airport,US,US-TX,28.0867996216,-97.0446014404,small_airport,0,10,True
+RKS,Southwest Wyoming Regional Airport,US,US-WY,41.5942,-109.065001,medium_airport,120,20,False
+RKW,Rockwood Municipal Airport,US,US-TN,35.9222984314,-84.6896972656,small_airport,0,10,False
+RME,Griffiss International Airport,US,US-NY,43.23379898,-75.40699768,medium_airport,0,20,False
+RMG,Richard B Russell Airport,US,US-GA,34.3506011963,-85.15799713130001,medium_airport,0,20,True
+RNC,Warren County Memorial Airport,US,US-TN,35.69869995,-85.84380341,small_airport,0,10,True
+RND,Randolph Air Force Base,US,US-TX,29.52969933,-98.27890015,large_airport,0,30,True
+RNO,Reno Tahoe International Airport,US,US-NV,39.49909973144531,-119.76799774169922,large_airport,3644,30,True
+RNT,Renton Municipal Airport,US,US-WA,47.4930992126,-122.216003418,small_airport,0,10,False
+ROA,Roanoke–Blacksburg Regional Airport,US,US-VA,37.3255,-79.975403,large_airport,476,30,False
+ROC,Greater Rochester International Airport,US,US-NY,43.118900299072266,-77.67240142822266,large_airport,2322,30,False
+ROG,Rogers Municipal Airport-Carter Field,US,US-AR,36.37229919,-94.10690308,small_airport,0,10,True
+ROW,Roswell International Air Center Airport,US,US-NM,33.30160140991211,-104.53099822998047,medium_airport,232,20,True
+ROX,Roseau Municipal Rudy Billberg Field,US,US-MN,48.85599899,-95.6969986,small_airport,0,10,False
+RIE,hln,US,US-WI,45.41899872,-91.77349854,small_airport,0,10,False
+RPX,Roundup Airport,US,US-MT,46.475095,-108.541497,small_airport,0,10,False
+WBR,Roben Hood Airport,US,US-MI,43.7225990295,-85.50409698490002,small_airport,0,10,False
+RQO,El Reno Regional Airport,US,US-OK,35.47269821,-98.00579834,small_airport,0,10,True
+RRL,Merrill Municipal Airport,US,US-WI,45.1988983154,-89.7128982544,small_airport,0,10,False
+RRT,Warroad International Memorial Airport,US,US-MN,48.94139862,-95.3483963,small_airport,0,10,False
+RSL,Russell Municipal Airport,US,US-KS,38.872100830078,-98.811798095703,medium_airport,0,20,True
+RSN,Ruston Regional Airport,US,US-LA,32.514400482178,-92.591697692871,small_airport,0,10,True
+RST,Rochester International Airport,US,US-MN,43.90829849243164,-92.5,large_airport,538,30,False
+RSW,Southwest Florida International Airport,US,US-FL,26.53619956970215,-81.75520324707031,large_airport,3284,30,False
+RTN,Raton Municipal-Crews Field,US,US-NM,36.74150085,-104.5019989,small_airport,0,10,True
+SRW,Mid-Carolina Regional Airport,US,US-NC,35.645901,-80.520302,small_airport,0,10,False
+RUT,Rutland - Southern Vermont Regional Airport,US,US-VT,43.52939987,-72.94960022,medium_airport,0,20,False
+RED,Mifflin County Airport,US,US-PA,40.6773986816,-77.6268005371,small_airport,0,10,False
+RVS,Richard Lloyd Jones Jr Airport,US,US-OK,36.039600372314,-95.984596252441,medium_airport,0,20,True
+RWF,Redwood Falls Municipal Airport,US,US-MN,44.54719925,-95.08229828,medium_airport,0,20,False
+RWI,Rocky Mount Wilson Regional Airport,US,US-NC,35.856300354003906,-77.89189910888672,medium_airport,0,20,False
+RWL,Rawlins Municipal Airport/Harvey Field,US,US-WY,41.80559921,-107.1999969,medium_airport,0,20,False
+RXE,Rexburg Madison County Airport,US,US-ID,43.8339,-111.805002,small_airport,0,10,False
+RNZ,Jasper County Airport,US,US-IN,40.9478988647,-87.1826019287,small_airport,0,10,False
+AHM,Ashland Municipal Sumner Parker Field,US,US-OR,42.190299987799996,-122.661003113,small_airport,0,10,False
+BDY,Bandon State Airport,US,US-OR,43.08649826,-124.4079971,small_airport,0,10,False
+SUO,Sunriver Airport,US,US-OR,43.8763008118,-121.45300293,small_airport,0,10,False
+MDJ,Madras Municipal Airport,US,US-OR,44.67020035,-121.1549988,small_airport,0,10,False
+PRZ,Prineville Airport,US,US-OR,44.286998748779,-120.90399932861,small_airport,0,10,False
+IDH,Idaho County Airport,US,US-ID,45.9426,-116.123001,small_airport,0,10,False
+VSK,Vista Field,US,US-WA,46.2186012268,-119.209999084,small_airport,0,10,False
+SAA,Shively Field,US,US-WY,41.444901,-106.823997,small_airport,0,10,False
+SAC,Sacramento Executive Airport,US,US-CA,38.5125007629,-121.492996216,medium_airport,0,20,True
+SAD,Safford Regional Airport,US,US-AZ,32.85480118,-109.6350021,small_airport,0,10,True
+SAF,Santa Fe Municipal Airport,US,US-NM,35.617099762,-106.088996887,medium_airport,331,20,True
+SAN,San Diego International Airport,US,US-CA,32.7336006165,-117.190002441,large_airport,15385,30,True
+SAR,Sparta Community Hunter Field,US,US-IL,38.1488990784,-89.6986999512,small_airport,0,10,True
+SAT,San Antonio International Airport,US,US-TX,29.533700942993164,-98.46980285644531,large_airport,6737,30,True
+SAV,Savannah Hilton Head International Airport,US,US-GA,32.12760162,-81.20210266,large_airport,2935,30,False
+MQT,Sawyer International Airport,US,US-MI,46.353599548300004,-87.395401001,medium_airport,232,20,False
+SBA,Santa Barbara Municipal Airport,US,US-CA,34.42620087,-119.8399963,medium_airport,1383,20,True
+SBD,San Bernardino International Airport,US,US-CA,34.0954017639,-117.23500061,medium_airport,0,20,True
+SBM,Sheboygan County Memorial Airport,US,US-WI,43.76959991,-87.85140228,small_airport,0,10,False
+SBN,South Bend Regional Airport,US,US-IN,41.70869827270508,-86.31729888916016,large_airport,1228,30,False
+SBP,San Luis County Regional Airport,US,US-CA,35.236801147499996,-120.641998291,medium_airport,881,20,True
+SBS,Steamboat Springs Bob Adams Field,US,US-CO,40.5163002,-106.8659973,small_airport,0,10,False
+SBX,Shelby Airport,US,US-MT,48.5406990051,-111.871002197,small_airport,0,10,False
+SBY,Salisbury Ocean City Wicomico Regional Airport,US,US-MD,38.34049987792969,-75.51029968261719,medium_airport,0,20,False
+SCB,Scribner State Airport,US,US-NE,41.610298156738,-96.629898071289,small_airport,0,10,False
+SCH,Schenectady County Airport,US,US-NY,42.852500915527,-73.928901672363,medium_airport,0,20,False
+SCK,Stockton Metropolitan Airport,US,US-CA,37.894199371338,-121.2379989624,medium_airport,244,20,True
+SDF,Louisville International Standiford Field,US,US-KY,38.1744,-85.736,large_airport,4081,30,True
+SCF,Scottsdale Airport,US,US-AZ,33.622898101807,-111.91100311279,small_airport,0,10,True
+SDM,Brown Field Municipal Airport,US,US-CA,32.572299957275,-116.98000335693,medium_airport,0,20,True
+SDY,Sidney - Richland Regional Airport,US,US-MT,47.706902,-104.193001,medium_airport,0,20,False
+SEA,Seattle Tacoma International Airport,US,US-WA,47.449001,-122.308998,large_airport,24491,30,False
+SEE,Gillespie Field,US,US-CA,32.826198577881,-116.97200012207,small_airport,0,10,True
+SEF,Sebring Regional Airport,US,US-FL,27.45639992,-81.3423996,small_airport,0,10,False
+SEG,Penn Valley Airport,US,US-PA,40.820598602295,-76.863899230957,small_airport,0,10,False
+SEM,Craig Field,US,US-AL,32.343898773193,-86.987800598145,small_airport,0,10,True
+SEP,Stephenville Clark Regional Airport,US,US-TX,32.215301513672,-98.177696228027,small_airport,0,10,True
+SER,Freeman Municipal Airport,US,US-IN,38.923599243164,-85.907402038574,small_airport,0,10,True
+SDX,Sedona Airport,US,US-AZ,34.848598480225,-111.78800201416,small_airport,0,10,True
+SFB,Orlando Sanford International Airport,US,US-FL,28.777599334716797,-81.23750305175781,large_airport,986,30,False
+SFF,Felts Field,US,US-WA,47.682800292969,-117.32299804688,medium_airport,0,20,False
+SFM,Sanford Seacoast Regional Airport,US,US-ME,43.393901824951,-70.708000183105,small_airport,0,10,False
+SFO,San Francisco International Airport,US,US-CA,37.61899948120117,-122.375,large_airport,26693,30,True
+SFZ,North Central State Airport,US,US-RI,41.9207992554,-71.49140167239999,small_airport,0,10,False
+SGF,Springfield Branson National Airport,US,US-MO,37.24570084,-93.38860321,large_airport,1437,30,True
+SGH,Springfield-Beckley Municipal Airport,US,US-OH,39.840301513672,-83.840202331543,medium_airport,0,20,False
+UST,Northeast Florida Regional Airport,US,US-FL,29.9592,-81.339798,medium_airport,0,20,False
+SGR,Sugar Land Regional Airport,US,US-TX,29.622299194336,-95.65650177002,medium_airport,0,20,True
+SGT,Stuttgart Municipal Airport / Carl Humphrey Field,US,US-AR,34.599499,-91.574997,small_airport,0,10,True
+SGU,St George Municipal Airport,US,US-UT,37.036389,-113.510306,medium_airport,104,20,True
+SHD,Shenandoah Valley Regional Airport,US,US-VA,38.2638015747,-78.8964004517,small_airport,112,10,False
+SHN,Sanderson Field,US,US-WA,47.233600616455,-123.14800262451,small_airport,0,10,False
+SHR,Sheridan County Airport,US,US-WY,44.76919937133789,-106.9800033569336,medium_airport,0,20,False
+SHV,Shreveport Regional Airport,US,US-LA,32.446602,-93.8256,medium_airport,1190,20,True
+SIK,Sikeston Memorial Municipal Airport,US,US-MO,36.898899078369,-89.561798095703,small_airport,0,10,True
+SIV,Sullivan County Airport,US,US-IN,39.114700317383,-87.448303222656,small_airport,0,10,True
+SJC,Norman Y. Mineta San Jose International Airport,US,US-CA,37.362598,-121.929001,large_airport,10906,30,True
+SJN,St Johns Industrial Air Park,US,US-AZ,34.51860046,-109.3789978,small_airport,0,10,True
+SJT,San Angelo Regional Mathis Field,US,US-TX,31.35770034790039,-100.49600219726562,medium_airport,342,20,True
+SKA,Fairchild Air Force Base,US,US-WA,47.6151008606,-117.65599823,large_airport,0,30,False
+SKF,Lackland Air Force Base,US,US-TX,29.38419914,-98.58110046,medium_airport,0,20,True
+TSM,Taos Regional Airport,US,US-NM,36.45819855,-105.6719971,small_airport,0,10,True
+SLB,Storm Lake Municipal Airport,US,US-IA,42.5973014832,-95.24069976810001,small_airport,0,10,False
+SLC,Salt Lake City International Airport,US,US-UT,40.78839874267578,-111.97799682617188,large_airport,19005,30,False
+SLE,Salem Municipal Airport/McNary Field,US,US-OR,44.90950012,-123.0029984,medium_airport,0,20,False
+SLG,Smith Field,US,US-AR,36.19189835,-94.48999786,small_airport,0,10,True
+SLK,Adirondack Regional Airport,US,US-NY,44.38529968261719,-74.2061996459961,medium_airport,0,20,False
+SLN,Salina Municipal Airport,US,US-KS,38.79100036621094,-97.6521987915039,medium_airport,155,20,True
+SLO,Salem Leckrone Airport,US,US-IL,38.64289855957,-88.964202880859,small_airport,0,10,True
+SLR,Sulphur Springs Municipal Airport,US,US-TX,33.159801483154,-95.621101379395,small_airport,0,10,True
+SMD,Smith Field,US,US-IN,41.14339828,-85.15280151,small_airport,0,10,False
+SME,Lake Cumberland Regional Airport,US,US-KY,37.053398132299996,-84.6158981323,medium_airport,0,20,False
+SMF,Sacramento International Airport,US,US-CA,38.69540023803711,-121.59100341796875,large_airport,8979,30,True
+SMN,Lemhi County Airport,US,US-ID,45.1237983704,-113.880996704,medium_airport,0,20,False
+SMO,Santa Monica Municipal Airport,US,US-CA,34.015800476100004,-118.450996399,small_airport,0,10,True
+SUM,Sumter Airport,US,US-SC,33.994998931885,-80.361297607422,small_airport,0,10,False
+SMX,Santa Maria Pub/Capt G Allan Hancock Field,US,US-CA,34.89889908,-120.4570007,medium_airport,36,20,True
+SNA,John Wayne Airport-Orange County Airport,US,US-CA,33.67570114,-117.8679962,large_airport,6634,30,True
+SNK,Winston Field,US,US-TX,32.69340133667,-100.94999694824,small_airport,0,10,True
+SNL,Shawnee Regional Airport,US,US-OK,35.357898712158,-96.942802429199,small_airport,0,10,True
+SNS,Salinas Municipal Airport,US,US-CA,36.662799835205,-121.60600280762,medium_airport,0,20,True
+SNY,Sidney Municipal-Lloyd W Carr Field,US,US-NE,41.10129929,-102.9850006,medium_airport,0,20,False
+SOP,Moore County Airport,US,US-NC,35.23740005,-79.3911972,small_airport,0,10,False
+SOW,Show Low Regional Airport,US,US-AZ,34.265499115,-110.005996704,small_airport,0,10,True
+SPA,Spartanburg Downtown Memorial Airport,US,US-SC,34.915699005127,-81.956497192383,small_airport,0,10,False
+SPF,Black Hills Airport-Clyde Ice Field,US,US-SD,44.48030090332,-103.78299713135,small_airport,0,10,False
+SPG,Albert Whitted Airport,US,US-FL,27.7651,-82.626999,small_airport,0,10,False
+SPI,Abraham Lincoln Capital Airport,US,US-IL,39.84410095,-89.67790222,large_airport,284,30,True
+SPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,US,US-TX,33.9888,-98.491898,large_airport,216,30,True
+SPW,Spencer Municipal Airport,US,US-IA,43.165500640869,-95.202796936035,small_airport,0,10,False
+SQI,Whiteside County Airport-Joseph H Bittorf Field,US,US-IL,41.74280167,-89.67630005,small_airport,0,10,False
+SQL,San Carlos Airport,US,US-CA,37.511901855469,-122.25,small_airport,0,10,True
+SRQ,Sarasota Bradenton International Airport,US,US-FL,27.39539909362793,-82.55439758300781,large_airport,1116,30,False
+RUI,Sierra Blanca Regional Airport,US,US-NM,33.462799072266,-105.53500366211,medium_airport,0,20,True
+SSC,Shaw Air Force Base,US,US-SC,33.97269821,-80.47059631,large_airport,0,30,False
+SSF,Stinson Municipal Airport,US,US-TX,29.336999893188,-98.471099853516,medium_airport,0,20,True
+SSI,Malcolm McKinnon Airport,US,US-GA,31.15180016,-81.39129639,medium_airport,0,20,False
+STC,St Cloud Regional Airport,US,US-MN,45.546600341796875,-94.05989837646484,medium_airport,0,20,False
+STE,Stevens Point Municipal Airport,US,US-WI,44.5452003479,-89.530296325684,small_airport,0,10,False
+STJ,Rosecrans Memorial Airport,US,US-MO,39.771900177002,-94.909698486328,medium_airport,0,20,True
+STK,Sterling Municipal Airport,US,US-CO,40.61529922,-103.2649994,small_airport,0,10,False
+STL,St Louis Lambert International Airport,US,US-MO,38.748697,-90.370003,large_airport,11330,30,True
+STP,St Paul Downtown Holman Field,US,US-MN,44.93450164794922,-93.05999755859375,medium_airport,0,20,False
+STS,Charles M. Schulz Sonoma County Airport,US,US-CA,38.50899887,-122.8130035,medium_airport,553,20,True
+SUA,Witham Field,US,US-FL,27.18169975,-80.22109985,small_airport,0,10,False
+SUD,Stroud Municipal Airport,US,US-OK,35.789600372314,-96.655700683594,small_airport,0,10,True
+SUE,Door County Cherryland Airport,US,US-WI,44.84370041,-87.42150116,small_airport,0,10,False
+SUN,Friedman Memorial Airport,US,US-ID,43.50439835,-114.2959976,medium_airport,185,20,False
+SUS,Spirit of St Louis Airport,US,US-MO,38.662101745605,-90.652000427246,large_airport,0,30,True
+SUU,Travis Air Force Base,US,US-CA,38.262699127197,-121.92700195312,large_airport,0,30,True
+SUW,Richard I Bong Airport,US,US-WI,46.689701080322,-92.094703674316,small_airport,0,10,False
+SUX,Sioux Gateway Col. Bud Day Field,US,US-IA,42.40259933,-96.38439941,large_airport,216,30,False
+SVC,Grant County Airport,US,US-NM,32.63650131225586,-108.15599822998047,small_airport,0,10,True
+SVE,Susanville Municipal Airport,US,US-CA,40.375701904297,-120.57299804688,small_airport,0,10,False
+SVH,Statesville Regional Airport,US,US-NC,35.765300750732,-80.953903198242,small_airport,0,10,False
+SVN,Hunter Army Air Field,US,US-GA,32.00999832,-81.14569855,medium_airport,0,20,False
+SWF,Stewart International Airport,US,US-NY,41.50410079956055,-74.10479736328125,medium_airport,264,20,False
+SWO,Stillwater Regional Airport,US,US-OK,36.161201477051,-97.08570098877,medium_airport,158,20,True
+SWW,Avenger Field,US,US-TX,32.467399597168,-100.46700286865,small_airport,0,10,True
+SYI,Bomar Field Shelbyville Municipal Airport,US,US-TN,35.56010056,-86.44249725,small_airport,0,10,True
+SYR,Syracuse Hancock International Airport,US,US-NY,43.11119842529297,-76.1063003540039,large_airport,2298,30,False
+SYV,Sylvester Airport,US,US-GA,31.558500289917,-83.895698547363,small_airport,0,10,False
+SZL,Whiteman Air Force Base,US,US-MO,38.73030090332,-93.547897338867,large_airport,0,30,True
+TBC,Tuba City Airport,US,US-AZ,36.0928001404,-111.383003235,small_airport,0,10,True
+TAD,Perry Stokes Airport,US,US-CO,37.2593994141,-104.341003418,small_airport,0,10,True
+TBN,Waynesville-St. Robert Regional Forney field,US,US-MO,37.74160004,-92.14070129,medium_airport,0,20,True
+TBR,Statesboro Bulloch County Airport,US,US-GA,32.4827003479,-81.73690032959999,small_airport,0,10,False
+TCC,Tucumcari Municipal Airport,US,US-NM,35.182800293,-103.602996826,medium_airport,0,20,True
+TCL,Tuscaloosa Regional Airport,US,US-AL,33.220600128174,-87.611396789551,medium_airport,0,20,True
+TCM,McChord Air Force Base,US,US-WA,47.1376991272,-122.475997925,large_airport,0,30,False
+TCS,Truth Or Consequences Municipal Airport,US,US-NM,33.2369003296,-107.272003174,medium_airport,0,20,True
+TDO,Ed Carlson Memorial Field South Lewis County Airport,US,US-WA,46.4771995544,-122.805999756,small_airport,0,10,False
+TDW,Tradewind Airport,US,US-TX,35.1698989868,-101.825996399,small_airport,0,10,True
+TDZ,Toledo Executive Airport,US,US-OH,41.56489944,-83.4822998,small_airport,0,10,False
+TEB,Teterboro Airport,US,US-NJ,40.85010147089999,-74.060798645,medium_airport,0,20,False
+TEX,Telluride Regional Airport,US,US-CO,37.9538002,-107.9079971,small_airport,0,10,True
+THA,Tullahoma Regional Arpt/Wm Northern Field,US,US-TN,35.38010025,-86.24639893,small_airport,0,10,True
+THM,Thompson Falls Airport,US,US-MT,47.573501586914,-115.28099822998,small_airport,0,10,False
+THV,York Airport,US,US-PA,39.91699982,-76.8730011,small_airport,0,10,False
+TIK,Tinker Air Force Base,US,US-OK,35.414699554443,-97.386596679688,large_airport,0,30,True
+TIW,Tacoma Narrows Airport,US,US-WA,47.26789856,-122.5780029,medium_airport,0,20,False
+TIX,Space Coast Regional Airport,US,US-FL,28.514799118042,-80.799201965332,medium_airport,0,20,False
+KNT,Kennett Memorial Airport,US,US-MO,36.2258987427,-90.0365982056,small_airport,0,10,True
+TLH,Tallahassee Regional Airport,US,US-FL,30.396499633789062,-84.35030364990234,large_airport,1066,30,False
+TLR,Mefford Field,US,US-CA,36.15629959,-119.3259964,small_airport,0,10,True
+TMA,Henry Tift Myers Airport,US,US-GA,31.4290008545,-83.4885025024,small_airport,0,10,False
+TMB,Kendall-Tamiami Executive Airport,US,US-FL,25.6478996277,-80.432800293,medium_airport,0,20,False
+OTK,Tillamook Airport,US,US-OR,45.4182014465,-123.814002991,small_airport,0,10,False
+TNP,Twentynine Palms Airport,US,US-CA,34.13159943,-115.9459991,small_airport,0,10,True
+TNT,Dade Collier Training and Transition Airport,US,US-FL,25.861799240112,-80.897003173828,small_airport,0,10,False
+TNU,Newton Municipal Airport,US,US-IA,41.67440032959,-93.021697998047,small_airport,0,10,False
+XSD,Tonopah Test Range Airport,US,US-NV,37.7988014221,-116.78099823,small_airport,0,10,True
+TOA,Zamperini Field,US,US-CA,33.803398132324,-118.33999633789,small_airport,0,10,True
+TOC,Toccoa Airport - R.G. Letourneau Field,US,US-GA,34.59379959,-83.29579926,small_airport,0,10,False
+TOI,Troy Municipal Airport at N Kenneth Campbell Field,US,US-AL,31.860399,-86.012101,medium_airport,0,20,True
+TOL,Toledo Express Airport,US,US-OH,41.58679962,-83.80780029,large_airport,308,30,False
+TOP,Philip Billard Municipal Airport,US,US-KS,39.068698883057,-95.622497558594,medium_airport,0,20,True
+TOR,Torrington Municipal Airport,US,US-WY,42.0644989,-104.1529999,small_airport,0,10,False
+TPA,Tampa International Airport,US,US-FL,27.975500106811523,-82.533203125,large_airport,10454,30,False
+TPF,Peter O Knight Airport,US,US-FL,27.915599822998,-82.44930267334,small_airport,0,10,False
+TPH,Tonopah Airport,US,US-NV,38.06019974,-117.086998,medium_airport,0,20,True
+TPL,Draughon Miller Central Texas Regional Airport,US,US-TX,31.15250015258789,-97.40779876708984,medium_airport,0,20,True
+TRI,Tri-Cities Regional TN/VA Airport,US,US-TN,36.475201,-82.407401,large_airport,467,30,False
+TKF,Truckee Tahoe Airport,US,US-CA,39.319999694799996,-120.13999939,medium_airport,0,20,True
+TRL,Terrell Municipal Airport,US,US-TX,32.709201812744,-96.267402648926,small_airport,0,10,True
+TRM,Jacqueline Cochran Regional Airport,US,US-CA,33.62670135498,-116.16000366211,medium_airport,0,20,True
+TSP,Tehachapi Municipal Airport,US,US-CA,35.134998321533,-118.43900299072,small_airport,0,10,True
+TTD,Portland Troutdale Airport,US,US-OR,45.54940032959,-122.40100097656,medium_airport,0,20,False
+TTN,Trenton Mercer Airport,US,US-NJ,40.27669906616211,-74.8134994506836,medium_airport,540,20,False
+TUL,Tulsa International Airport,US,US-OK,36.19839859008789,-95.88809967041016,large_airport,2789,30,True
+TUP,Tupelo Regional Airport,US,US-MS,34.26810073852539,-88.7698974609375,medium_airport,0,20,True
+TUS,Tucson International Airport,US,US-AZ,32.1161003112793,-110.94100189208984,large_airport,2728,30,True
+TVC,Cherry Capital Airport,US,US-MI,44.74140167236328,-85.58219909667969,medium_airport,889,20,False
+TVF,Thief River Falls Regional Airport,US,US-MN,48.06570053,-96.18499756,small_airport,0,10,False
+TVI,Thomasville Regional Airport,US,US-GA,30.901599884033,-83.881301879883,small_airport,0,10,False
+TVL,Lake Tahoe Airport,US,US-CA,38.89390182495117,-119.99500274658203,medium_airport,0,20,True
+TWF,Joslin Field Magic Valley Regional Airport,US,US-ID,42.4818,-114.487999,medium_airport,172,20,False
+TXK,Texarkana Regional Webb Field,US,US-AR,33.45370101928711,-93.99099731445312,medium_airport,218,20,True
+TYZ,Taylor Airport,US,US-AZ,34.45280075,-110.1149979,small_airport,0,10,True
+TYR,Tyler Pounds Regional Airport,US,US-TX,32.35409927368164,-95.40239715576172,medium_airport,310,20,True
+TYS,McGhee Tyson Airport,US,US-TN,35.81100082,-83.9940033,large_airport,2846,30,False
+BFG,Bullfrog Basin Airport,US,US-UT,37.54579926,-110.7129974,small_airport,0,10,True
+NPH,Nephi Municipal Airport,US,US-UT,39.73880005,-111.8720016,small_airport,0,10,True
+RVR,Green River Municipal Airport,US,US-UT,38.9613990784,-110.226997375,small_airport,0,10,True
+PNU,Panguitch Municipal Airport,US,US-UT,37.84519958,-112.3919983,small_airport,0,10,True
+ICS,Cascade Airport,US,US-ID,44.4938011169,-116.01599884,small_airport,0,10,False
+UBS,Columbus Lowndes County Airport,US,US-MS,33.4654006958,-88.3803024292,small_airport,0,10,True
+UCY,Everett-Stewart Regional Airport,US,US-TN,36.38180161,-88.98539734,small_airport,0,10,True
+UDD,Bermuda Dunes Airport,US,US-CA,33.748401641846,-116.27500152588,small_airport,0,10,True
+UES,Waukesha County Airport,US,US-WI,43.041000366211,-88.237098693848,small_airport,0,10,False
+UGN,Waukegan National Airport,US,US-IL,42.422199249268,-87.867897033691,small_airport,0,10,False
+UIL,Quillayute Airport,US,US-WA,47.936599731445,-124.56300354004,small_airport,0,10,False
+UIN,Quincy Regional Baldwin Field,US,US-IL,39.94269943,-91.19460297,medium_airport,102,20,True
+IKB,Wilkes County Airport,US,US-NC,36.2228012085,-81.09829711910001,small_airport,0,10,False
+UKI,Ukiah Municipal Airport,US,US-CA,39.125999450684,-123.20099639893,medium_airport,0,20,True
+UKT,Quakertown Airport,US,US-PA,40.435199737549,-75.381896972656,small_airport,0,10,False
+ULM,New Ulm Municipal Airport,US,US-MN,44.319599151611,-94.502296447754,small_airport,0,10,False
+ATO,Ohio University Snyder Field,US,US-OH,39.2109985352,-82.23139953610001,small_airport,0,10,False
+UNU,Dodge County Airport,US,US-WI,43.42660141,-88.70320129,small_airport,0,10,False
+SCE,University Park Airport,US,US-PA,40.8493003845,-77.84870147710001,medium_airport,308,20,False
+UOS,Franklin County Airport,US,US-TN,35.205101013184,-85.898101806641,small_airport,0,10,True
+UOX,University Oxford Airport,US,US-MS,34.384300231934,-89.536796569824,medium_airport,0,20,True
+UTM,Tunica Municipal Airport,US,US-MS,34.680999755859,-90.346702575684,small_airport,0,10,True
+HTV,Huntsville Regional Airport,US,US-TX,30.7469005585,-95.5871963501,medium_airport,0,20,True
+NPT,Newport State Airport,US,US-RI,41.5323982239,-71.28150177,small_airport,0,10,False
+UVA,Garner Field,US,US-TX,29.2112998962,-99.743598938,small_airport,0,10,True
+RKH,Rock Hill - York County Airport,US,US-SC,34.9878006,-81.05719757,small_airport,0,10,False
+VAD,Moody Air Force Base,US,US-GA,30.9678001404,-83.1930007935,medium_airport,0,20,False
+LLY,South Jersey Regional Airport,US,US-NJ,39.942901611299995,-74.845703125,small_airport,0,10,False
+VBG,Vandenberg Air Force Base,US,US-CA,34.7373008728,-120.583999634,large_airport,0,30,True
+VCT,Victoria Regional Airport,US,US-TX,28.85260009765625,-96.91850280761719,medium_airport,0,20,True
+VCV,Southern California Logistics Airport,US,US-CA,34.597499847399995,-117.383003235,small_airport,0,10,True
+VDI,Vidalia Regional Airport,US,US-GA,32.192699432373,-82.371200561523,small_airport,0,10,False
+VEL,Vernal Regional Airport,US,US-UT,40.4408989,-109.5100021,medium_airport,102,20,False
+VGT,North Las Vegas Airport,US,US-NV,36.21070098877,-115.19400024414,medium_airport,0,20,True
+VHN,Culberson County Airport,US,US-TX,31.057800292969,-104.78399658203,small_airport,0,10,True
+VIH,Rolla National Airport,US,US-MO,38.1273994446,-91.7695007324,small_airport,0,10,True
+VIS,Visalia Municipal Airport,US,US-CA,36.3186988831,-119.392997742,small_airport,0,10,True
+VJI,Virginia Highlands Airport,US,US-VA,36.687099456787,-82.033302307129,small_airport,0,10,False
+VKS,Vicksburg Municipal Airport,US,US-MS,32.23929977417,-90.928398132324,small_airport,0,10,True
+VLA,Vandalia Municipal Airport,US,US-IL,38.991500854492,-89.166198730469,small_airport,0,10,True
+VLD,Valdosta Regional Airport,US,US-GA,30.782499313354492,-83.27670288085938,medium_airport,170,20,False
+VNC,Venice Municipal Airport,US,US-FL,27.071599960327,-82.440299987793,small_airport,0,10,False
+VNY,Van Nuys Airport,US,US-CA,34.209800720215,-118.48999786377,medium_airport,0,20,True
+VOK,Volk Field,US,US-WI,43.938999176025,-90.253402709961,medium_airport,0,20,False
+VPS,Destin-Ft Walton Beach Airport,US,US-FL,30.4832,-86.525398,large_airport,1431,30,True
+VPZ,Porter County Municipal Airport,US,US-IN,41.45399857,-87.00710297,medium_airport,0,20,False
+VQQ,Cecil Airport,US,US-FL,30.2187004089,-81.876701355,small_airport,0,10,False
+VRB,Vero Beach Regional Airport,US,US-FL,27.6556,-80.417901,medium_airport,0,20,False
+VSF,Hartness State (Springfield) Airport,US,US-VT,43.34360123,-72.51730347,small_airport,0,10,False
+VTN,Miller Field,US,US-NE,42.85779953,-100.5479965,medium_airport,0,20,False
+VYS,Illinois Valley Regional Airport-Walter A Duncan Field,US,US-IL,41.351898,-89.153099,small_airport,0,10,False
+GTY,Gettysburg Regional Airport,US,US-PA,39.84090042,-77.27420044,small_airport,0,10,False
+SQV,Sequim Valley Airport,US,US-WA,48.098098754883,-123.18699645996,small_airport,0,10,False
+PGC,Grant County Airport,US,US-WV,38.9948997498,-79.1458969116,small_airport,0,10,False
+WAL,Wallops Flight Facility Airport,US,US-VA,37.9402008057,-75.4664001465,small_airport,0,10,False
+WAY,Greene County Airport,US,US-PA,39.90010071,-80.13310242,small_airport,0,10,False
+WBW,Wilkes Barre Wyoming Valley Airport,US,US-PA,41.2971992493,-75.8511962891,small_airport,0,10,False
+WDG,Enid Woodring Regional Airport,US,US-OK,36.3791999817,-97.7910995483,small_airport,0,10,True
+WDR,Barrow County Airport,US,US-GA,33.98289871,-83.66739655,small_airport,0,10,False
+WHP,Whiteman Airport,US,US-CA,34.2593002319,-118.413002014,small_airport,0,10,True
+WJF,General WM J Fox Airfield,US,US-CA,34.74110031,-118.2190018,medium_airport,0,20,True
+WLD,Strother Field,US,US-KS,37.168598175,-97.0375976562,small_airport,0,10,True
+WLW,Willows Glenn County Airport,US,US-CA,39.51639938,-122.2180023,small_airport,0,10,True
+WMC,Winnemucca Municipal Airport,US,US-NV,40.8965988159,-117.805999756,medium_airport,0,20,False
+WRB,Robins Air Force Base,US,US-GA,32.6400985718,-83.5919036865,large_airport,0,30,False
+WRI,Mc Guire Air Force Base,US,US-NJ,40.0155983,-74.59169769,medium_airport,0,20,False
+WRL,Worland Municipal Airport,US,US-WY,43.9656982421875,-107.95099639892578,medium_airport,0,20,False
+WSD,Condron Army Air Field,US,US-NM,32.34149933,-106.4029999,small_airport,0,10,True
+WST,Westerly State Airport,US,US-RI,41.3496017456,-71.8033981323,small_airport,0,10,False
+WVI,Watsonville Municipal Airport,US,US-CA,36.9356994629,-121.790000916,small_airport,0,10,True
+WVL,Waterville Robert Lafleur Airport,US,US-ME,44.5331993103,-69.6754989624,small_airport,0,10,False
+WWD,Cape May County Airport,US,US-NJ,39.008499145500004,-74.9083023071,medium_airport,0,20,False
+WWR,West Woodward Airport,US,US-OK,36.438,-99.5226667,medium_airport,0,20,True
+WYS,Yellowstone Airport,US,US-MT,44.68840027,-111.1179962,medium_airport,92,20,False
+KYO,Tampa North Aero Park Airport,US,US-FL,28.2213001251,-82.37449646,small_airport,0,10,False
+XNA,Northwest Arkansas Regional Airport,US,US-AR,36.281898,-94.306801,medium_airport,2547,20,True
+YIP,Willow Run Airport,US,US-MI,42.23789978,-83.53040314,medium_airport,0,20,False
+YKM,Yakima Air Terminal McAllister Field,US,US-WA,46.56819916,-120.5439987,medium_airport,0,20,False
+YKN,Chan Gurney Municipal Airport,US,US-SD,42.916698455811,-97.385902404785,medium_airport,0,20,False
+YNG,Youngstown Warren Regional Airport,US,US-OH,41.26070023,-80.67910004,medium_airport,0,20,False
+ZPH,Zephyrhills Municipal Airport,US,US-FL,28.2282009125,-82.15589904790001,small_airport,0,10,False
+ZZV,Zanesville Municipal Airport,US,US-OH,39.9444007874,-81.89209747310001,medium_airport,0,20,False
+DRU,Drummond Airport,US,US-MT,46.6208,-113.205002,small_airport,0,10,False
+UWA,Ware Airport,US,US-MA,42.282001495361,-72.214797973633,small_airport,0,10,False
+MDR,Medfra Airport,US,US-AK,63.1060198183,-154.719429016,small_airport,0,10,False
+LIZ,Loring International Airport,US,US-ME,46.950401,-67.885902,small_airport,0,10,False
+MHN,Hooker County Airport,US,US-NE,42.042155,-101.059113,small_airport,0,10,False
+MTX,Metro Field,US,US-AK,64.80680084229999,-147.761993408,small_airport,0,10,False
+MXC,Monticello Airport,US,US-UT,37.93243,-109.341225,small_airport,0,10,True
+MYK,May Creek Airport,US,US-AK,61.3357009888,-142.68699646,small_airport,0,10,False
+EPG,Browns Airport,US,US-NE,40.8675003052,-96.1100006104,small_airport,0,10,False
+HBB,Industrial Airpark,US,US-NM,32.7668,-103.209,small_airport,0,10,True
+UCC,Yucca Airstrip,US,US-NV,36.94580078125,-116.03800201416,small_airport,0,10,True
+NLN,Kneeland Airport,US,US-CA,40.719299316406,-123.92800140381,small_airport,0,10,False
+BZF,Benton Field,US,US-CA,40.5749015808,-122.407997131,small_airport,0,10,False
+AKB,Atka Airport,US,US-AK,52.22029877,-174.2059937,small_airport,0,10,False
+PML,Port Moller Airport,US,US-AK,56.0060005188,-160.561004639,small_airport,0,10,False
+PAQ,"Warren ""Bud"" Woods Palmer Municipal Airport",US,US-AK,61.594898,-149.08901,medium_airport,0,20,False
+BTI,Barter Island LRRS Airport,US,US-AK,70.1340026855,-143.582000732,medium_airport,0,20,False
+BET,Bethel Airport,US,US-AK,60.77980042,-161.8379974,medium_airport,138,20,False
+BVU,Beluga Airport,US,US-AK,61.1721992493,-151.044006348,small_airport,0,10,False
+BIG,Allen Army Airfield,US,US-AK,63.9944992065,-145.722000122,medium_airport,0,20,False
+BKC,Buckland Airport,US,US-AK,65.9815979004,-161.149002075,medium_airport,0,20,False
+BMX,Big Mountain Airport,US,US-AK,59.3611984253,-155.259002686,small_airport,0,10,False
+BRW,Wiley Post Will Rogers Memorial Airport,US,US-AK,71.285402,-156.766008,medium_airport,120,20,False
+BTT,Bettles Airport,US,US-AK,66.91390228,-151.529007,medium_airport,0,20,False
+CDB,Cold Bay Airport,US,US-AK,55.20610046386719,-162.72500610351562,medium_airport,0,20,False
+CEM,Central Airport,US,US-AK,65.57379913,-144.7830048,small_airport,0,10,False
+CIK,Chalkyitsik Airport,US,US-AK,66.6449966431,-143.740005493,small_airport,0,10,False
+CYF,Chefornak Airport,US,US-AK,60.1492004395,-164.285995483,small_airport,0,10,False
+SCM,Scammon Bay Airport,US,US-AK,61.845298767100005,-165.570999146,medium_airport,0,20,False
+IRC,Circle City /New/ Airport,US,US-AK,65.830498,-144.076008,small_airport,0,10,False
+CDV,Merle K (Mudhole) Smith Airport,US,US-AK,60.4917984,-145.4779968,medium_airport,120,20,False
+CXF,Coldfoot Airport,US,US-AK,67.25219726559999,-150.203994751,small_airport,0,10,False
+CYT,Yakataga Airport,US,US-AK,60.080974,-142.494541,small_airport,0,10,False
+CZF,Cape Romanzof LRRS Airport,US,US-AK,61.78030014,-166.0390015,medium_airport,0,20,False
+DRG,Deering Airport,US,US-AK,66.0696029663,-162.76600647,medium_airport,0,20,False
+RDB,Red Dog Airport,US,US-AK,68.03209686279999,-162.899002075,small_airport,0,10,False
+ADK,Adak Airport,US,US-AK,51.87799835205078,-176.64599609375,medium_airport,16,20,False
+DLG,Dillingham Airport,US,US-AK,59.04470062,-158.5050049,medium_airport,0,20,False
+MLL,Marshall Don Hunter Sr Airport,US,US-AK,61.8642997742,-162.026000977,medium_airport,0,20,False
+ADQ,Kodiak Airport,US,US-AK,57.75,-152.4940033,medium_airport,104,20,False
+DUT,Unalaska Airport,US,US-AK,53.900100708,-166.544006348,medium_airport,0,20,False
+KKH,Kongiganak Airport,US,US-AK,59.960800170899994,-162.880996704,small_airport,0,10,False
+EDF,Elmendorf Air Force Base,US,US-AK,61.250999450683594,-149.8070068359375,medium_airport,0,20,False
+EEK,Eek Airport,US,US-AK,60.21367264,-162.0438843,small_airport,0,10,False
+EAA,Eagle Airport,US,US-AK,64.77639771,-141.151001,small_airport,0,10,False
+EHM,Cape Newenham LRRS Airport,US,US-AK,58.646400451699996,-162.06300354,medium_airport,0,20,False
+EIL,Eielson Air Force Base,US,US-AK,64.66570282,-147.102005,medium_airport,0,20,False
+EMK,Emmonak Airport,US,US-AK,62.78609848,-164.4909973,medium_airport,0,20,False
+ENA,Kenai Municipal Airport,US,US-AK,60.57310104370117,-151.2449951171875,medium_airport,0,20,False
+WWT,Newtok Airport,US,US-AK,60.939098358154,-164.64100646973,small_airport,0,10,False
+FAI,Fairbanks International Airport,US,US-AK,64.81510162,-147.8560028,large_airport,748,30,False
+FBK,Ladd AAF Airfield,US,US-AK,64.83750153,-147.6139984,medium_airport,0,20,False
+ABL,Ambler Airport,US,US-AK,67.1063,-157.856989,medium_airport,0,20,False
+NIB,Nikolai Airport,US,US-AK,63.0186,-154.358002,small_airport,0,10,False
+FMC,Five Mile Airport,US,US-AK,65.9270019531,-149.839996338,small_airport,0,10,False
+FWL,Farewell Airport,US,US-AK,62.5065994263,-153.893997192,small_airport,0,10,False
+GAL,Edward G. Pitka Sr Airport,US,US-AK,64.73619843,-156.9369965,medium_airport,0,20,False
+GBH,Galbraith Lake Airport,US,US-AK,68.4796981812,-149.490005493,small_airport,0,10,False
+KWK,Kwigillingok Airport,US,US-AK,59.876499,-163.169005,small_airport,0,10,False
+SHG,Shungnak Airport,US,US-AK,66.88809967041,-157.16200256348,small_airport,0,10,False
+GKN,Gulkana Airport,US,US-AK,62.1548996,-145.4570007,medium_airport,0,20,False
+GLV,Golovin Airport,US,US-AK,64.5504989624,-163.007003784,small_airport,0,10,False
+GAM,Gambell Airport,US,US-AK,63.76679992675781,-171.73300170898438,medium_airport,0,20,False
+BGQ,Big Lake Airport,US,US-AK,61.536098480199996,-149.813995361,small_airport,0,10,False
+GST,Gustavus Airport,US,US-AK,58.4253006,-135.7070007,medium_airport,0,20,False
+NME,Nightmute Airport,US,US-AK,60.471000671387,-164.70100402832,small_airport,0,10,False
+SGY,Skagway Airport,US,US-AK,59.46009826660156,-135.3159942626953,small_airport,0,10,False
+HCR,Holy Cross Airport,US,US-AK,62.18830108642578,-159.77499389648438,medium_airport,0,20,False
+HSL,Huslia Airport,US,US-AK,65.69789886,-156.3509979,medium_airport,0,20,False
+HNS,Haines Airport,US,US-AK,59.24380111694336,-135.5240020751953,medium_airport,0,20,False
+HOM,Homer Airport,US,US-AK,59.645599365234375,-151.4770050048828,medium_airport,0,20,False
+HPB,Hooper Bay Airport,US,US-AK,61.52389908,-166.1470032,medium_airport,0,20,False
+HUS,Hughes Airport,US,US-AK,66.04109955,-154.2630005,small_airport,0,10,False
+SHX,Shageluk Airport,US,US-AK,62.6922988892,-159.569000244,small_airport,0,10,False
+IGG,Igiugig Airport,US,US-AK,59.32400131225586,-155.90199279785156,small_airport,0,10,False
+EGX,Egegik Airport,US,US-AK,58.1855010986,-157.375,medium_airport,0,20,False
+IAN,Bob Baker Memorial Airport,US,US-AK,66.9759979248,-160.43699646,medium_airport,0,20,False
+ILI,Iliamna Airport,US,US-AK,59.75439835,-154.9109955,medium_airport,0,20,False
+UTO,Indian Mountain LRRS Airport,US,US-AK,65.99279785,-153.7039948,medium_airport,0,20,False
+MCL,McKinley National Park Airport,US,US-AK,63.7326011658,-148.910995483,small_airport,0,10,False
+WAA,Wales Airport,US,US-AK,65.622593,-168.095,small_airport,0,10,False
+JNU,Juneau International Airport,US,US-AK,58.35499954223633,-134.5760040283203,medium_airport,731,20,False
+KGK,Koliganek Airport,US,US-AK,59.726600647,-157.259002686,small_airport,0,10,False
+KDK,Kodiak Municipal Airport,US,US-AK,57.8059005737,-152.37399292,small_airport,0,10,False
+KFP,False Pass Airport,US,US-AK,54.8474006652832,-163.41000366210938,small_airport,0,10,False
+AKK,Akhiok Airport,US,US-AK,56.9387016296,-154.182998657,small_airport,0,10,False
+KPN,Kipnuk Airport,US,US-AK,59.932998657199995,-164.031005859,small_airport,0,10,False
+KKA,Koyuk Alfred Adams Airport,US,US-AK,64.9394989014,-161.154006958,small_airport,0,10,False
+LKK,Kulik Lake Airport,US,US-AK,58.9821014404,-155.121002197,small_airport,0,10,False
+AKN,King Salmon Airport,US,US-AK,58.67679977,-156.6490021,medium_airport,0,20,False
+IKO,Nikolski Air Station,US,US-AK,52.94160079956055,-168.8489990234375,small_airport,0,10,False
+AKP,Anaktuvuk Pass Airport,US,US-AK,68.13359833,-151.7429962,medium_airport,0,20,False
+KTN,Ketchikan International Airport,US,US-AK,55.35559845,-131.7140045,medium_airport,397,20,False
+UUK,Ugnu-Kuparuk Airport,US,US-AK,70.33080291750001,-149.598007202,small_airport,0,10,False
+KAL,Kaltag Airport,US,US-AK,64.31909943,-158.7409973,small_airport,0,10,False
+KLW,Klawock Airport,US,US-AK,55.579200744599994,-133.076004028,medium_airport,0,20,False
+KYK,Karluk Airport,US,US-AK,57.5671005249,-154.449996948,small_airport,0,10,False
+KLN,Larsen Bay Airport,US,US-AK,57.5350990295,-153.977996826,small_airport,0,10,False
+KLG,Kalskag Airport,US,US-AK,61.53630065917969,-160.34100341796875,small_airport,0,10,False
+DQH,Alpine Airstrip,US,US-AK,70.3442993164,-150.945007324,small_airport,0,10,False
+WCR,Chandalar Lake Airport,US,US-AK,67.5045013428,-148.483001709,small_airport,0,10,False
+LUR,Cape Lisburne LRRS Airport,US,US-AK,68.87509918,-166.1100006,medium_airport,0,20,False
+KMO,Manokotak Airport,US,US-AK,58.990200042699996,-159.050003052,small_airport,0,10,False
+MCG,McGrath Airport,US,US-AK,62.95289993,-155.6060028,medium_airport,0,20,False
+MDO,Middleton Island Airport,US,US-AK,59.4499015808,-146.307006836,small_airport,0,10,False
+LMA,Minchumina Airport,US,US-AK,63.886002,-152.302002,small_airport,0,10,False
+SMK,St Michael Airport,US,US-AK,63.49010086,-162.1100006,small_airport,0,10,False
+MLY,Manley Hot Springs Airport,US,US-AK,64.99759674069999,-150.643997192,small_airport,0,10,False
+MOU,Mountain Village Airport,US,US-AK,62.095401763916016,-163.6820068359375,small_airport,0,10,False
+MRI,Merrill Field,US,US-AK,61.2135009765625,-149.843994140625,medium_airport,0,20,False
+MXY,Mc Carthy Airport,US,US-AK,61.4370994568,-142.904006958,small_airport,0,10,False
+MYU,Mekoryuk Airport,US,US-AK,60.37139892578125,-166.27099609375,medium_airport,0,20,False
+WNA,Napakiak Airport,US,US-AK,60.69029998779297,-161.97900390625,small_airport,0,10,False
+ANC,Ted Stevens Anchorage International Airport,US,US-AK,61.174400329589844,-149.99600219726562,large_airport,3206,30,False
+ANI,Aniak Airport,US,US-AK,61.581600189208984,-159.54299926757812,medium_airport,0,20,False
+ENN,Nenana Municipal Airport,US,US-AK,64.54730224609375,-149.07400512695312,medium_airport,0,20,False
+NNL,Nondalton Airport,US,US-AK,59.980201721191,-154.8390045166,small_airport,0,10,False
+ANN,Annette Island Airport,US,US-AK,55.04240036010742,-131.57200622558594,medium_airport,0,20,False
+NUL,Nulato Airport,US,US-AK,64.729301,-158.074005,small_airport,0,10,False
+ANV,Anvik Airport,US,US-AK,62.646702,-160.190994,medium_airport,0,20,False
+KNW,New Stuyahok Airport,US,US-AK,59.4499015808,-157.32800293,small_airport,0,10,False
+OBU,Kobuk Airport,US,US-AK,66.9123001099,-156.897003174,small_airport,0,10,False
+PCA,Portage Creek Airport,US,US-AK,58.9065,-157.714,small_airport,0,10,False
+HNH,Hoonah Airport,US,US-AK,58.0961,-135.410111,small_airport,0,10,False
+OME,Nome Airport,US,US-AK,64.51219940185547,-165.44500732421875,medium_airport,120,20,False
+OOK,Toksook Bay Airport,US,US-AK,60.54140091,-165.0870056,small_airport,0,10,False
+ORT,Northway Airport,US,US-AK,62.9612999,-141.9290009,medium_airport,0,20,False
+OTZ,Ralph Wien Memorial Airport,US,US-AK,66.88469696,-162.598999,medium_airport,118,20,False
+NLG,Nelson Lagoon Airport,US,US-AK,56.007499694824,-161.16000366211,small_airport,0,10,False
+STG,St George Airport,US,US-AK,56.578300476100004,-169.662002563,medium_airport,0,20,False
+KPC,Port Clarence Coast Guard Station,US,US-AK,65.2537002563,-166.85899353,medium_airport,0,20,False
+KPV,Perryville Airport,US,US-AK,55.905998,-159.162993,small_airport,0,10,False
+PSG,Petersburg James A Johnson Airport,US,US-AK,56.80170059,-132.9450073,medium_airport,120,20,False
+PTH,Port Heiden Airport,US,US-AK,56.95909881591797,-158.63299560546875,medium_airport,0,20,False
+PKA,Napaskiak Airport,US,US-AK,60.70289993,-161.7779999,small_airport,0,10,False
+PTU,Platinum Airport,US,US-AK,59.01139831542969,-161.82000732421875,medium_airport,0,20,False
+PIP,Pilot Point Airport,US,US-AK,57.5803985596,-157.572006226,small_airport,0,10,False
+PHO,Point Hope Airport,US,US-AK,68.34880065917969,-166.7989959716797,small_airport,0,10,False
+PPC,Prospect Creek Airport,US,US-AK,66.814102172852,-150.64399719238,small_airport,0,10,False
+KWN,Quinhagak Airport,US,US-AK,59.7551,-161.845,small_airport,0,10,False
+NUI,Nuiqsut Airport,US,US-AK,70.2099990845,-151.005996704,medium_airport,0,20,False
+ARC,Arctic Village Airport,US,US-AK,68.1147,-145.578995,medium_airport,0,20,False
+RSH,Russian Mission Airport,US,US-AK,61.7788848877,-161.319458008,small_airport,0,10,False
+RBY,Ruby Airport,US,US-AK,64.72720337,-155.4700012,medium_airport,0,20,False
+SVA,Savoonga Airport,US,US-AK,63.6864013671875,-170.4929962158203,medium_airport,0,20,False
+SCC,Deadhorse Airport,US,US-AK,70.19470215,-148.4649963,medium_airport,162,20,False
+SDP,Sand Point Airport,US,US-AK,55.314998626708984,-160.5229949951172,medium_airport,0,20,False
+SHH,Shishmaref Airport,US,US-AK,66.249604,-166.089112,medium_airport,0,20,False
+SIT,Sitka Rocky Gutierrez Airport,US,US-AK,57.04710006713867,-135.36199951171875,medium_airport,210,20,False
+WLK,Selawik Airport,US,US-AK,66.60009766,-159.9859924,medium_airport,0,20,False
+SLQ,Sleetmute Airport,US,US-AK,61.7005004883,-157.166000366,small_airport,0,10,False
+KSM,St Mary's Airport,US,US-AK,62.0605011,-163.302002,medium_airport,0,20,False
+SNP,St Paul Island Airport,US,US-AK,57.167301177978516,-170.22000122070312,medium_airport,0,20,False
+SOV,Seldovia Airport,US,US-AK,59.442401885986,-151.70399475098,small_airport,0,10,False
+SMU,Sheep Mountain Airport,US,US-AK,61.812000274700004,-147.507003784,small_airport,0,10,False
+UMM,Summit Airport,US,US-AK,63.3315010071,-149.126998901,small_airport,0,10,False
+SVW,Sparrevohn LRRS Airport,US,US-AK,61.09740067,-155.5740051,medium_airport,0,20,False
+SKW,Skwentna Airport,US,US-AK,61.9653015137,-151.190994263,small_airport,0,10,False
+SXQ,Soldotna Airport,US,US-AK,60.47570037841797,-151.03399658203125,medium_airport,0,20,False
+SYA,Eareckson Air Station,US,US-AK,52.71229935,174.1139984,medium_airport,0,20,False
+TAL,Ralph M Calhoun Memorial Airport,US,US-AK,65.1744003296,-152.10899353,small_airport,0,10,False
+TNC,Tin City Long Range Radar Station Airport,US,US-AK,65.56310272,-167.9219971,small_airport,0,10,False
+TLA,Teller Airport,US,US-AK,65.2404022217,-166.339004517,small_airport,0,10,False
+TOG,Togiak Airport,US,US-AK,59.052799224853516,-160.39700317382812,medium_airport,0,20,False
+TKA,Talkeetna Airport,US,US-AK,62.320499420166,-150.09399414062,medium_airport,0,20,False
+TLJ,Tatalina LRRS Airport,US,US-AK,62.894401550299996,-155.977005005,medium_airport,0,20,False
+ATK,Atqasuk Edward Burnell Sr Memorial Airport,US,US-AK,70.46730041503906,-157.43600463867188,medium_airport,0,20,False
+AUK,Alakanuk Airport,US,US-AK,62.680042266799994,-164.659927368,small_airport,0,10,False
+UMT,Umiat Airport,US,US-AK,69.37110138,-152.1360016,small_airport,0,10,False
+UNK,Unalakleet Airport,US,US-AK,63.88840103,-160.798996,small_airport,0,10,False
+WOW,Willow Airport,US,US-AK,61.7541999817,-150.052001953,small_airport,0,10,False
+VAK,Chevak Airport,US,US-AK,61.5409,-165.6005,small_airport,0,10,False
+KVC,King Cove Airport,US,US-AK,55.11629867553711,-162.26600646972656,small_airport,0,10,False
+VDZ,Valdez Pioneer Field,US,US-AK,61.13389969,-146.2480011,medium_airport,0,20,False
+VEE,Venetie Airport,US,US-AK,67.0086975098,-146.365997314,small_airport,0,10,False
+KVL,Kivalina Airport,US,US-AK,67.73619842529297,-164.56300354003906,medium_airport,0,20,False
+WBQ,Beaver Airport,US,US-AK,66.362197876,-147.406997681,small_airport,0,10,False
+SWD,Seward Airport,US,US-AK,60.12689971923828,-149.41900634765625,medium_airport,0,20,False
+WRG,Wrangell Airport,US,US-AK,56.48429871,-132.3699951,medium_airport,120,20,False
+AIN,Wainwright Airport,US,US-AK,70.6380004883,-159.994995117,medium_airport,0,20,False
+WMO,White Mountain Airport,US,US-AK,64.689201355,-163.412994385,small_airport,0,10,False
+WTK,Noatak Airport,US,US-AK,67.56610107421875,-162.97500610351562,medium_airport,0,20,False
+WWA,Wasilla Airport,US,US-AK,61.5717010498,-149.539993286,medium_airport,0,20,False
+YAK,Yakutat Airport,US,US-AK,59.5032997131,-139.660003662,medium_airport,120,20,False
+AKI,Akiak Airport,US,US-AK,60.9029006958,-161.231002808,small_airport,0,10,False
+AET,Allakaket Airport,US,US-AK,66.5518035889,-152.621994019,small_airport,0,10,False
+PFC,Pacific City State Airport,US,US-OR,45.199798584,-123.961997986,small_airport,0,10,False
+NCN,Chenega Bay Airport,US,US-AK,60.0773010254,-147.992004395,small_airport,0,10,False
+CLP,Clarks Point Airport,US,US-AK,58.83369827,-158.529007,small_airport,0,10,False
+ELI,Elim Airport,US,US-AK,64.61470032,-162.2720032,small_airport,0,10,False
+KUK,Kasigluk Airport,US,US-AK,60.87440109,-162.5240021,small_airport,0,10,False
+KNK,Kokhanok Airport,US,US-AK,59.433200836199994,-154.804000854,small_airport,0,10,False
+KOT,Kotlik Airport,US,US-AK,63.0306015015,-163.533004761,small_airport,0,10,False
+KTS,Brevig Mission Airport,US,US-AK,65.3312988281,-166.466003418,small_airport,0,10,False
+KYU,Koyukuk Airport,US,US-AK,64.8760986328,-157.727005005,small_airport,0,10,False
+KWT,Kwethluk Airport,US,US-AK,60.790298461899994,-161.444000244,small_airport,0,10,False
+ORV,Robert (Bob) Curtis Memorial Airport,US,US-AK,66.81790161,-161.0189972,small_airport,0,10,False
+SKK,Shaktoolik Airport,US,US-AK,64.37110138,-161.223999,small_airport,0,10,False
+TKJ,Tok Junction Airport,US,US-AK,63.32949829,-142.9539948,small_airport,0,10,False
+WSN,South Naknek Nr 2 Airport,US,US-AK,58.7033996582,-157.007995605,small_airport,0,10,False
+FYU,Fort Yukon Airport,US,US-AK,66.57150268554688,-145.25,medium_airport,0,20,False
+PGM,Port Graham Airport,US,US-AK,59.348300933838,-151.83200073242,small_airport,0,10,False
+BKH,Barking Sands Airport,US,US-HI,22.022800445599998,-159.785003662,medium_airport,0,20,False
+HDH,Dillingham Airfield,US,US-HI,21.5795001984,-158.197006226,medium_airport,0,20,False
+HHI,Wheeler Army Airfield,US,US-HI,21.48349953,-158.0399933,medium_airport,0,20,False
+HNM,Hana Airport,US,US-HI,20.79560089111328,-156.01400756835938,medium_airport,0,20,False
+JHM,Kapalua Airport,US,US-HI,20.962900161743164,-156.67300415039062,medium_airport,0,20,False
+JRF,Kalaeloa Airport,US,US-HI,21.3074,-158.070009,medium_airport,0,20,False
+KOA,Ellison Onizuka Kona International At Keahole Airport,US,US-HI,19.738783,-156.045603,medium_airport,2338,20,False
+LIH,Lihue Airport,US,US-HI,21.97599983215332,-159.33900451660156,medium_airport,2072,20,False
+LUP,Kalaupapa Airport,US,US-HI,21.21100044,-156.973999,small_airport,0,10,False
+MKK,Molokai Airport,US,US-HI,21.15290069580078,-157.0959930419922,medium_airport,0,20,False
+MUE,Waimea Kohala Airport,US,US-HI,20.001300811767578,-155.66799926757812,medium_airport,0,20,False
+NGF,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,US,US-HI,21.4505004883,-157.768005371,medium_airport,0,20,False
+HNL,Daniel K Inouye International Airport,US,US-HI,21.32062,-157.924228,large_airport,8534,30,False
+LNY,Lanai Airport,US,US-HI,20.785600662231445,-156.9510040283203,medium_airport,0,20,False
+OGG,Kahului Airport,US,US-HI,20.8986,-156.429993,medium_airport,4383,20,False
+PAK,Port Allen Airport,US,US-HI,21.896900177,-159.602996826,small_airport,0,10,False
+BSF,Bradshaw Army Airfield,US,US-HI,19.760099411,-155.554000854,medium_airport,0,20,False
+ITO,Hilo International Airport,US,US-HI,19.721399307250977,-155.04800415039062,medium_airport,1004,20,False
+UPP,Upolu Airport,US,US-HI,20.265300750732422,-155.86000061035156,medium_airport,0,20,False
+PIZ,Point Lay LRRS Airport,US,US-AK,69.73290253,-163.0050049,medium_airport,0,20,False
+RDV,Red Devil Airport,US,US-AK,61.7881011963,-157.350006104,small_airport,0,10,False
+RMP,Rampart Airport,US,US-AK,65.507896,-150.141007,small_airport,0,10,False
+LPS,Lopez Island Airport,US,US-WA,48.4838981628418,-122.93800354003906,small_airport,0,10,False
+SAS,Salton Sea Airport,US,US-CA,33.2414016724,-115.952003479,small_airport,0,10,True
+SRV,Stony River 2 Airport,US,US-AK,61.7896995544,-156.589004517,small_airport,0,10,False
+SVS,Stevens Village Airport,US,US-AK,66.0172,-149.0545,small_airport,0,10,False
+SXP,Nunam Iqua Airport,US,US-AK,62.520599,-164.848006,small_airport,0,10,False
+SYB,Seal Bay Seaplane Base,US,US-AK,58.3733,-152.2018,small_airport,0,10,False
+SYN,Stanton Airfield,US,US-MN,44.475498199499995,-93.0162963867,small_airport,0,10,False
+SZN,Santa Cruz Island Airport,US,US-CA,34.0606002808,-119.915000916,small_airport,0,10,True
+SZP,Santa Paula Airport,US,US-CA,34.34719849,-119.060997,small_airport,0,10,True
+TCT,Takotna Airport,US,US-AK,62.993206,-156.029026,small_airport,0,10,False
+TLT,Tuluksak Airport,US,US-AK,61.096801757799994,-160.968994141,small_airport,0,10,False
+PTA,Port Alsworth Airport,US,US-AK,60.201681,-154.325863,small_airport,0,10,False
+TSG,Tanacross Airport,US,US-AK,63.374401092499994,-143.335998535,small_airport,0,10,False
+TYE,Tyonek Airport,US,US-AK,61.076698303223,-151.13800048828,small_airport,0,10,False
+DBS,Dubois Municipal Airport,US,US-ID,44.1665992737,-112.225997925,small_airport,0,10,False
+UGB,Ugashik Bay Airport,US,US-AK,57.4253997803,-157.740005493,small_airport,0,10,False
+RTL,Spirit Lake Municipal Airport,US,US-IA,43.387500762939,-95.139198303223,small_airport,0,10,False
+GMV,Monument Valley Airport,US,US-UT,37.016700744599994,-110.200996399,small_airport,0,10,True
+RCE,Roche Harbor Airport,US,US-WA,48.6123008728,-123.138999939,small_airport,0,10,False
+WBB,Stebbins Airport,US,US-AK,63.5159988403,-162.277999878,small_airport,0,10,False
+WEA,Parker County Airport,US,US-TX,32.7462997437,-97.6824035645,small_airport,0,10,True
+DTR,Decatur Shores Airport,US,US-WA,48.499801635699995,-122.814002991,small_airport,0,10,False
+WSM,Wiseman Airport,US,US-AK,67.4046020508,-150.123001099,small_airport,0,10,False
+GWV,Glendale Fokker Field,US,US-WV,39.948699951200005,-80.7594985962,small_airport,0,10,False
+UKN,Waukon Municipal Airport,US,US-IA,43.280498504639,-91.469497680664,small_airport,0,10,False
+KKI,Akiachak Airport,US,US-AK,60.904800415039,-161.42199707031,small_airport,0,10,False
+BCC,Bear Creek 3 Airport,US,US-AK,63.5733160384,-156.149454117,small_airport,0,10,False
+KBC,Birch Creek Airport,US,US-AK,66.2740020752,-145.824005127,small_airport,0,10,False
+CZC,Copper Center 2 Airport,US,US-AK,61.9412002563,-145.294006348,small_airport,0,10,False
+ZNC,Nyac Airport,US,US-AK,60.9807014465,-159.994003296,small_airport,0,10,False
