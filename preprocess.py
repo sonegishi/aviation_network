@@ -35,7 +35,7 @@ from collections import defaultdict
 
 # + colab={} colab_type="code" id="B4M1gTCr5-LO"
 airport_cols = ['type', 'name', 'iso_country', 'iso_region', 'iata_code', 'coordinates']
-airport_df = pd.read_csv('./airport-codes.csv', header=0, usecols=airport_cols)
+airport_df = pd.read_csv('./raw_data/airport-codes.csv', header=0, usecols=airport_cols)
 
 airport_col_names = ['facility_type', 'name', 'country', 'region', 'iata', 'coordinates']
 airport_df.columns = airport_col_names
@@ -63,14 +63,14 @@ airport_map_data = airport_df[['name', 'latitude', 'longitude', 'facility_type']
 airport_map.add_data(data=airport_map_data[airport_map_data.facility_type == 'large_airport'], name='large_airports')
 airport_map.add_data(data=airport_map_data[airport_map_data.facility_type == 'medium_airport'], name='medium_airports')
 airport_map.add_data(data=airport_map_data[airport_map_data.facility_type == 'small_airport'], name='small_airports')
-airport_map.save_to_html(file_name='airport_map.html')
+airport_map.save_to_html(file_name='./visualization/airport_map.html')
 # airport_map
 
 # + [markdown] colab_type="text" id="uJf8Ce225-LY"
 # ## 2. Get flight info
 
 # + colab={"base_uri": "https://localhost:8080/", "height": 0} colab_type="code" executionInfo={"elapsed": 39951, "status": "ok", "timestamp": 1574653721974, "user": {"displayName": "So Negishi", "photoUrl": "", "userId": "14957100293746809516"}, "user_tz": 300} id="IN6ZY7qS5-LY" outputId="9b70a9cf-0857-4370-f401-d81fc28e2bbb"
-flight_df = pd.read_csv('266694930_T_ONTIME_REPORTING.csv', header=0)
+flight_df = pd.read_csv('./raw_data/266694930_T_ONTIME_REPORTING.csv', header=0)
 flight_df.columns = [col.lower() for col in flight_df.columns.tolist()]
 
 # + colab={"base_uri": "https://localhost:8080/", "height": 0} colab_type="code" executionInfo={"elapsed": 41216, "status": "ok", "timestamp": 1574653723243, "user": {"displayName": "So Negishi", "photoUrl": "", "userId": "14957100293746809516"}, "user_tz": 300} id="y-u1C4OX5-La" outputId="88c5f28a-777f-4998-8550-92ff5234d177"
@@ -97,7 +97,7 @@ unique_flights_list[:10]
 # + colab={} colab_type="code" id="EopqeHrO5-Lf"
 edges_df_columns = ['origin', 'dest', 'num_of_flights']
 edges_df = pd.DataFrame(unique_flights_list, columns=edges_df_columns)
-edges_df.to_csv('edges.csv', index=False)
+edges_df.to_csv('./processed_data/edges.csv', index=False)
 
 # + colab={"base_uri": "https://localhost:8080/", "height": 419} colab_type="code" executionInfo={"elapsed": 42477, "status": "ok", "timestamp": 1574653724518, "user": {"displayName": "So Negishi", "photoUrl": "", "userId": "14957100293746809516"}, "user_tz": 300} id="_-c4WTRD5-Lg" outputId="744efa96-39e3-41f8-b675-72a4592d4467"
 edges_df
@@ -144,7 +144,7 @@ airport_df.describe()
 
 # + colab={} colab_type="code" id="pZR_-GQQ-tZ7"
 airport_df = airport_df[['iata', 'name', 'country', 'region', 'latitude', 'longitude', 'facility_type', 'init_capacity', 'security_level', 'in_charge']]
-airport_df.to_csv('vertices.csv', index=False)
+airport_df.to_csv('./processed_data/vertices.csv', index=False)
 
 # + colab={"base_uri": "https://localhost:8080/", "height": 419} colab_type="code" executionInfo={"elapsed": 43745, "status": "ok", "timestamp": 1574653725803, "user": {"displayName": "So Negishi", "photoUrl": "", "userId": "14957100293746809516"}, "user_tz": 300} id="RaM_eT0JEoAT" outputId="c330d397-8fbb-493c-9fe0-610ef89236af"
 airport_df

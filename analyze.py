@@ -32,7 +32,7 @@ from aviation_network import AviationNetwork
 
 # ## Import data
 
-vertices_df = pd.read_csv('./vertices.csv', header=0)
+vertices_df = pd.read_csv('./processed_data/vertices.csv', header=0)
 print(vertices_df.shape)
 vertices_df = vertices_df[
     (vertices_df.in_charge) &
@@ -41,7 +41,7 @@ vertices_df = vertices_df[
 print(vertices_df.shape)
 vertices_df.tail(5)
 
-edges_df = pd.read_csv('./edges.csv', header=0)
+edges_df = pd.read_csv('./processed_data/edges.csv', header=0)
 print(edges_df.shape)
 unique_airport_list = vertices_df.iata.unique()
 edges_df = edges_df[(edges_df.origin.isin(unique_airport_list)) & (edges_df.dest.isin(unique_airport_list))]
@@ -51,7 +51,7 @@ edges_df.tail(5)
 # ## Export a map
 
 aviation_map = AviationMap(vertices_df, edges_df)
-aviation_map.create_map(filename='ns_flight_map')
+aviation_map.create_map(filename='./visualization/ns_flight_map')
 
 # ## Solve the maximum flow problem
 
