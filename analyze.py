@@ -16,12 +16,12 @@
 __author__ = 'So Negishi'
 __copyright__ = 'Copyright 2019, So Negishi'
 __license__ = 'GPL'
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 __maintainer__ = 'So Negishi'
 __email__ = 'sonegishi_2020@depauw.edu'
 __status__ = 'Development'
 
- #!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import os
 import pandas as pd
@@ -57,7 +57,3 @@ aviation_map.create_map(filename='./visualization/ns_flight_map')
 
 aviation_network = AviationNetwork(vertices_df)
 results = aviation_network.compute_min_max_flow(max_attacks=15, max_attack_per_airport=1)
-
-results
-
-
